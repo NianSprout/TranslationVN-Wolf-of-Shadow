@@ -20,23 +20,23 @@
 20	Luna	Chỉ là em không ngờ tiền bối Yukimura lại có thể tự mình xử lý nhiều kẻ địch đến vậy.
 21	Yukimura	Hehe, đừng nói vậy chứ. Chị vẫn tập luyện đều đặn mà.
 22	Yukimura	Khụ, nhưng tất nhiên là vẫn chưa thể nào bằng được em rồi… ahaha!
-23	Luna	Mà, sao tiền bối Yukimura lại ở đây vậy?
+23	Luna	Mà sao tiền bối Yukimura lại ở đây vậy?
 24	Luna	Đây vốn là nhiệm vụ của Luna mà?
 25	Yukimura	Ôi dào, đừng để ý mấy chuyện nhỏ nhặt đó chứ.
 26	Yukimura	Đôi lúc chăm sóc hậu bối cũng là nghĩa vụ của một tiền bối mà!
 27	Luna	Hmm… em cảm giác còn có lý do khác nữa cơ.
-28	Yukimura	Anyways, back to the main point! Do you wanna know how I did it? How I took out all these enemies? Hmm?
-29	Luna	Slashed them down one by one?
-30	Yukimura	That would’ve been too much… Actually, I used a special technique.
+28	Yukimura	Mà thôi, quay lại chuyện chính nào! Em có muốn biết chị đã làm thế nào không? Làm sao chị hạ được từng này kẻ địch ấy? Hmm?
+29	Luna	Chém hạ từng tên một phải không?
+30	Yukimura	Làm thế thì cực quá... Thực ra, chị đã dùng một loại kỹ thuật đặc biệt chút.
 31	Luna	???
-32	Yukimura	What's with that look on your face?
-33	Luna	Isn’t it just assassination techniques? I’ve already learned those, you don’t need to teach me!
-34	Yukimura	No no, not that outdated stuff!
-35	Luna	It’s not?
-36	Yukimura	Of course not.
-37	Yukimura	Ha, you really don’t know, huh? Looks like the great Yukimura-senpai has to show you the way!
-38	Luna	Quit teasing and just tell me already, oh great Senpai.
-39	Yukimura	Ahem, listen up.
+32	Yukimura	Cái vẻ mặt đó là sao thế?
+33	Luna	Chẳng phải chỉ là kỹ thuật ám sát thôi sao? Em đã học rồi mà, không cần chị dạy đâu!
+34	Yukimura	Không không, không phải mấy thứ lỗi thời đó đâu!
+35	Luna	Không phải à?
+36	Yukimura	Tất nhiên là không rồi.
+37	Yukimura	Ha, đúng là em không biết thật nhỉ? Xem ra phải để cho tiền bối Yukimura vĩ đại đây phải chỉ đường cho em rồi!
+38	Luna	Đừng có chọc nữa mà, nhanh nói cho em biết đi, tiền bối vĩ đại.
+39	Yukimura	E hèm, nghe này.
 40	Yukimura	You have to use the right method at the right time… in other words—seduction!
 41	Yukimura	Then, when they let their guard down—finish them in one strike!
 42	Yukimura	It's called, "the Exhibition Jutsu!"

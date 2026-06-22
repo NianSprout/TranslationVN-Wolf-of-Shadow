@@ -1,0 +1,1334 @@
+1	Tutorial	Watch out for enemy field of vision. Enemy's field of vision can be blocked by obstacles
+2	Tutorial	Use the \c[1]A\c[0] key to lock onto enemies.
+3	Tutorial	Press \c[1]W\c[0] to use Smoke Bomb
+4	Tutorial	\c[1]Button: S\c[0] to aim
+5	Tutorial	\c[1]Button: Z\c[0] to attack
+6	Tutorial	\c[1]Button: C\c[0] to quick cast
+7	Tutorial	\c[17]Switch Skill：Space + S
+8	Tutorial	Press \c[1]Q\c[0] to use Item
+9	Tutorial	\c[1]Key Space + Q\c[0]: Switch item
+10	Tutorial	Health potions will be \c[18]replenished\c[0] after each rest.
+11		
+12	Luna	Trước khi vào rừng thì mình nên nghỉ ngơi một chút trước đã…
+13	Luna	That silhouette just now…?
+14	
+15	Yukimura	Hey~ Luna! Over here!
+16	Luna	Ah, Yukimura-senpai? What are you doing here?
+17	Yukimura	Well, a lot happened. Look, all these guys—I took care of them.
+18	Luna	Whoa, that's amazing!
+19	Luna	Actually, I kinda figured.
+20	Luna	I just didn’t expect Yukimura-senpai to handle so many enemies all by herself.
+21	Yukimura	Hehe, don’t say that. I do train regularly, you know.
+22	Yukimura	Ahem, though I’m still nowhere near your level, of course… ahaha!
+23	Luna	So, why is Yukimura-senpai here?
+24	Luna	Isn’t this Luna’s mission?
+25	Yukimura	Oh come on, don’t worry about the little details.
+26	Yukimura	Sometimes, looking after your juniors is part of being a Senpai!
+27	Luna	Hmm… I feel like there’s another reason.
+28	Yukimura	Anyways, back to the main point! Do you wanna know how I did it? How I took out all these enemies? Hmm?
+29	Luna	Slashed them down one by one?
+30	Yukimura	That would’ve been too much… Actually, I used a special technique.
+31	Luna	???
+32	Yukimura	What's with that look on your face?
+33	Luna	Isn’t it just assassination techniques? I’ve already learned those, you don’t need to teach me!
+34	Yukimura	No no, not that outdated stuff!
+35	Luna	It’s not?
+36	Yukimura	Of course not.
+37	Yukimura	Ha, you really don’t know, huh? Looks like the great Yukimura-senpai has to show you the way!
+38	Luna	Quit teasing and just tell me already, oh great Senpai.
+39	Yukimura	Ahem, listen up.
+40	Yukimura	You have to use the right method at the right time… in other words—seduction!
+41	Yukimura	Then, when they let their guard down—finish them in one strike!
+42	Yukimura	It's called, "the Exhibition Jutsu!"
+43	Luna	Se—sedu—seduction?!
+44	Yukimura	That’s right.
+45	Yukimura	Bare your body, tempt the target, and make them drop their guard. That’s what we call a woman’s weapon.
+46	Yukimura	Besides, our assassination organization taught us that too, did they not?
+47	Luna	…That was only as a last resort! And only if we got caught accidentally—no one said anything about actual exposure…
+48	Yukimura	Isn’t it all the same? It’s still seduction either way.
+49	Luna	That’s… not quite the same, is it?
+50	Yukimura	It’s totally the same. It’s not like you’ll lose a piece of yourself just because someone sees you.
+51	Luna	But… it’s embarrassing…
+52	Yukimura	Cast away your shame Luna! Don’t forget, the order taught us to do whatever it takes to accomplish our mission!
+53	Yukimura	If it works, why not use it? It’s a waste otherwise! A waste of those big ol’ honkin’ boobs of yours!
+54	Luna	…Please don’t call them “big ol’ honkin’ boobs”!
+55	Yukimura	Come on now, take it from your great senpai! A secret art passed down through the organization—everyone who’s tried it, swears by it!
+56	Luna	But…
+57	Yukimura	Hmm, maybe it is too bold for someone like you, Luna?
+58	Yukimura	The great Yukimura-senpai won’t force you. However, if you ever want to learn, just come find me… I’ll be around for a while.
+59	Luna	Mmm…
+60		
+61	Yukimura	So... have you made up your mind?
+62	Prompt	Learning the "Exhibition Jutsu," from Yukimura will unlock all R18 content.
+63	Luna	Umm… then… could you teach me?
+64	Yukimura	That’s the spirit!
+65	Yukimura	Having a great body and not putting it to use, that would be a crime. Especially you, Luna… alrighty then, follow me.
+66	Yukimura	See that soldier up ahead? Before he starts chasing you, all you have to do is this…
+67	Luna	W-Whoa?! Why are you lifting up your shirt all of a sudden?!
+68	Yukimura	Shhh. This is just a demonstration… you just need to show him your chest like this.
+69	Luna	…I have to show my chest!?
+70	Yukimura	Of course! Though maybe going fully bare right away is a bit much for you. Just lift and push them up a little—it’s plenty, considering how big they are.
+71	Luna	O-okay… I got it.
+72	Yukimura	Next, if you don’t want to get groped… strike while he’s approaching you!
+73	Tutorial	Hold the E key to use Exposure Art.
+74	Tutorial	Performing an Exhibition on an enemy will attract their attention and draw them closer. If you attack them while they're approaching, you'll deal double damage.
+75	Tutorial	Enemies already attacked by Luna cannot be lured again. (Resets after resting.)
+76		
+77	Yukimura	Nicely done, Luna!
+78	Yukimura	Although… were you letting him grope you on purpose just now? You had a perfect chance to strike, didn’t you?
+79	Luna	I, uh…
+80	Yukimura	Hehe, no need to explain. I get it!
+81	Luna	That’s not it! I mean…
+82	Yukimura	Just be careful, alright? If an enemy catches you, they might do all sorts of indecent things to you… You wouldn’t want some sweaty, stinky human taking your virginity, would you?
+83	Yukimura	Hmm… Then again, that’s still probably better than a monster taking it, ahahaha.
+84	Luna	……
+85	Yukimura	Oh right—Luna, you're still a virgin, right?
+86	Luna	Mmm…
+87	Yukimura	Hehe… if I had the right equipment, I’d totally ravish you right now… You adorable little thing, heheh…
+88	Luna	W-Wah! Don’t touch me there!
+89		
+90	Yukimura	Speaking of which… I heard Senpai Lati is around too?
+91	Luna	Yeah, that’s right.
+92	Luna	She’s been helping me clean up the corpses of the enemies I’ve taken out.
+93	Yukimura	Wow, that’s pretty nice of her—really looking out for her junior.
+94	Yukimura	She didn’t help at all during my trial, though. I got captured and it took her three whole days to come save me…
+95	Yukimura	Sniff sniff… She waited until I’d been XXX’d into delirium before showing up! So cruel!
+96	Yukimura	I was such a pure, innocent girl back then…
+97	Yukimura	Boohoo…
+98	Luna	……
+99	Luna	I remember Lati said you totally brought that on yourself.
+100	Yukimura	Oh that? Haha… I may have slipped up a little…
+101	Yukimura	Anyway! Let’s change the subject. Up ahead, there’s a hidden cave in the mountain.
+102	Yukimura	Your great senpai has already scouted it out. No one ever goes in there—it’s the perfect resting spot.
+103	Luna	Already been there. Lati-senpai is there too.
+104	Yukimura	Huh? She’s nearby? …Hmm, I’ve got some things to take care of, so I’ll be heading off now!
+105		
+106	Tutorial	Hold V to open the menu.
+107		
+108		
+109		
+110	Luna	Lati-senpai!
+111	Lati	Luna.
+112	Luna	What are you doing here? Weren't you on another mission?
+113	Lati	The mission is complete. I stopped by to check on you.
+114	Luna	Huh? Could it be… you're worried about me, Lati-senpai?
+115	Lati	…This is your final trial. You need to take it seriously.
+116	Luna	Hehe, I will.
+117	Lati	Your mission is to investigate the Imperial Army's movements and assassinate the supreme commander of the Third Legion… The Legion Commander is a Flame Knight. You're strong enough now to defeat him.
+118	Lati	You can choose either to stealth or assault… that’s your choice.
+119	Lati	A frontal assault is your specialty, but if the enemy numbers are overwhelming, don’t act recklessly.
+120	Lati	... I'll assist you from the shadows, when necessary.
+121	Luna	Really? Um… wouldn’t that count as cheating?
+122	Lati	A little help doesn’t hurt.
+123	Luna	Is that so?
+124	Lati	Mm. Don’t tell the others.
+125	Luna	Got it! I won’t tell a soul!
+126	Lati	Behind me is the magical mechanism that opens the Shadow Crevice. It connects to our temporary base in a pocket dimension—you’ll need to use it.
+127	Lati	Do your best. Don’t let me down.
+128	Lati	Now go on—keep moving.
+129		
+130	Lati	This place is called the Mist Forest, because the thick, sun-blocking fog here never dissipates.
+131	Lati	The fog contains magical particles of unknown origin, which leads to the constant birth of monsters—and the emergence of stronger ones.
+132	Lati	The Slime King you encountered earlier is one of the powerful monsters born from the mist.
+133	Lati	Even if you kill it, another will eventually be born.
+134	Lati	The weak slimes are endlessly spawned by the fog as well… they can’t be wiped out completely.
+135		
+136	Lati	This place is also known as the Forest of Ruins—as you can imagine…
+137	Lati	The fog might be connected to the ancient godly ruins. Perhaps there are secrets to uncover here.
+138	Luna	If the fog is filled with magic particles, wouldn’t that make magic stronger here?
+139	Lati	Of course. That’s why you need to be careful when facing the Flame Knight.
+140	Lati	Unfortunately for us, the mist doesn't do much good. Our power comes from the moon, not from magic… and as beastkin, we’re unable to use magic.
+141		
+142	Lati	Here, you can learn some new powers.
+143	Lati	But... it will come at a cost.
+144	Lati	Here, you can acquire skills, enhance your strength and physique—but you must pay a price.
+145	Luna	A price?
+146	Lati	Souls of the living. When you kill your enemies, you can obtain them.
+147	Lati	The more soul of life you gather and offer here, the more power you can gain.
+148	Lati	Remember, show no mercy.
+149		
+150	K	Luna, hello. I’m the examiner overseeing your final trial. From now on, every action you take will be recorded by me and reviewed by the organization.
+151	Luna	Huh? Every action?
+152	K	Yes, every single one.
+153	Luna	T-That’s a bit...
+154	K	No need to be nervous. As long as you complete the mission, you'll pass. The behavior log is just a reference for your future assignments.
+155	K	As for... ahem, as for senior Lati’s voluntary assistance, I’ll make an exception and not report it… I wasn’t threatened, please don’t misunderstand.
+156	Luna	I-Is that so?
+157	K	Yes.
+158	K	Please don’t question my qualifications as an examiner.
+159	K	Now back to the point. Luna, your mission is to kill the commander of the Empire’s Third Legion. Any means necessary. Do you have any questions?
+160	Luna	May I ask—what is the Third Legion?
+161	K	The Empire’s Third Legion is a flanking unit. From what we know, their task is to support and ambush. Our employer clearly doesn’t want their advance to go smoothly.
+162	K	Your primary mission is to kill their commander. That should greatly slow them down.
+163	K	And to some extent, it’ll also cause chaos—which I hear is something you’re quite good at.
+164	Luna	I will complete the mission.
+165	K	Good. I’ll leave it to you.
+166	K	The commander of the Third Legion is a Flame Knight—formidable. You might want to gather intel on him first.
+167	K	Oh, and you may need money during this mission. Gold coins—the currency used by humans. I provide a service here where you can exchange Life Souls for gold coins. The rate is 1:1.
+168	K	…Though you can exchange Life Souls for gold, you can’t exchange gold back for Life Souls. So don’t get any ideas.
+169	Luna	Hey... I wasn’t thinking that at all.
+170	K	…Right, of course you wouldn’t. I must’ve confused you with that pink one.
+171	Luna	Pink one?
+172	K	Not important.
+173	Luna	What can I use gold coins for?
+174	K	Who knows? Maybe to bribe the enemy? Don’t ask me about every little thing.
+175	Luna	…Alright then.
+176		
+177		
+178		
+179		
+180	037	Miss Luna, I’m the assistant assigned to support your current mission. My designation is 037, and I’ll be handling your logistics.
+181	Luna	Logistics? Hmm… then, what exactly can you help me with?
+182	037	You can purchase equipment and items from me.
+183	Luna	What?! New weapons?!
+184	037	Uh, not for now...
+185	037	Due to the difficulty level of this mission, the organization only permits you to buy the most basic supplies.
+186	Luna	Hmm, so just these?
+187	037	I’m sorry. This is all that I'm allowed to sell for now…
+188		
+189	037	Here to buy supplies?
+190	037	Miss Luna, your clothes… are you hurt?
+191	Luna	Ah, it’s nothing. Please… don’t stare at me like that…
+192	037	R-Right! I’ll close my eyes!
+193		
+194	Luna	(He’s been staring at me this whole time…)
+195	037	Ahem, Miss Luna, is there anything you need to buy?
+196	037	Ah, actually, I have a suggestion—that is, if you don’t mind.
+197	Luna	Hmm? What is it?
+198	037	I could help you repair your clothes. For free.
+199	Luna	Really? That'll be great!
+200	037	Leave it to me!
+201	037	(Yes! Now I can justifiably get Miss Luna to take off her clothes…)
+202	Luna	Hmm…?
+203	Luna	(Why does it feel like he has ulterior motives…?)
+204	037	So, if you ever need it, come find me… or do you want it done right now?
+205	Luna	……
+206	037	Here to buy supplies? Or… need help fixing your clothes?
+207		
+208	037	Miss Luna! Great news. Thanks to Miss Yukimura’s unexpected haul, I can now sell magic scrolls here.
+209	Luna	Huh? Wasn’t that loot something both Yukimura and I brought back from the castle?
+210	037	Really? …Hmm, I’m not too sure. Maybe Miss Yukimura forgot to mention that part.
+211	Luna	Huh… Why do I have to buy my own loot?!
+212	037	Umm…
+213	037	I’m terribly sorry. Miss Yukimura sold them to me just now… I even had to pay a huge sum…
+214	Luna	Eh?! How could she!
+215	037	I’m really sorry… Maybe you should talk to Miss Yukimura about it...?
+216	Luna	Uuuu... this is so unfair!!
+217		
+218		It's too far away—I can't jump across.
+219		If only the tracks could be fixed...
+220	Luna	Lati-senpai?
+221	Lati	Luna.
+222	Lati	Look over there—that’s a trace of an ancient god.
+223	Lati	I didn’t expect to find a ruin like this in such a random abandoned mining area.
+224	Luna	Ancient god?
+225	Lati	This world was once ruled by the old gods. Ruins like this can be found in many places. Of course, the Empire doesn’t care about dead gods, so they trample through without restraint.
+226	Lati	It seems they were collecting crystal ore here.
+227	Lati	Though for some reason, they ended up abandoning it.
+228	Lati	Watch out for slimes...
+229	Lati	Those things can get into places you wouldn't imagine.
+230	Luna	Ughhhh...
+231	Lati	Hmm? You’re not sure how to fix the rails?
+232	Lati	There’s another mine cart over there. You’ll need it.
+233	Lati	If the cart isn’t going in the direction you want, then block off the direction it shouldn't go.
+234		
+235		It’s locked.
+236		A heavy stone wall…
+237	Luna	Ugh… It’s not budging at all.
+238		Pushing it further seems useless.
+239		Can’t open it from this side.
+240		Seems to be jammed.
+241		A mysterious force flows in… The position of the stone sphere has been reset.
+242		A distant rumble—the sound of a stone gate shifting...
+243		
+244	Yukimura	Shh! Keep your voice down.
+245	Luna	Yukimura-senpai?!
+246	Luna	What are you doing here?!
+247	Yukimura	Shhh! Keep your voice down...
+248	Yukimura	No one followed you, right?
+249	Luna	Don’t worry, I took care of the enemy on the way.
+250	Yukimura	Oh, good… what a relief.
+251	Luna	……
+252		
+253	Luna	Uwah… Yukimura-senpai, are you okay?
+254	Yukimura	Ughhh...
+255	Yukimura	Sorry, Luna… You’ve now witnessed your great senpai in one of her most embarrassing moments.
+256	Yukimura	I never imagined my flawless original technique, the “Barrel Escape Jutsu,” would be seen through so easily... And now my butt’s sore... Though I must admit, there’s a certain strange comfort to it... But still, not a good position for my butt...
+257	Yukimura	And that soldier earlier was so rough! Not that I completely hated it, hehe.
+258	Luna	………………
+259		
+260	Yukimura	Come on, hiding in a barrel is actually a very useful technique!
+261	Yukimura	Wanna give it a try, Luna?
+262	Luna	No thanks!
+263	Yukimura	Aww, thats' too bad. I even brought a spare barrel just for you.
+264	Luna	Why would you even prepare something like that…
+265	Yukimura	Ahem… Anyway, if you hadn’t shown up when you did, I would've been caught again!
+266	Luna	Again???
+267	Yukimura	Hehe… Sometimes luck just isn’t on my side…
+268	Yukimura	In any case, thanks a ton, Luna!
+269		
+270	Yukimura	Oh right, Luna, you’ve gotten quite familiar with the Exhibition Jutsu by now, haven’t you?
+271	Luna	Umm… not really…
+272	Luna	I’m still not very good at it...
+273		
+274	Hint	You need to raise your Exhibitionism Level to 2 before you can continue learning.
+275		
+276	Yukimura	I see—well, come see me again once you’ve got more experience.
+277	Yukimura	Next, I’ll teach you a slightly more advanced technique!
+278	Luna	Huh? There’s a more advanced version?
+279	Yukimura	Of course! As a woman, there are all sorts of advantages—if you know how to use your body properly…
+280	Luna	J-Just get to the point already…
+281	Yukimura	Alright, alright. Come here, let me explain—
+282	Luna	……
+283	Luna	T-That’s all I have to do...?
+284	Yukimura	Sure! You know, guys will do anything for a glimpse of your chest. Haha.
+285	Yukimura	But that’s just a simple trick. If you want to learn the more advanced stuff, not only will you need more Exhibition experience—you’ll also have to pass a little test of mine...
+286	Luna	Huh...? A test?
+287	Yukimura	Naturally. You can look forward to it—hehe.
+288	Luna	I am not looking forward to it!!
+289		
+290	Tutorial	Luna can now attempt to ask enemies for gold, items, or information while performing exhibition actions when touched. This may also briefly stop enemies from attacking.
+291	Tutorial	Different enemies have different success rates, and some may refuse. Repeated rejections may anger them.
+292	Tutorial	The higher Luna’s Exhibitionism Level, the higher her success rate.
+293		
+294		
+295	Yukimura	Hehe, you really are good at finding me.
+296	Yukimura	So, Luna, your mission this time is to take down the Flame Knight, right?
+297	Luna	“Take down”... It’s an assassination.
+298	Yukimura	Hahaha, it’s all the same for you. You think you can pull off a stealth kill like Lati-senpai, without anyone noticing?
+299	Luna	Uh… probably not.
+300	Yukimura	Exactly. Lati-senpai is on another level. You just need to focus on what you’re good at.
+301	Luna	Why do you all always say that…
+302	Yukimura	Alright, alright. Since you’re going to face that Flame Knight head-on anyway, how about I share a great idea with you?
+303	Luna	A great idea?
+304	Yukimura	Yep! I’ve got a brilliant plan to help you complete your mission with ease.
+305	Yukimura	Shhh… don’t let that examiner overhear us.
+306	Yukimura	Who knows if he’s hiding in some shadow...
+307	Yukimura	Come a little closer… that’s it…
+308	Yukimura	Hehe...
+309	Yukimura	I’ve learned that the Flame Knight—also the commander of the Third Legion—is named Krugmann. But his name’s not important.
+310	Yukimura	What’s important is, since Krugmann is a Flame Knight, he’s also a mage.
+311	Yukimura	Hehe, a mage. Anything come to mind?
+312	Luna	…Come to mind?
+313	Yukimura	That’s right! Mages are rich!
+314	Yukimura	There’s no doubt Krugmann is carrying loads of good stuff on him this time.
+315	Luna	……
+316	Yukimura	Ahem. The Third Legion specializes in ambush tactics, and most of them are elite units. To maximize gains, Krugmann surely packed tons of useful gear.
+317	Yukimura	Like gold… gold… and gold… Oops, I meant magic scrolls, of course!
+318	Yukimura	Magic scrolls are the most likely valuable item he’d bring.
+319	Luna	M-Magic scrolls?
+320	Yukimura	Yep, items that allow even non-mages to use magic.
+321	Yukimura	And we beastkin aren’t that different from common folks humans when it comes to magic, so we can use them too!
+322	Yukimura	If they’re scrolls Krugmann carries, they must be powerful. Maybe even ones that can take down a dragon in a single hit!
+323	Luna	Whoa, take down a dragon?! That powerful?!
+324	Yukimura	Uh… yes, just that powerful! …Probably.
+325	Yukimura	Anyway, if we can snatch a few scrolls, then when it’s time to face him, we can give him a taste of his own medicine!
+326	Yukimura	Boom! One shot and he’s done for! Hahaha.
+327	Luna	That’s clever… but would it really go that smoothly?
+328	Yukimura	Hmm... well, you never know unless you try, right? Have some faith in your senpai, Luna!
+329	Yukimura	As assassins, we have to make use of everything. Be smart, not just reckless... Ahem, I mean, charging straight in is a valid option too!
+330	Yukimura	Of course, if you’re confident you can kill him head-on, then forget I said anything.
+331	Luna	I’m confident!
+332	Luna	…Not really.
+333	Yukimura	Hehe, that’s our girl~ I knew you’d come around.
+334	Yukimura	See? Using a bit of cunning never hurts.
+335	Yukimura	So, if you want to join me for some lootin’—I mean, for preparations—come find me. I’ll be waiting right here.
+336	Yukimura	Your examiner might say it’s a shortcut, but results are what matter, right?
+337		
+338	Yukimura	Oh! So, have you decided?
+339	Luna	I’ve decided.
+340	Yukimura	Great, then let’s go over the plan.
+341	Yukimura	Hehe, I’ve already got it all thought out.
+342	Yukimura	First, we gather intel. We need to find out where those magic scrolls are stashed.
+343	Yukimura	Don’t worry, my instincts are always right. There’s no way a flame mage like Krugmann wouldn’t carry tons of scrolls. No mage can resist the thrill of unleashing a firestorm!
+344	Luna	That sounds like some kind of weird fetish…
+345	Yukimura	Anyway, I’ve already got a few interrogation targets lined up. Once I get the location, I’ll come find you, Luna.
+346	Luna	Huh? I don’t need to do anything?
+347	Yukimura	Oh right, I almost forgot. You’re a qualified assassin now, aren’t you? This part’s all yours.
+348	Luna	Huh? What do you mean?
+349	Yukimura	One of the tougher enemies is a Third Legion officer. He probably knows something. Your job is to pry the information from him.
+350	Yukimura	Use any method… You know what I mean, right?
+351	Luna	Torture? Threats?
+352	Yukimura	…Seduction, of course. You haven’t forgotten what I taught you, have you?
+353	Luna	Ugh... t-that…
+354	Luna	I-I’m not that good at this yet…
+355	Yukimura	You’ve got this! Just remember the tips I showed you!
+356	Luna	Ugh…
+357	Yukimura	I’ve already arranged the meeting. Hehe, used a few tricks.
+358	Yukimura	Just go and get the info out of him.
+359	Yukimura	Now go on—I’ll be waiting for your good news!
+360		
+361	Luna	Yukimura-senpai, where is this guy?
+362	Yukimura	He’s waiting in a hidden forest path. Just head northwest from here—Go past the camp, find a trail into the woods, and you’ll find him there.
+363	Yukimura	He should already be waiting for you! Now go!
+364	Officer	Halt. Who are you?
+365	Officer	Who are you? I heard someone was looking for me—was that you?
+366	Officer	...Hmph, an assassin. So, you're the rat that snuck in?
+367	Officer	No, looking at those ears and tail... calling you a stray mutt seems more fitting.
+368	Luna	That's not right, I'm a wolf, not a stray dog!
+369	Officer	Oh? Are you angry now? Whether a stray dog or a wolf, it's all the same. To us Imperials, filthy beastkin are no different from animals... Only humans are the rightful rulers of this world.
+370	Luna	Hmph... I'm not here to argue with you about that.
+371	Officer	I know. You're an assassin sent by the kingdom, aren't you? You're not working alone, are you? I've heard about your kind...
+372	Officer	And your target is Commander Krugmann, isn't it?
+373	Officer	But aren't you overestimating yourselves? Sending a woman, thinking she can defeat the Flame Knight—the one who stands at the top of our Empire? That's the funniest joke I've heard all year.
+374	Luna	This has nothing to do with you...
+375	Luna	I just heard... that you might have information I need. That's why I came.
+376	Officer	Oh, you're not wrong.
+377	Officer	Even if we're enemies, that doesn't mean we can't make a little deal or two.
+378	Officer	Traveling all this way has been boring—I hope you'll bring me some entertainment.
+379	Officer	So, tell me, what do you want to know?
+380	Luna	...Magic scrolls. Do you know where they are?
+381	Officer	Magic scrolls?
+382	Officer	What do you need magic scrolls for? Oh... planning to use them against Commander Krugmann?
+383	Officer	Hmm, that might work. But it probably won’t be nearly enough.
+384	Luna	That’s not your concern... just tell me where I can find them.
+385	Officer	Of course, but no need to rush.
+386	Officer	Before I tell you, you should show some sincerity. I won’t just give you the answer for free—that’s not how things work.
+387	Officer	Money... or something else. Whatever value you can offer, I’ll consider it.
+388		
+389		Pay 500 gold
+390		Attempt to seduce
+391		Threaten (Battle)
+392		
+393	Officer	Money doesn’t mean much to me, but at least you’ve shown some sincerity. I accept.
+394	Officer	Still... this doesn’t look like quite enough, my cute little beastkin lady.
+395		
+396	Luna	You’re the enemy. I’m not giving you a single coin.
+397	Officer	Oh? You want to fight?
+398	Luna	Tell me where the magic scrolls are, or I’ll—
+399	Officer	Tch... do you not understand how the game is played? What a buzzkill.
+400	Officer	Did you really think I came to meet you alone without any preparation?
+401	Officer	Tch... Didn’t think you’d be this strong.
+402	Luna	Now, talk!
+403	Officer	Alright, alright. Calm down. I surrender. I’ll tell you everything you want to know.
+404	Officer	Although it is a shame the deal cannot be completed, this is fine too. Having one more little pup by my side is not a bad option.
+405	Luna	(...No... This is too humiliating. I can’t...)
+406	Luna	(...Senpai Yukimura said seduction is a valid tactic... Maybe Luna can give it a try...)
+407	Luna	Then... would this... be acceptable as payment?
+408	Officer	... (His gaze swept over Luna’s body.)
+409	Officer	Hmph. Among the lowly beastkin, you do have a decent body.
+410	Officer	Very well. Since you’re offering your body, allow me to inspect the goods.
+411	Officer	Nice size... and the texture feels good too... mm.
+412	Luna	Nn... g-gentler, please...
+413	Officer	A beastkin like you with such well-developed breasts... You’d be in high demand even within the Empire.
+414	Officer	Beastkin are strong, tireless, and maintain their looks longer than most. They’re prized slaves around the world. And yet the kingdom uses you as assassins? What a waste.
+415	Officer	But... surely you’re not just an assassin. You handle... other duties as well, right?
+416	Officer	Used as weapons in war, and at the same time, treated as sex slaves to vent primal urges... What a pitiful life.
+417	Officer	Haha... We Imperials would be more than happy to liberate you from those slavers.
+418	Officer	Well? How about coming with me?
+419	Luna	N-No need... Are we not done yet...?
+420	Officer	Ungrateful.
+421	Officer	Did you really think a little fondling would be the end? Now use your mouth.
+422	Luna	M-My... my mouth?!
+423	Luna	W-Wait a second! My mouth? What do you mean?!
+424	Officer	What? Is this your first time? You don’t even know how to do that?
+425	Officer	Open up. Then take it into your mouth.
+426	Luna	Ah... ahh... I’m supposed to eat this...?
+427	Luna	(...Wait, what?! I didn’t know I’d have to do something like this! Yukimura-senpai...!)
+428	Luna	Uuu...
+429	Luna	Um... Can I... change my method of payment...?
+430	Officer	Too late now. No backing out.
+431	Officer	Lick it. Take it in. Just be a good little puppy and do as you're told.
+432	Luna	B-But...!
+433	Luna	(...This... This is a man’s... The size of it...)
+434	Luna	(...Ugh, the smell is so strong...)
+435	Officer	Start from the tip. If you want the intel, you'd better lick like you mean it. Got it?
+436	Luna	O-Okay... I’ll... I’ll be serious about licking.
+437	Luna	Nn... starting from the tip...
+438	Luna	(...Salty... a bit of a foul odor... Doesn’t feel clean...)
+439	Luna	(...Do I really have to put this in my mouth...?)
+440	Luna	Guh...
+441	Officer	Yes, like that. You’ve got a talent for this.
+442	Luna	Gmm... chu... ha...
+443	Luna	(...Something came out... weird taste...)
+444	Luna	Guh... ha... chu...
+445	Officer	Keep going. Take it all in.
+446	Officer	As a weapon of the kingdom, I thought you'd at least be skilled at giving pleasure. But you're not. No worries—you’ll have plenty of chances to learn.
+447	Luna	Mmm...
+448	Luna	(...Because my combat grades were so high, they didn’t make me train for this much...)
+449	Luna	(...If I just kill all the enemies first, then I won’t need to sell my body...)
+450	Luna	Aah—!
+451	Officer	Good, deeper now.
+452	Luna	Gum... ham... chu... gugu... gulp...
+453	Officer	Very good... 
+454	Officer	You really are talented.
+455	Officer	A beastkin girl like you... being just an assassin is a waste. You should be learning how to comfort men.
+456	Officer	You should be like a little bitch wagging her tail every day, waiting at the door for her master, greeting us with your mouth—putting your obscene talents to full use.
+457	Luna	Ham... chu... gulp...
+458	Luna	(...His cock is getting even bigger...)
+459	Officer	You can go faster. Swallow it, deeper.
+460	Luna	Guh... ha... ha... hauu~!
+461	Officer	Yes, yes, just like that. That’s a good girl.
+462	Officer	Very obedient. You’re such a good girl.
+463	Luna	Guh... ha... gulp... gulp... huuh...
+464	Luna	Ah~ chu... chu...
+465	Officer	I’m about to finish... Hnn!
+466	Officer	It’s coming—catch it all!
+467	Luna	...Nn!
+468	Luna	(...It came out—he came!)
+469	Luna	Hah... haah...
+470	Luna	(...So thick... the smell is so strong... ugh, this is awful...)
+471	Luna	Cough—cough... My throat feels terrible...
+472		
+473	Luna	So now you’ll finally tell me the intel, right…?
+474	Officer	Hahaha, you did well. That was quite satisfying.
+475	Officer	There are no women in the army, so the guys don’t know how to relieve themselves. Some of the nastier ones even start using fruit or soaked bread as substitutes... Oh, and they don’t even spare slimes.
+476	Luna	……
+477	Luna	Don’t go off-topic!
+478		
+479	Officer	The thing you want—those magic scrolls—they’re in that ruined castle up ahead. Our Third Legion has made it their base.
+480	Officer	Commander Krugmann will be there too. He definitely keeps anything valuable close by... Like, say, leaving it right in the armory. No one would expect there to be thieves around here.
+481	Luna	...I’m not a thief... So that’s it?
+482	Officer	What else? You think he’d go out of his way to hide the scrolls?
+483	Officer	Other than petty thieves like you, no one would dare try to steal from that place.
+484	Luna	Ugh... I told you, I’m not a thief!
+485	Luna	(...This kind of intel... honestly, it wasn’t even worth that kind of trade...)
+486	Officer	I’m not finished. Don’t make that “not worth it” face just yet.
+487	Officer	Even if you find the place, you’ll need a key to get inside.
+488	Officer	And I know where the key is.
+489	Luna	Where?!
+490	Officer	Calm down, let me finish.
+491	Luna	Ugh...
+492	Luna	Don’t tell me you want...
+493	Luna	I-I’m still a virgin, you know...
+494	Officer	Heh, I’m not that unreasonable, little pup.
+495	Officer	The key is on the Chief Strategist. That bootlicker who follows the Commander around all day... Well, not all day, really.
+496	Officer	But if you want to know when he’ll be alone, you’ll have to do something for me.
+497	Luna	What is it?
+498	Officer	Take him out.
+499	Luna	Take him out?
+500	Officer	That’s right. This is my little extra request.
+501	Officer	You need the key from him. If you can get it, then taking him out should be no trouble at all, right?
+502	Luna	Hmm... I suppose that’s true.
+503	Officer	Good. When he’s not by the Commander’s side, he heads to a small cabin beside the castle.
+504	Officer	He’s a high-level mage, and every night he goes there to conduct his magical experiments... During that time, no one disturbs him.
+505	Officer	If you can get close, you’ll have a clear shot at him—but be careful. His magic is dangerous.
+506	Luna	Got it.
+507	Luna	...Thanks for the intel.
+508	Officer	Also, once he’s dead, come back and find me.
+509	Officer	Still here? Time’s ticking.
+510	Officer	Oh, and... the fact that you’re still a virgin—that’s quite the surprise. Now I’m really looking forward to our next encounter.
+511		
+512	Officer	What are you doing? Trying to show me something?
+513	Officer	Oh... so you like being watched, huh?
+514	Officer	If you’re feeling lonely, why not stay and play with me a little more?
+515	Officer	Are all of you this shamelessly lewd?
+516	Officer	...Are you inviting me?
+517	Officer	You like being treated this way, don’t you?
+518		
+519		
+520	Yukimura	Did you get anything out of him?
+521	Luna	Yeah, I did. He said the magic scrolls are inside the castle, but we’ll need to get the key first.
+522		Luna relayed everything she had just learned to her Senpai without leaving anything out.
+523	Yukimura	Oh, I see.
+524	Yukimura	Then the objective is clear! First, we take care of that strategist mage, get the key, sneak into the castle, and grab all the valuable goodies we can find!
+525	Luna	Uh... wasn’t it just the magic scrolls?
+526	Yukimura	Ahem—ahem, of course! The scrolls are included in the haul.
+527		
+528	Yukimura	Hehe, Miss Luna, you’ve got something strange on your face.
+529	Luna	Eh?! Really? But I made sure to wash...
+530	Yukimura	Oh my? I was just joking, but... could it be...?
+531	Luna	Ugh?!
+532	Yukimura	I knew it. He did make you do something, didn’t he? Hehehe.
+533	Yukimura	So~? That guy’s cock... it was pretty big, wasn’t it?
+534	Luna	Y-Yeah, it was... Wait—how do you know that?!
+535	Yukimura	Ohohoho! Excellent~
+536	Yukimura	To complete a mission without shedding a single drop of blood, through pure diplomacy—that's the art of seduction at its finest! Ahahaha!
+537	Yukimura	Miss Luna, keep up that spirit of learning, and continue improving, understood?
+538	Luna	Y-Yes... I’ll try...
+539		
+540	Yukimura	Now then, as thanks for gathering this useful intel, Miss Luna...
+541	Yukimura	I’ll give you this!
+542		You received: Exhibition Jutsu (Volume 2)
+543	Luna	What’s this? Huh? There’s a second volume?
+544	Yukimura	Hehehe, but of course! Where there’s a first volume, there’s bound to be a second!
+545	Yukimura	When facing different types of enemies, your approach to exposure must change accordingly... Ah, humans are complex—some like the top, others prefer the bottom.
+546	Luna	Huhhh??
+547	Yukimura	Just showing your breasts isn’t enough!
+548	Yukimura	At the right place! At the right time! In front of the right target! You have to expose down below too!
+549	Luna	D-Down below?! 
+550	Luna	That sounds a bit too difficult for me...
+551	Yukimura	Not at all! You’re already more than qualified! Be bold and show it off!
+552	Tutorial	When Luna uses seductive exposure, different enemies will have different preferences. Choosing the right area to expose will greatly increase your chance of success. However, it will also raise the enemy’s excitement level.
+553	Tutorial	When the enemy’s excitement bar is full, they will immediately enter combat and attempt to assault Luna.
+554	Yukimura	Alright, I’ll be waiting for you up ahead.
+555	Yukimura	Don’t forget to come find me~ Hehehe~
+556		
+557	Yukimura	Oh! You’re finally here, Miss Luna.
+558	Yukimura	I’ve already gathered the intel! That mage’s cabin is just due north from here. Go through this hidden forest path and you’ll get there quickly.
+559	Yukimura	And I saw it too—him sneaking into the cabin.
+560	Yukimura	Mm… but unfortunately...
+561	Luna	Unfortunately what?
+562	Yukimura	The unfortunate part is that to get the armory key, we’ll have to defeat him.
+563	Luna	Huh? Yeah. Wasn’t that the plan all along?
+564	Luna	Or... is he a no-kill target?
+565	Yukimura	Not exactly.
+566	Luna	?
+567	Yukimura	Ahem… The unfortunate part is, to get the key, we have to defeat him, and to defeat him, we need to get inside that cabin.
+568	Luna	And then?
+569	Yukimura	But the cabin is locked.
+570	Yukimura	So we’ll have to find another key.
+571	Luna	...
+572	Yukimura	This is such a hassle.
+573	Yukimura	If only we could’ve assassinated him before he entered.
+574	Luna	Weren’t you on site when it happened? Why didn’t you just take him out?
+575	Yukimura	Well… he didn’t exactly look like an easy opponent.
+576	Yukimura	Mages are tricky types. You never know if they’ve got eyes on the back of their heads.
+577	Yukimura	What if it was a trap?
+578	Luna	...Are you sure it wasn’t just because you didn’t feel like it?
+579	Yukimura	Well well, anyway, our objective is clear now.
+580	Yukimura	To find the key to the cabin, I had to use some... special methods to interrogate a few people.
+581	Luna	...Special methods?
+582	Yukimura	Don’t worry about the details. What matters is, it seems that mage didn’t prepare a spare key for the cabin.
+583	Luna	Ugh… so we’ve hit a dead end?
+584	Yukimura	Hmm… what should we do… Maybe you could go back and ask that officer—Reynold, was it? He might have a useful idea.
+585	Luna	(So his name is Reynold...)
+586	Luna	Alright… I’ll go ask him.
+587		
+588	Luna	Excuse me...
+589	Reynold	Hm? You came back.
+590	Reynold	So? Did you take care of him?
+591	Luna	Not yet...
+592	Reynold	Then why are you back? Or wait—did you come to have a little fun with me?
+593	Luna	Of course not!
+594	Luna	I actually want to ask... why are you still here?
+595	Reynold	Naturally, I was waiting for your report.
+596	Reynold	The moment I first saw you, I knew tonight would be a sleepless one.
+597	Reynold	...In more ways than one.
+598	Luna	......
+599	Reynold	So, you ran into some trouble? And came back to ask for help?
+600	Luna	Ugh... you could put it that way.
+601	Luna	That mage locked himself in, and we can’t get inside.
+602	Reynold	Hmm...
+603	Reynold	What, you can’t pick locks? The armory’s lock is complex, sure—I wouldn’t expect you to handle that. But a little wooden cabin shouldn’t be beyond you.
+604	Luna	I... can’t.
+605	Reynold	I heard every proper assassin should know how to pick locks, no?
+606	Luna	My case is a little... special.
+607	Reynold	Don’t you people have some special abilities? Like phasing through walls or something?
+608	Luna	...I don’t have that either.
+609	Reynold	Then what can you do?
+610	Luna	I...
+611	Reynold	...Are you really an assassin?
+612	Luna	Ugh, of course I am... I already reached the final trial...
+613	Reynold	Alright, I get it. You’re not exactly top-tier.
+614	Luna	Uuuu...
+615	Reynold	Fine, I’ll think of something. But I can’t step in directly—it’d be too obvious.
+616	Reynold	I’ll forge a command from the Commander. That guy will know it’s fake, but he’ll have to open the door anyway—then you can take your shot.
+617	Reynold	Alright, go on.
+618		
+619	Lati	Mm...
+620	Luna	Lati-senpai?
+621	Lati	Luna, there you are.
+622	Lati	It looks like this is a magical gate. It blocks the only path into the castle...
+623	Lati	To unlock it, for us beastkin who can’t use magic, might be too difficult.
+624	Lati	Unless there’s some kind of mechanism somewhere that can disable it.
+625	Luna	Mm... I understand.
+626	Lati	Then, I’ll be waiting for you up ahead.
+627		
+628	Yukimura	So? Did he have a good plan?
+629		Told Yukimura about Reynold’s plan
+630	Yukimura	I see! That’s actually a great idea! Hurry and get ready then!
+631		
+632	Luna	Mm... it's still a bit early. I’ll go back and rest first.
+633		
+634	Luna	So dark...
+635	Luna	No one here?
+636	Luna	A trap?!
+637		
+638	Mage	...Is that you?
+639	Mage	The rat who dares disturb me.
+640	Mage	Oh... a Lycan. I see, part of that infamous assassin organization.
+641	Mage	This forged order—it’s Reynold’s doing, isn’t it?
+642	Mage	Didn’t expect him to stoop to your level... Though, I can’t say I’m surprised.
+643	Luna	......
+644	Mage	No intention to talk?
+645	Mage	Very well, then show me your strength.
+646	Mage	Let’s see whether our human magic is superior... or if your moonlight shines brighter.
+647	Mage	...You're strong.
+648	Mage	But this is the end!
+649	Mage	Impossible! ...My magic!
+650	Mage	Humans should be... the strongest!
+651	Mage	I will... remember you!
+652		
+653	Yukimura	Luna! You're back! How did it go? Did you get the key?
+654	Luna	I got it.
+655	Yukimura	Fantastic! Then let’s head out right away!
+656		
+657	Reynold	You’re back. So? Did you take him out?
+658	Luna	Sorry... he got away.
+659	Reynold	What? He ran away? Hah... Hahahahaha!
+660	Reynold	That guy actually knew how to run? That arrogant, paranoid freak! Oh... that’s hilarious.
+661	Luna	Um...
+662	Reynold	What is it? Oh, you completed the mission, I should reward you.
+663	Luna	Wah?!
+664	Luna	I don’t need that kind of reward!
+665	Reynold	Then do you want punishment instead?
+666	Luna	I don’t want that either!
+667	Luna	I mean... is it really okay that he escaped?
+668	Reynold	Yeah, it’s fine. Since he lost to you, his pride must be shattered. I doubt he’ll come back anytime soon.
+669	Luna	Weren’t you trying to have him killed?
+670	Reynold	Haha, of course I wanted him dead.
+671	Reynold	But that wasn’t my ultimate goal. As long as he’s no longer at the Commander’s side, it doesn’t matter if he’s hiding in some hole licking his wounds.
+672	Reynold	Speaking of the Commander, are you planning to assassinate him next?
+673	Luna	...Yeah.
+674	Reynold	Don’t worry, I won’t stop you.
+675	Reynold	Krugmann is also an arrogant bastard. He’ll underestimate you—you can use that to your advantage.
+676	Reynold	But he’s also strong. Be careful.
+677	Reynold	If you manage to kill him, come find me. I’ve got other tasks I’d like to entrust you with.
+678		
+679	Luna	I’ve already taken care of him.
+680	Reynold	Took care of him? The Commander? The Flame Knight?
+681	Luna	Yes.
+682	Reynold	Hahaha...
+683	Reynold	Good, very good.
+684	Reynold	You’re powerful, and way too efficient... far better than those useless men under me.
+685	Reynold	I ought to reward you more.
+686	Luna	No need for any rewards...
+687	Reynold	Right now, I really want to recruit you.
+688	Reynold	Shame you’re not human. I personally don’t care, but beastkin don’t have freedom in the Empire, so you can’t officially join the army.
+689	Reynold	That means I can’t make you my subordinate openly, nor can I offer you equal status.
+690	Reynold	However... that doesn’t mean you can’t work for me.
+691	Reynold	If you do, I can give you access to resources your assassin organization could never provide.
+692	Reynold	So? Interested?
+693	Luna	Not interested.
+694	Luna	Maybe.
+695	Reynold	What a shame. If you change your mind, come back to me.
+696	Reynold	Excellent. That makes you mine now.
+697	Luna	Ugh... I wouldn’t go that far. I only agreed to help with a few things, not—
+698	Reynold	You’re expecting something too, aren’t you? Otherwise, why help me?
+699	Reynold	What’s your name?
+700	Luna	I’m Luna.
+701	Reynold	Good, Luna. From now on, you’re my personal assassin. I’ll have many tasks that require your talents.
+702	Reynold	I look forward to it.
+703	Luna	(...Is it really okay to help someone like him?)
+704
+705		The Crystal Cave is currently sealed by order. No one may enter.
+706
+707
+708
+709
+710
+711
+712	Yukimura	Woohoo! Treasure and gold, here I come!
+713	Luna	So this is...
+714	Yukimura	Oh! You found the scroll? Let me see, let me see!
+715	Yukimura	Hmm...
+716	Yukimura	Yes, this is definitely a magic scroll!
+717	Yukimura	With this, you won’t need to fear the Flame Knight anymore! Hey! Aim it right at his face and blast! That’s right! We’ll breeze through this annoying trial!
+718	Magic Scroll (Fireball)	Effect: Creates a large 3x3 fire explosion in front, damaging multiple enemies.\n\C[6]Can be used to destroy some stone pillars blocking the path.
+719	Magic Scroll (Fireball)	A large stock of identical magic scrolls has been obtained, so they can now be purchased from the support agent in the Shadow Crevice.
+720	Yukimura	Alright, we have the scroll, and we have the treasure...
+721	Yukimura	Then we disband right here!
+722	Yukimura	Oh, right. When you challenge the Flame Knight later, I will prepare a surprise for you!
+723	Yukimura	Then! Bye!
+724	Yukimura	Ahahahaha! Yukimura has arrived!
+725	Yukimura	Take this: Secret Art - Flame Burst!
+726	Yukimura	Whoa! You beat him! Congratulations!
+727	Yukimura	Oh no! I need to get out of here fast!
+728	Yukimura	Then, good luck!
+729	Lati	Welcome to the heart of the Mist Forest, the Forgotten Castle.
+730	Lati	...Now I’m certain. The Flame Knight chose to camp here for his own reasons.
+731	Lati	The origin of the mist in the forest has long been a focus of attention for the nearby human kingdoms.
+732	Lati	Humans are a race that must rely on magic to strengthen themselves, and the dense mist is the key to nurturing magic power.
+733	Lati	They suspect there’s some hidden secret buried here... uncovering the source of the mist has become the goal of many human factions.
+734	Lati	That Flame Knight must have come here with the same intent.
+735	Lati	But finding what he wants here won’t be easy.
+736	Lati	This place was once the heart of a kingdom—the Lost Kingdom. While not as ancient as the Old Gods, it’s still shrouded in mystery.
+737	Lati	It’s said that the very first magic was born here.
+738	Luna	The first magic?
+739	Lati	Yes, the source of human strength is magic.
+740	Lati	But humans didn’t always know how to use magic from the start.
+741	Lati	Whether it was granted by the gods, or discovered by someone uncovering ancient secrets...
+742	Lati	Even they might have forgotten by now.
+743	Lati	Your target lies ahead...
+744	Lati	Don’t let your guard down.
+745		
+746	Flame Knight	...I am the Flame Knight.
+747	Flame Knight	Commander of the Empire’s Third Legion—Krugmann.
+748	Flame Knight	Are you here to stop me? ...Lone Wolf of the Shadows.
+749	Flame Knight	But you’re too late... the ancient power is already in my grasp.
+750	Flame Knight	The lost secrets shall soon be unleashed... and you...
+751	Flame Knight	I will consume you...\| with fire.
+752	Flame Knight	...It’s not over yet!
+753	Flame Knight	Graaaahhhh!
+754	Flame Knight	Th-This... can’t be!
+755	Flame Knight	The Old Gods... will save me—
+756		
+757		
+758		
+759		
+760	K	You defeated the Flame Knight... and passed the final trial. Congratulations.
+761	K	But don’t get cocky...
+762	K	So, wipe that smile off your face. This is a serious evaluation report.
+763	K	Ahem...
+764	K	That said, there was a complication during the mission. The Flame Knight gained mysterious powers and became significantly stronger. As a result, the difficulty of this operation far exceeded trial parameters.
+765	K	If senior Lati hadn’t been present, I might have canceled this trial.
+766	K	Still... you defeated him.
+767	K	Hmm. Luna, your combat talent is truly astonishing.
+768	K	But... well, we’re an assassination organization.
+769	K	Taking down the Flame Knight in a head-on battle is... hard to evaluate.
+770	K	I sincerely hope you’ll also work on your stealth and assassination skills.
+771	Luna	Uh...
+772	Luna	I’m constantly learning!
+773	Luna	A frontal kill is more efficient though...
+774	K	Good, keep that learning attitude.
+775	K	...But you’re only making “assassinations” harder this way.
+776	K	Whatever, with senior Lati watching over you, I doubt you’ll do anything too outrageous.
+777	K	You may rest for now.
+778	K	Of course, the Empire’s army won’t stop just because their commander is dead. They’ll have a replacement soon enough.
+779	K	But that’s no longer our concern.
+780	K	Once your break is over, return to the Shadow Crevice. I’ll have a new mission prepared.
+781		
+782	Lati	Luna.
+783	Luna	Wah!? You startled me, Lati-senpai...
+784	Lati	...Sorry. I couldn’t appear directly in front of your evaluator—that would be considered cheating.
+785	Lati	Just now, the Flame Knight said he had obtained ancient power.
+786	Lati	What K said is true.
+787	Lati	The Flame Knight's power had indeed increased dramatically. This trial became far more dangerous than expected... I didn’t think you’d actually manage to defeat him.
+788	Lati	I was prepared to intervene myself and report the excessive danger to the higher-ups... But it seems that won’t be necessary now.
+789	Luna	Lati-senpai...
+790	Lati	Don’t make that face.
+791	Luna	This is a face of deep emotion!
+792	Lati	Back on topic—Krugmann’s ability to gain power proves he did uncover the secret of the Mist Forest.
+793	Lati	Even if just a part of it.
+794	Lati	Our next step is to find out how he obtained that power.
+795	Lati	Unfortunately, Krugmann is dead. If only we could interrogate him, things would be easier.
+796	Luna	Uh... sorry about that...
+797	Lati	Don’t apologize. This was your trial. And this outcome was unavoidable.
+798	Lati	I’ll be staying in this castle for a while longer...
+799	Lati	If you run into trouble, come find me here.
+800	Luna	Got it. Thank you.
+801		
+802	K	Luna, congratulations again on completing your trial.
+803	K	Your first official mission has been assigned to me, but it’s not time to depart just yet.
+804	K	Senior Lati... She seems to have started investigating the Mist Forest’s secrets.
+805	K	If you’re also curious about those mysterious things, you can go check in with her.
+806	K	I’m sure she could use your help.
+807		
+808	Lati	Luna.
+809	Luna	Lati-senpai? What’s going on?
+810	Lati	I’m not sure.
+811	Lati	But ever since the Flame Knight was killed, the atmosphere here has felt... off.
+812	Lati	This magic circle also appeared out of nowhere.
+813	Lati	I suspect Krugmann did something...
+814	Lati	But he didn’t live long enough to see the result.
+815	Lati	Now, the mist in the forest has grown thicker... and the concentration of mana is off the charts.
+816	Lati	Magic will become stronger—and so will monsters... Sadly, we beastkin can’t use magic.
+817	Lati	Even the moonlight can barely pierce through this mist now... That will impact our abilities.
+818	Lati	Hmm... if we want to keep exploring, we must deal with the mist problem first.
+819	Lati	If it gets thick enough to completely block out the moon... we’ll lose both our powers and the path back to the Shadow Crevice.
+820	Luna	That... sounds really bad.
+821	Lati	If that happens, we’ll have to walk out of the Mist Forest on foot.
+822	Lati	In any case, your trial is over now... It’d just be a shame, that’s all.
+823	Luna	I see...
+824	Lati	Mm. I’ll inform you if anything new comes up.
+825	Luna	Alright.
+826	Lati	...It happened again.
+827	Luna	Senior Lati, what was that just now...?
+828	Lati	I do not know. In any case, it does not seem like a good omen.
+829	Lati	An ancient power... We may need to go deeper and take a look.
+830	Luna	Senior Lati?
+831	Lati	No, it is nothing...
+832	Lati	Luna, you should go back first. Be ready to evacuate at any time.
+833	Luna	...What about you, Senior Lati?
+834	Lati	I will stay here and continue investigating. Do not worry about me.
+835	Luna	Ugh...\|I understand.
+836
+837
+838
+839
+840	Reynold	Since you are already my subordinate, I have some tasks for you as well.
+841	Luna	...What tasks?
+842	Luna	Let me make this clear first: I will not betray the organization... I am helping you only because of the special resources you promised me.
+843	Luna	Though I still do not know what you are going to give me.
+844	Reynold	Yes, yes, something very special, little wolf girl. No need to worry at all.
+845	Reynold	I pose no threat to your assassin organization. I could even be called an asset... and of course, I could also be your employer.
+846	Reynold	As you can see, the Empire is attacking the Northern Kingdom... or more precisely, launching a surprise attack.
+847	Reynold	That is exactly the objective of our Third Legion. Passing through the Mist Forest, however, was only a coincidence, because our advance was too fast...
+848	Reynold	Clearly, His Majesty the Emperor does not want our presence to alert the kingdom too soon.
+849	Reynold	So that man Krugmann decided to take a detour and look around the Mist Forest.
+850	Luna	...
+851	Reynold	Fine, I know you are not interested in this sort of thing.
+852	Reynold	But your assassin organization certainly would not turn away intelligence like this. Bring it back, and I can leave a good impression on your people. It benefits you too.
+853	Luna	...Is that how it works?
+854	Reynold	Of course. We may even cooperate again in the future.
+855	Reynold	We have wandered off topic. Krugmann came here for one thing and one thing only: the power of the Old Gods.
+856	Luna	The power of the Old Gods?
+857	Reynold	Exactly. Old God power, secret magic, it has many names, but they all refer to the same thing.
+858	Reynold	Legend says an ancient power is sealed within the Mist Forest. We do not know what it is, but judging by the way the dense mist strengthens magic, it is most likely Old God power.
+859	Luna	...So you want the Old God power too?
+860	Reynold	Me? Oh, you are right. Of course I do. Who would not? It is the highest pursuit of all mankind.
+861	Reynold	So when Commander Krugmann wanted to detour into the Mist Forest, all of us understood his purpose... because he himself is a powerful man. Flame Knight is no ordinary title.
+862	Reynold	One must be a knight and also pass a series of special magical trials to earn that title. He is one in ten thousand... and in the Mist Forest, Krugmann would only grow stronger.
+863	Reynold	...Hmm.
+864	Reynold	Looking at it that way, you, who defeated him head-on, are also quite... special.
+865	Luna	Hehe, everyone says Luna has a lot of talent for fighting.
+866	Reynold	The Lycan race is indeed skilled in battle, but demi-humans have always been unable to learn magic... yet from what I see, you seem to command some kind of special power.
+867	Reynold	Without a special power, defeating the Flame Knight would have been impossible.
+868	Luna	Ugh, about that...
+869	Luna	(Senior Lati told me... I must not reveal anything about Moon Power to humans...)
+870	Reynold	If you do not want to tell me, that is fine. A little extra mystery only makes me more interested in you.
+871	Luna	............(blushing)
+872	Reynold	I am interested in the Old God power the commander was searching for, but... that is not my first objective.
+873	Reynold	More than the Old God power, what I want right now is the Empire's Third Legion.
+874	Luna	Huh? The legion? Aren't you already a commander?
+875	Reynold	Hahaha! You may not understand. I am only a commander, not the legion commander.
+876	Reynold	I want to become legion commander, not merely remain a commander.
+877	Reynold	What I want is control over the entire army. I want to take Krugmann's place. Do you understand what I mean?
+878	Luna	Ugh... so you want to become a Flame Knight too?
+879	Luna	So are you strong?
+880	Reynold	...
+881	Reynold	Forget it. You can think of it that way.
+882	Reynold	In any case, Krugmann is dead. He died because he recklessly sought the power of the Old Gods, and you drove off one of his hangers-on as well.
+883	Reynold	Even leaderless, the Third Legion's mission remains unchanged. Now is the best time to replace him.
+884	Reynold	However, there are still others who think the same way I do.
+885	Reynold	Beneath the commander of the Third Legion, there are six senior commanders in total. I am one of them.
+886	Reynold	Aside from me, there are five others... I have already dealt with two of them, but three more also want to compete for the position of acting commander of the Third Legion.
+887	Reynold	Those three are not easy to handle. They have methods, and their backgrounds are not simple. I cannot act openly.
+888	Reynold	If I make a reckless move, success would be fine, but if I fail and evidence is found, even if nothing happens now, I will not escape a military tribunal when we return...
+889	Reynold	And the task I am giving you is to secretly remove them for me.
+890	Luna	Remove them?
+891	Reynold	Exactly. Kill them, just like you killed Krugmann.
+892	Reynold	...Hmm, although the commotion you caused was not exactly small, it is fine. Even the Imperial Emperor has heard of your name: the assassins of Dark Moon, who almost never fail.
+893	Reynold	As long as you take them all out, I can justifiably throw the whole blame onto you.
+894	Luna	??? ...Something about this feels wrong.
+895	Reynold	Do not forget, if you complete my task, I have a generous reward for you.
+896	Luna	So what exactly is this reward?
+897	Reynold	If I told you now, there would be no surprise, would there? Just look forward to it, little wolf girl.
+898	Luna	Can you stop calling me that!
+899	Reynold	Alright. When you are ready, come find me again. I will tell you exactly what to do.
+900
+901	Reynold	Ready? Good.
+902	Reynold	You have three targets: Senior Commander Larson, Mertzer, and Balwald.
+903	Reynold	You do not need to remember their names. You only need to know that, like me, they are nobles from the upper ranks of the Empire with great power and strong backing.
+904	Reynold	Those three are not easy opponents. If you face them head-on, you may end up in a disadvantageous position.
+905	Reynold	I am not questioning your strength, little wolf girl.
+906	Reynold	Rather, unlike Commander Krugmann, who was a battle fanatic proud of his own strength, they will not necessarily be willing to fight you one-on-one just because he was.
+907	Reynold	No matter how strong you are individually, facing many enemies at once can still put you in trouble.
+908	Reynold	Of course, I naturally hope you can complete the mission smoothly, so removing unfavorable factors for you is a necessary action.
+909	Luna	I think I can still do it!
+910	Luna	Ugh, fighting many at once is still a little hard.
+911	Reynold	...For you to be that confident, I can hardly believe that little body of yours could withstand it.
+912	Reynold	For a moment, I thought you might be the same kind of battle maniac as Krugmann.
+913	Luna	???
+914	Reynold	In any case, if you can make sure you approach the target without being discovered, it will save a great deal of trouble.
+915	Reynold	You are an assassin too, after all, are you not?
+916	Luna	...Mm.
+917	Reynold	Next, let me explain these three people in detail.
+918	Reynold	Senior Commander Larson is an arrogant man. He should be the easiest of the three to deal with, because guards do not often accompany him.
+919	Reynold	He also likes to be alone when resting. If you can find a way to sneak into his tent in advance, what comes next should be simple.
+920	Reynold	Mertzer is the complete opposite of Larson. He is extremely cautious and never travels alone; even when resting, guards accompany him.
+921	Reynold	Dealing with him may not be easy. You will need to find an opening... for example, creating chaos, or somehow luring his guards away.
+922	Reynold	As for Balwald... hmm, he is very similar to Commander Krugmann, another battle maniac, but it is best not to face him head-on, because he does not have the commander's knightly spirit.
+923	Luna	...I understand. Is there anything else I should pay attention to?
+924	Reynold	Do not be discovered, even though we all know Commander Krugmann has been killed.
+925	Luna	Ugh, why?
+926	Reynold	Krugmann was targeted by a Dark Moon assassin because he tried to seize the power of the Old Gods. That is a very reasonable explanation.
+927	Reynold	We do not believe our names would be on your assassination list.
+928	Reynold	In fact, we are correct. Otherwise, I likely would not be standing here talking to you.
+929	Luna	True, my only target was the Flame Knight.
+930	Reynold	So Larson and the others probably will not be on guard against you, unless you appear in front of them.
+931	Reynold	In other words, if you are discovered even once, all of them will raise their guard. Killing them afterward will only become more difficult.
+932	Reynold	Of course, you can also wait for a while and let their alertness fade. We humans need rest, after all.
+933	Reynold	But anything you prepared beforehand will most likely be cleared away, and the personnel you killed will be replaced. You will have to start over.
+934	Reynold	And the longer you delay, the worse it is for me... by then, the reward I give you may not be quite so generous.
+935	Luna	Eh? That is not what we agreed on!
+936	Reynold	Whether I can become legion commander is directly tied to the amount of resources I can give you. Those three senior commanders are my greatest obstacles right now.
+937	Reynold	They are all capable men. If they are not removed early, the situation in the Third Legion will only become more complicated.
+938	Reynold	If I cannot smoothly become legion commander, do you think you will still get this so-called reward?
+939	Luna	Ugh...
+940	Luna	I do not really understand, but I will help you remove them.
+941	Reynold	Good. I knew I could count on you.
+942	Luna	(Ugh... Even though I am not human, he has this much confidence in me...)
+943	Reynold	Lastly, as for their current locations: Larson is at the entrance to the Secret Forest. He seems to be searching for some surviving people of the ruins kingdom.
+944	Reynold	I do not know where he heard the rumor, but supposedly treasure from the lost kingdom is still hidden somewhere in the Mist Forest.
+945	Reynold	Mertzer was sent by Krugmann to investigate and find a way to harvest Mana Crystals in the Crystal Cave. He should still be there.
+946	Reynold	Mana Crystals are valuable. They can quickly and continuously replenish our mana, even strengthen magic... Someone once tried to mine the crystals in the Mist Forest, but failed. We do not know why.
+947	Reynold	Mertzer is a meticulous man. He is indeed well suited to that sort of work.
+948	Reynold	Last is Balwald. He is on the outskirts of the Mist Forest and did not follow us in.
+949	Reynold	Clearly, Krugmann did not want to share the Old God power with him, so he ordered him to stay outside and guard the route.
+950	Reynold	He even told him that he was going in to search for treasures he could conveniently bring back and offer to the Emperor. Naturally, Balwald would not be interested in that sort of bootlicking.
+951	Reynold	...Hahaha, if Balwald knew the truth, he would be furious.
+952	Luna	...
+953	Reynold	In short, you can choose any one of them to strike first. Whatever you do is up to you.
+
+
+AMYK1	Luna	Uh... actually, I have already taken down the Flame Knight.
+AMYK2	Yukimura	Eh?
+AMYK3	Yukimura	How is that possible?!
+AMYK4	Yukimura	All by yourself? Single-handedly?!
+AMYK5	Yukimura	...Senior Lati did not help you?
+AMYK6	Yukimura	Whoa, amazing...
+AMYK7	Yukimura	Though I guess it is not that surprising. It is you, after all... ahem.
+AMYK8	Yukimura	Hahaha, but it is fine. Even if you have already defeated the Flame Knight, it will still be useful later!
+
+GCLT1	Lati	Luna, you came.
+GCLT2	Lati	This appears to be a magic gate. It is blocking your path forward...
+GCLT3	Lati	Undoing it may be too difficult for Lycans like us, who cannot use magic.
+GCLT4	Lati	Or perhaps there is a mechanism somewhere that can open it.
+GCLT5	Lati	Hmm...
+GCLT6	Lati	Unfortunately, even if you learn a certain skill, you still cannot pass through it.
+GCLT7	Lati	Then I will wait for you up ahead.
+
+RND1	Reynold	Hahaha. Since you are already my subordinate, I have some tasks for you as well.
+RND2	Luna	Ugh... what tasks?
+RND3	Luna	Let me make this clear first: I will not betray the organization. I am helping you only because of the special resources you promised me.
+RND4	Luna	...Though I still do not know what you are going to give me.
+RND5	Reynold	Yes, yes, something very special, little wolf girl. No need to worry at all.
+RND6	Reynold	I pose no threat to your assassin organization. I could even be called an asset... and of course, I could also be your employer.
+RND7	Reynold	As you can see, the Empire is attacking the Northern Kingdom... or more precisely, launching a surprise attack.
+RND8	Reynold	That is exactly the objective of our Third Legion. Passing through the Mist Forest, however, was only a coincidence, because our advance was too fast.
+RND9	Reynold	Clearly, His Majesty the Emperor does not want our presence to alert the kingdom too soon.
+RND10	Reynold	So that man Krugmann decided to take a detour and look around the Mist Forest.
+RND11	Luna	...
+RND12	Reynold	Fine, I know you are not interested in this sort of thing.
+RND13	Reynold	But your assassin organization certainly would not turn away intelligence like this. Bring it back, and I can leave a good impression on your people. It benefits you too.
+RND14	Luna	...Is that how it works?
+RND15	Reynold	Of course. We may even cooperate again in the future.
+RND16	Reynold	We have wandered off topic. Krugmann came here for one thing and one thing only: the power of the Old Gods.
+RND17	Luna	The power of the Old Gods?
+RND18	Reynold	Exactly. Old God power, secret magic, it has many names, but they all refer to the same thing.
+RND19	Reynold	Legend says an ancient power is sealed within the Mist Forest. We do not know what it is, but judging by the way the dense mist strengthens magic, it is most likely Old God power.
+RND20	Luna	...So you want the Old God power too?
+RND21	Reynold	Me? Oh, you are right. Of course I do. Who would not? It is the highest pursuit of all mankind.
+RND22	Reynold	So when Commander Krugmann wanted to detour into the Mist Forest, all of us understood his purpose, because he himself is a powerful man. Flame Knight is no ordinary title.
+RND23	Reynold	One must be a knight and also pass a series of special magical trials to earn that title. He is one in ten thousand... and in the Mist Forest, Krugmann would only grow stronger.
+RND24	Reynold	...Hmm.
+RND25	Reynold	Looking at it that way, you, who defeated him head-on, are also quite... special.
+RND26	Luna	Hehe, everyone says Luna has a lot of talent for fighting.
+RND27	Reynold	The Lycan race is indeed skilled in battle, but demi-humans have always been unable to learn magic... yet from what I see, you seem to command some kind of special power.
+RND28	Reynold	Without a special power, defeating the Flame Knight head-on would have been impossible.
+RND29	Luna	Ugh, about that...
+RND30	Luna	(Senior Lati told me... I must not reveal anything about Moon Power to humans.)
+RND31	Reynold	If you do not want to tell me, that is fine. A little extra mystery only makes me more interested in you.
+RND32	Luna	............(blushing)
+RND33	Reynold	I am interested in the Old God power the commander was searching for, but... that is not my first objective.
+RND34	Reynold	More than the Old God power, what I want right now is the Empire's Third Legion.
+RND35	Luna	Huh? The legion? Aren't you already a commander?
+RND36	Reynold	Hahaha! You may not understand. I am only a commander, not the legion commander.
+RND37	Reynold	I want to become legion commander, not merely remain a commander.
+RND38	Reynold	What I want is control over the entire army. I want to take Krugmann's place. Do you understand what I mean?
+RND39	Luna	Ugh... so you want to become a Flame Knight too?
+RND40	Luna	Could it be that you are strong too?
+RND41	Reynold	...
+RND42	Reynold	Forget it. You can think of it that way.
+RND43	Reynold	In any case, Krugmann is dead. He died because he recklessly sought the power of the Old Gods, and you drove off that hanger-on by his side as well.
+RND44	Reynold	But even leaderless, the Third Legion's mission remains unchanged. Now is the best time to replace him.
+RND45	Reynold	However, there are still others who think the same way I do.
+RND46	Reynold	Beneath the commander of the Third Legion, there are six senior commanders in total. I am one of them.
+RND47	Reynold	Aside from me, there are five others... I have already dealt with two of them, but three more also want to compete for the position of acting commander of the Third Legion.
+RND48	Reynold	Those three are not easy to handle. They have methods, and their backgrounds are not simple. I cannot act openly.
+RND49	Reynold	If I make a reckless move, success would be fine, but if I fail and evidence is found, even if nothing happens now, I will not escape a military tribunal when we return.
+RND50	Reynold	And the task I am giving you is to secretly remove them for me.
+RND51	Luna	Remove them?
+RND52	Reynold	Exactly. Kill them, just like you killed Krugmann.
+RND53	Reynold	...Hmm, although the commotion you caused was not exactly small, it is fine. Even our Emperor has heard of your name: the assassins of Dark Moon.
+RND54	Reynold	As long as you take them all out, I can justifiably throw the whole blame onto you.
+RND55	Luna	???\|...Something about this feels wrong.
+RND56	Reynold	Do not forget, if you complete my task, I have a generous reward for you.
+RND57	Luna	So what exactly is this reward?
+RND58	Reynold	If I told you now, there would be no surprise, would there? Just look forward to it, little wolf girl.
+RND59	Luna	Can you stop calling me that!
+RND60	Reynold	Alright. When you are ready, come find me again. I will tell you exactly what to do.
+
+RND61	Reynold	Ready? Good.
+RND62	Reynold	You have three targets: Senior Commander \C[6]Larson\C[0], \C[6]Mertzer\C[0], and \C[6]Balwald\C[0].
+RND63	Reynold	You do not need to remember their names. You only need to know that, like me, they are nobles from the upper ranks of the Empire with great power and strong backing.
+RND64	Reynold	Those three are not easy opponents. If you face them head-on, you may end up in a disadvantageous position.
+RND65	Reynold	I am not questioning your strength, little wolf girl.
+RND66	Reynold	Rather, unlike Commander Krugmann, who was a battle fanatic proud of his own strength, they will not necessarily be willing to fight you one-on-one just because he was.
+RND67	Reynold	No matter how strong you are individually, facing many enemies at once can still put you in trouble.
+RND68	Reynold	Of course, I naturally hope you can complete the mission smoothly, so removing unfavorable factors for you is a necessary action.
+RND69	Luna	I think I can still do it!
+RND70	Luna	Ugh, fighting many at once is still a little hard.
+RND71	Reynold	Oh... For you to be that confident, I can hardly believe that little body of yours could withstand it.
+RND72	Reynold	For a moment, I thought you might be the same kind of battle maniac as Krugmann.
+RND73	Luna	What is that supposed to mean?!
+RND74	Reynold	In any case, if you can make sure you approach the target without being discovered, it will save a great deal of trouble.
+RND75	Reynold	You are an assassin too, after all, are you not?
+RND76	Luna	...Mm, yes, I suppose so. (quietly)
+RND77	Reynold	Next, let me explain these three people in detail.
+RND78	Reynold	Senior Commander Larson is an arrogant man. He should be the easiest of the three to deal with, because guards do not often accompany him.
+RND79	Reynold	He also likes to be alone when resting. If you can find a way to sneak into his tent in advance, what comes next should be simple.
+RND80	Reynold	Mertzer is the complete opposite of Larson. He is extremely cautious and never travels alone; even when resting, guards accompany him.
+RND81	Reynold	Dealing with him may not be easy. You will need to find an opening... for example, creating chaos, or somehow luring his guards away.
+RND82	Reynold	As for Balwald... hmm, he is very similar to Commander Krugmann. Although he is also a battle maniac, it is best not to face him head-on, because he does not have the commander's knightly spirit.
+RND83	Luna	...I understand. Is there anything else I should pay attention to?
+RND84	Reynold	Nothing else, little wolf girl. As an assassin, you surely know to avoid alerting the enemy as much as possible.
+RND85	Luna	Ugh... I do know that!
+RND86	Reynold	And act immediately. The longer you delay, the worse it is for me. By then, the reward I give you may not be quite so generous.
+RND87	Luna	Eh? That is not what we agreed on!
+RND88	Reynold	Whether I can smoothly become legion commander is directly tied to the amount of resources I can give you. Those three senior commanders are my greatest obstacles right now.
+RND89	Reynold	They are all capable men. If they are not removed early, the situation in the Third Legion will only become more complicated.
+RND90	Reynold	If I cannot become legion commander, do you think you will still get this so-called reward?
+RND91	Luna	Ugh...
+RND92	Luna	Alright. I do not really understand, but I will help you remove them.
+RND93	Reynold	Good. I knew I could count on you.
+RND94	Luna	(Ugh... Even though I am not human, he has this much confidence in me...)
+RND95	Reynold	Lastly, as for their current locations: Larson has gone to the \C[6]Secret Forest\C[0]. He seems to be searching for some treasure of a ruins kingdom.
+RND96	Reynold	Mertzer was sent by Krugmann to investigate and find a way to harvest Mana Crystals in the \C[6]Crystal Cave\C[0]. He should still be there.
+RND97	Reynold	Mana Crystals are valuable. They can quickly and continuously replenish our mana, even strengthen magic... Someone once tried to mine the crystals in the Mist Forest, but failed, since the place is full of monsters.
+RND98	Reynold	Last is Balwald. He is still in the \C[6]desert\C[0] and did not follow us in.
+RND99	Reynold	Clearly, Krugmann also knew Balwald was an unpredictable factor and feared he would compete with him for the Old God power, so he ordered him to stay outside and guard the route.
+RND100	Reynold	Balwald knows he was being guarded against, but he cannot disobey orders... Once he learns of Krugmann's death, he will probably be the first to act. We need to deal with him quickly.
+RND101	Luna	Then should I assassinate that Balwald first?
+RND102	Reynold	No. He is the hardest of the three to handle. If you fail and expose me, both Larson and Mertzer may be drawn over to his side.
+RND103	Reynold	The safest approach is to take out Larson and Mertzer first. They are both still carrying out Krugmann's orders and are completely unprepared.
+RND104	Reynold	But the choice is yours. You can choose any one of them to strike first. Whatever you do is up to you.
+RND105	Luna	Mm... alright, I understand.
+
+RND106	Luna	Tell me about Larson again.
+RND107	Luna	Tell me about Mertzer again.
+RND108	Luna	Tell me about Balwald again.
+RND109	Luna	That is all.
+RND110	Reynold	Larson is an arrogant man. He should be the easiest of the three to deal with, because guards do not often accompany him.
+RND111	Reynold	He also likes to be alone when resting. If you can find a way to sneak into his tent in advance, what comes next should be simple.
+RND112	Reynold	Larson is at the entrance to the Secret Forest. Head east from here, toward the depths of the Mist Forest.
+RND113	Reynold	Mertzer is extremely cautious and never travels alone; even when resting, guards accompany him.
+RND114	Reynold	Dealing with him may not be easy. You will need to find an opening... for example, creating chaos, or somehow luring his guards away.
+RND115	Reynold	Mertzer was sent by Krugmann to investigate the Mana Crystals in the Crystal Cave. He should still be there.
+RND116	Reynold	Balwald is very similar to Commander Krugmann, another battle maniac, but you had better not face him head-on. He does not have the commander's knightly spirit.
+RND117	Reynold	If you want to kill him, it would be better to find a way to deal with the guards around him first.
+RND118	Reynold	Balwald is in the desert. That environment may not be suitable for hiding.
+RND119	Reynold	Deal with them as soon as possible, and I can become legion commander sooner.
+RND120	Reynold	Your reward will be richer then too... I know you are looking forward to that, little wolf girl.
+RND121	Luna	I told you not to call me that!
+
+RND122	Reynold	Right, take this. I am sure it will be useful to you.
+RND123	Reynold	This is my medal, genuine and authentic. Show it to the soldiers here, and you may be able to win them over as companions.
+RND124	Reynold	Haha, I am not lying to you. Try it yourself.
+RND125	Reynold	Are you inviting me? Haha, come on. I'll be waiting inside.
+
+RND130		The path ahead is temporarily impassable.
+
+RND131	Luna	Uh...
+RND132	Reynold	What is it, little wolf girl?
+RND133	Luna	I do not think I was gone that long... Why has this place changed so much?
+RND134	Reynold	Hahaha! That is all thanks to you.
+RND135	Luna	Eh? Me? I... did I do something?
+RND136	Reynold	Larson and Mertzer are both dead, so I took over their troops. And with that Flame Mage not coming out to cause trouble, more than half of the Third Legion now obeys my orders. Is that not thanks to you?
+RND137	Luna	Wow, that quickly...? I only just took action not long ago...
+RND138	Luna	(This guy is actually pretty impressive... at least when it comes to taking action.)
+RND139	Reynold	Do not think too much about it, little wolf girl. This place has been expanded, and it is now my headquarters.
+RND140	Reynold	I originally wanted to move directly into that ruins castle, but I do not like the smell in there... and Krugmann died inside it, which makes it feel unlucky.
+RND141	Luna	Uh, for that reason?
+RND142	Reynold	Of course. Sometimes luck is part of strength too. Take now, for example: I gained your help. That is practically fortune smiling on me.
+RND143	Luna	I-Is it really that exaggerated...?
+RND144	Reynold	Hehe. Fine, there is actually another reason... The Flame Mage is missing right now, but I suspect he is probably still hiding in that castle, planning something. I do not want to go in and look for trouble.
+RND145	Luna	So that really was the real reason!
+RND146	Reynold	Hmm? Hey now, bad luck is also one of the important reasons. Do you not believe me?
+RND147	Luna	Okay, okay, I understand. You do not need to say more.
+RND148	Reynold	Balwald in the desert also needs to be watched. From here I can command the army better and make sure nothing goes wrong... although there is no conflict between us yet, I do not think Balwald will easily acknowledge me as legion commander. So for success, I will still be relying on you.
+RND149	Reynold	At the same time, I am gathering the most elite troops to prevent internal chaos if the Flame Mage returns.
+RND150	Reynold	Of course, if you cannot handle Balwald, I do have other plans, though they would be more troublesome... So, to make my success smoother, you had better work hard, little wolf girl.
+RND151	Luna	I would work seriously even if you did not say that!
+RND152	Reynold	Hahaha, that is the spirit... Hmm, well? Do you want a reward?
+RND153	Luna	No!
+RND154	Reynold	Hehe, adorable thing.
+RND155	Reynold	In short, you may come and go freely in my headquarters. Everyone here is a loyal confidant I selected carefully, and they will not attack you. But outside, you are still an assassin of the shadows, so watch yourself.
+RND156	Reynold	Also, there is a bed in my tent. If you want, you can rest there anytime.
+RND157	Luna	Ugh... I-Is that not your bed?
+RND158	Reynold	Yes. What of it? Do you dislike it?
+RND159	Luna	N-No...
+
+RND160	Reynold	Right, I allowed my subordinates to open a tavern, as a temporary place for them to relax.
+RND161	Reynold	After all, what we Imperials love most is alcohol.
+RND162	Luna	Hmm? What does that... have to do with me? Why are you telling me?
+RND163	Reynold	Of course it has something to do with you. My men have been away from the imperial capital for half a month. The road is long, and what they miss most now, besides alcohol, is women. You may be a demi-human, but you are not bad-looking.
+RND164	Luna	...Is that really supposed to be a compliment?
+RND165	Luna	Wait, this still has nothing to do with me!\| Huh, unless... you want me to...
+RND166	Reynold	What are you imagining? At most, I am asking you to serve them drinks, not keep them company.
+RND167	Luna	O-Oh...
+RND168	Luna	(A tavern... I can go take a look when I have time.)
+
+CrystalCave1		There are many monsters here. Keep the camp guarded.
+CrystalCave2		Hold the bridge!
+CrystalCave3		Where are all these slimes coming from?
+CrystalCave4		No idea!
+CrystalCave5		It is like they are growing out of the ground.
+CrystalCave6		Notice: Beware of monsters ahead!
+
+MRZ1	Mertzer	You are...?
+MRZ2	Mertzer	Beast ears, and a tail... so you are the wolf? The Wolf of Shadows. I did not expect you would actually come.
+MRZ3	Luna	You knew I would come?
+MRZ4	Mertzer	Someone told me in advance.
+MRZ5	Mertzer	This is sudden, but if I ask you not to kill me, will you stop?
+MRZ6	Luna	...
+MRZ7	Mertzer	You will not, will you? What a pity.
+MRZ8	Mertzer	Did Reynold send you? I have no interest in becoming legion commander. Even so, he still wants me dead?
+MRZ9	Mertzer	Neither denying nor confirming it?
+MRZ10	Mertzer	It seems you do not know how to choose either. Or rather, you do not care about right and wrong... To you, killing me is merely a mission.
+MRZ11	Mertzer	I simply did not expect that you people would also help humans.
+MRZ12	Luna	I... I have my reasons.
+MRZ13	Luna	Are you really not interested in becoming legion commander?
+MRZ14	Mertzer	What could your reason be? What benefit will helping Reynold bring you? Do you really think he will treat you as a person?
+MRZ15	Mertzer	I am not interested. I have never climbed upward for power. Power is merely something I obtained along the way.
+MRZ16	Mertzer	Humans deceive, struggle, slaughter, wage war... humanity's endless desire and selfishness have plunged the entire world into chaos.
+MRZ17	Mertzer	But precisely because of that, humans become strong. Strength, however, has a price.
+MRZ18	Mertzer	So I am curious... what price have your people paid?
+MRZ19	Mertzer	Come. Let me see what you can do.
+MRZ20	Mertzer	...What was that sound?
+MRZ21	Mertzer	Something has awakened.
+MRZ22	Mertzer	"Monsters! Prepare for battle!	"
+
+MRZ30		Intruder!
+MRZ31		...It is an assassin. Capture her!
+MRZ32	Mertzer	Wait.
+MRZ33	Mertzer	If you kill me... what will you gain?
+MRZ34	Mertzer	I never thought I would... die here...
+
+Tavern1	Soldier Brad	Hmm? Who is it?\| ...Oh, I know you. You are Lord Reynold's-
+Tavern2	Luna	Eh? What, what? I am Lord Reynold's what?
+Tavern3	Soldier Brad	Ahem, nothing. Girl, what are you doing here?
+Tavern4	Luna	Why did you stop halfway?
+Tavern5	Luna	Reynold told me I could come take a look here... to see if there was anything I could help with.
+Tavern6	Soldier Brad	Oh, I see... Hmm, since it is Lord Reynold's order... although you are a lowly demi-human, it is Lord Reynold's command after all.
+Tavern7	Soldier Brad	But Imperials do not bow to an inferior race like you, so do not expect us to be polite.
+Tavern8	Luna	(What is with this person... I clearly said I came to help, and he still has that attitude.)
+Tavern9	Luna	Ugh... If you are going to say that, I will leave.
+Tavern10	Soldier Brad	Hey, hey, do not leave so quickly!
+Tavern11	Luna	...Do you not despise me as an inferior race?
+Tavern12	Soldier Brad	Despising you is one thing, that is another. I never said I was chasing you away.
+Tavern13	Luna	(He is not even denying it!)
+Tavern14	Soldier Brad	The dignity of the Empire comes first, but you are Lord Reynold's "honored guest," so of course we welcome you. Besides, a girl like you is tender enough, and your chest is...
+Tavern15	Luna	...You perverted humans. Is your head full of nothing but dirty thoughts?
+Tavern16	Soldier Brad	Heh. Demi-humans may be a lowly race, but in this regard they have always been extremely talented. Our Empire has "imported" no small number of demi-human girls.
+Tavern17	Luna	...\|...
+Tavern18	Luna	Forget it. I am leaving.
+Tavern19	Soldier Brad	No, no, no. This tavern is short one waitress.
+Tavern20	Soldier Brad	You know how it is. There are no women in the army, and every man here is starving for one. Having a woman here, even a demi-human, help out will be perfect for selling drinks.
+Tavern21	Luna	So you charge money here?
+Tavern22	Soldier Brad	Of course we do. If we gave it away for free, this lot would drink it all dry in two days.
+Tavern23	Soldier Brad	Everyone in the Third Legion is elite, so they always carry some gold. Besides, Lord Reynold said that if they want to drink, they must spend their own money!
+Tavern24	Luna	Is Reynold short on money? Why is he earning gold from his own subordinates' pockets...
+Tavern25	Soldier Brad	Well... Lord Reynold must have his deeper reasons.
+Tavern26	Luna	(That feels really suspicious...)
+Tavern27	Soldier Brad	In any case, come find me once you have made up your mind.
+
+Tavern28	Soldier Brad	Well? Want to help out?
+Tavern29	Luna	Uh, what exactly do I need to do?
+Tavern30	Soldier Brad	Oh, it is simple. Just go \C[6]ask them what they want\C[0], then \C[6]come back and tell me\C[0]. Once I have it ready, you \C[6]carry it over\C[0]. How is that? Got it?
+Tavern31	Luna	Got it. It does sound easy.
+Tavern32	Soldier Brad	There is no time limit. If you get tired, just leave, but before you go, remember to come to me to \C[6]settle your wages\C[0].
+Tavern33	Luna	I get paid too?
+Tavern34	Soldier Brad	Of course. We cannot have you working for nothing. Naturally, your pay depends on the \C[6]number of orders\C[0] you complete... If you mess up, like getting the drink wrong or spilling it on someone, your pay will be docked.
+Tavern35	Luna	I understand. I do not think I will mess up!
+Tavern36	Tutorial	\C[4]Luna can now work at the tavern\C[0]. By serving customers in the tavern, she can earn \C[6]gold\C[0] based on the number of completed orders.
+
+HCR1	Luna	Let me go!
+HCR2	Soldier	Finally caught you!
+HCR3	Soldier	You are not getting away this time!
+HCR4	Soldier	Hold her down!
+HCR5	Soldier	Stay still!
+HCR6	Soldier	Hehe... nice body.
+HCR7		The man's hands pressed against Luna's body. Since she wore clothes made for easy movement, he could touch many places.
+HCR8		Luna had run out of strength, and even if she wanted to resist, she could not...
+HCR9	Soldier	Since she is a Lycan girl, it is fine to treat her a little rough, right!
+HCR10		Luna's clothes were stripped away. Though she could not see it, Luna could feel a thick shaft pressing against her pussy.
+HCR11		Luna could already tell that what came next would be terrible...
+HCR12	Luna	Eh? Wait... no! Stop!
+HCR13	Luna	There... not there...!
+HCR14	Luna	It is still my first time... you cannot!
+HCR15	Luna	Ah-!
+HCR16	Soldier	Still a virgin? Lucky me. Your kind of werewolf usually is not.
+HCR17	Soldier	What, so you were not a virgin after all.
+HCR18	Luna	(I-It went in...)
+HCR19	Luna	(It hurts... my stomach feels so full...)
+HCR20	Luna	Ha, haah...
+HCR21	Soldier	Good... hah... good... stand properly for me!
+HCR22		The soldier moved his hips, his shaft thrusting in and out of her flesh, his face full of arrogant excitement.
+HCR23		Whenever they caught a woman, they enjoyed this kind of fun. But when the other party was a Lycan, chances like this were rare...
+HCR24	Luna	(No... ugh... I have to pull myself together...)
+HCR25	Luna	(The organization... what did the organization teach me again?...)
+HCR26	Luna	(At a time like this... what am I supposed to do?)
+HCR27		Luna felt her mind growing confused. She knew there should be many countermeasures in this situation... but she could not remember a single one...
+HCR28	Luna	(So hot............ my head is spinning.)
+HCR29	Luna	(This feeling is so strange...)
+HCR30	Soldier	Hey, even though you are being raped, you look like you are enjoying it... Could it actually feel good? Oh, you are already this wet.
+HCR31	Luna	I... I am not! Do not say... things like that!
+HCR32	Luna	Haah~!
+HCR33	Soldier	You are moaning that loudly and still dare say you are not?
+HCR34	Soldier	I bet you got caught on purpose because you wanted to be fucked!
+HCR35	Luna	I... did not... I did not... ugh... haah...
+HCR36	Soldier	Haha, you cannot hide it from me.
+HCR37	Soldier	We have seen plenty of women like you, spreading their legs on purpose to seduce us just to gather military information. There was one before.
+HCR38	Soldier	Want to know what we turned her into in the end?
+HCR39	Luna	I... I do not want to know...
+HCR40	Luna	No... please forgive me... ah!
+HCR41	Soldier	A bitch like you should be punished hard, then locked in the camp as our meat toilet!
+HCR42	Luna	No!
+HCR43	Luna	(I still... still have a mission to complete...)
+HCR44	Soldier	Still acting tough!
+HCR45	Soldier	Do not think I do not know what a slut like you is thinking!
+HCR46	Soldier	Whatever your purpose was! You killed so many of our men! Now you will pay it back double!
+HCR47	Luna	Ha... ah!... no... stop... too, too rough... please, let me go!
+HCR48	Soldier	Let you go? There is no such good thing in this world!
+HCR49	Soldier	Ugh... I am about to come!
+HCR50	Luna	Inside... no!
+HCR51	Luna	(If he comes inside, I will get pregnant...!)
+HCR52	Soldier	Shut up and take it!
+HCR53	Soldier	My turn now!
+HCR54	Soldier	Haha, let everyone have their fun.
+HCR55	Luna	No... please...
+HCR56	Luna	Ha, haah... ah... ah...\|someone... help...
+HCR57	Soldier	Hah! I came!
+HCR58	Soldier	That felt good, ahem.
+HCR59	Soldier	Alright, lock her up!
+HCR60	Luna	No... I already...\|have no strength left...
+HCR61	Luna	The mission...\|I cannot...\|complete it...
+HCR62	Lati	...How disgraceful.
+HCR63	Soldier	Who?! How dare you-
+HCR64	Soldier	Gaaah-!
+HCR65	Lati	Get up.
+HCR66	Luna	Ugh... what happened?
+HCR67	Luna	Senior Lati?! Did you save me?
+HCR68	Lati	If there is a next time, I will not save you again.
+HCR69	Luna	Thank you, Senior Lati!
+
+HCRepCloth1	037	Alright, then, could you please... take off your clothes and give them to me?
+HCRepCloth2	Luna	Ugh... mm, mm... okay.
+HCRepCloth3	Luna	(This feels so awkward...)
+HCRepCloth4	Luna	...
+HCRepCloth5	037	...
+HCRepCloth6	Luna	(I have absolutely no idea what to say...)
+HCRepCloth7	Luna	(Come to think of it, why did I agree to this...?)
+HCRepCloth8	Luna	...
+HCRepCloth9	037	...
+HCRepCloth10	Luna	(But... he is doing this out of kindness...)
+HCRepCloth11	Luna	(Ugh...)
+HCRepCloth12	037	Miss Luna...
+HCRepCloth13	Luna	Y-Yes?
+HCRepCloth14	037	...Miss Luna, you are not cold, are you?
+HCRepCloth15	Luna	N-No, not at all! I am the Shadow Wolf's... a-ace candidate! Why would I be cold?
+HCRepCloth16	037	Th-That is good...
+HCRepCloth17	Luna	(Uuuugh...)
+HCRepCloth18	Luna	...
+HCRepCloth19	037	...
+HCRepCloth20		After a short while...
+HCRepCloth21	037	Alright, it is done. Miss Luna, your clothes have been repaired.
+HCRepCloth22	Luna	Wow! Great, thank you so much.
+HCRepCloth23	037	Hehe, it is my honor to help Miss Luna... Mm, and thank you for the treat. (quietly)
+HCRepCloth24	Luna	Hmm?
+HCRepCloth25	037	Nothing, nothing.
+
+GiveBirthQuick1		...It is coming out.
+GiveBirthQuick2		Ha, ha, ha...
+GiveBirthQuick3		Ugh!
+GiveBirthQuick4		Get out!
+GiveBirthQuick5		Ah!
+GiveBirthQuick6		Ha, haah...
+
+MSMerchant1		Hehehe, welcome...
+MSMerchant2		Hehe, that's a really nice pussy
+
+SSteleT1		It's so hard... If only I could use explosion magic...
+
+SCYUKI1	Yukimura	Geez, if Senior Lati hadn’t run off to study some ancient magic, I wouldn’t have dared come back here.
+SCYUKI2	Luna	Yukimura-senpai! H-How could you do that?!
+SCYUKI3	Yukimura	Huh? What is it, what is it, my dear junior?
+SCYUKI4	Luna	About that... the magic scrolls! Why do I still have to buy them from 037?!
+SCYUKI5	Yukimura	Ahaha... well, about that...
+SCYUKI6	Luna	Uwaaah! Those were supposed to be our shared spoils!
+SCYUKI7	Yukimura	Mmm... okay, okay. Here, these are for you.
+SCYUKI8	Yukimura	I’m sorry, okay? Will you forgive me?
+SCYUKI9	Luna	...Mmh\|, fine.

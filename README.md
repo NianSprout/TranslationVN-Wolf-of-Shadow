@@ -1,5 +1,9 @@
 # ⛩️ Wolf of Shadow TranslationVN
 
+![Project Banner](https://i.postimg.cc/c4vfZMhT/Cover-Original.png)
+
+---
+
 A self-project to translate **Wolf of Shadow** into Vietnamese.  
 (Dự án cá nhân dịch game **Wolf of Shadow** sang tiếng Việt.)
 

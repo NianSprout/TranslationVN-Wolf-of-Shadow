@@ -18,13 +18,13 @@
 18	Luna	Woa, lợi hại thật đó!
 19	Luna	Thật ra em cũng đoán được phần nào rồi.
 20	Luna	Chỉ là em không ngờ tiền bối Yukimura lại có thể tự mình xử lý nhiều kẻ địch đến vậy.
-21	Yukimura	Hehe, don’t say that. I do train regularly, you know.
-22	Yukimura	Ahem, though I’m still nowhere near your level, of course… ahaha!
-23	Luna	So, why is Yukimura-senpai here?
-24	Luna	Isn’t this Luna’s mission?
-25	Yukimura	Oh come on, don’t worry about the little details.
-26	Yukimura	Sometimes, looking after your juniors is part of being a Senpai!
-27	Luna	Hmm… I feel like there’s another reason.
+21	Yukimura	Hehe, đừng nói vậy chứ. Chị vẫn tập luyện đều đặn mà.
+22	Yukimura	Khụ, nhưng tất nhiên là vẫn chưa thể nào bằng được em rồi… ahaha!
+23	Luna	Mà, sao tiền bối Yukimura lại ở đây vậy?
+24	Luna	Đây vốn là nhiệm vụ của Luna mà?
+25	Yukimura	Ôi dào, đừng để ý mấy chuyện nhỏ nhặt đó chứ.
+26	Yukimura	Đôi lúc chăm sóc hậu bối cũng là nghĩa vụ của một tiền bối mà!
+27	Luna	Hmm… em cảm giác còn có lý do khác nữa cơ.
 28	Yukimura	Anyways, back to the main point! Do you wanna know how I did it? How I took out all these enemies? Hmm?
 29	Luna	Slashed them down one by one?
 30	Yukimura	That would’ve been too much… Actually, I used a special technique.

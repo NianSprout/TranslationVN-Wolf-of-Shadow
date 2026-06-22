@@ -14,7 +14,7 @@
 14	
 15	Yukimura	Này~ Luna! Bên này này!
 16	Luna	Là tiền bối Yukimura? Chị làm gì ở đây vậy?
-17	Yukimura	Ừm, cũng xảy ra khá nhiều chuyện. Nhìn đi, đám này đều do chị xử lý đấy.
+17	Yukimura	Ừm, cũng xảy ra khá nhiều chuyện ấy mà. Nhìn nè, đám này đều do chị xử lý hết đấy.
 18	Luna	Woa, lợi hại thật đó!
 19	Luna	Thật ra em cũng đoán được phần nào rồi.
 20	Luna	Chỉ là em không ngờ tiền bối Yukimura lại có thể tự mình xử lý nhiều kẻ địch đến vậy.
@@ -26,7 +26,7 @@
 26	Yukimura	Đôi lúc chăm sóc hậu bối cũng là nghĩa vụ của một tiền bối mà!
 27	Luna	Hmm… em cảm giác còn có lý do khác nữa cơ.
 28	Yukimura	Mà thôi, quay lại chuyện chính nào! Em có muốn biết chị đã làm thế nào không? Làm sao chị hạ được từng này kẻ địch ấy? Hmm?
-29	Luna	Chém hạ từng tên một phải không?
+29	Luna	Chém hạ từng tên một phải không ạ?
 30	Yukimura	Làm thế thì cực quá... Thực ra, chị đã dùng một loại kỹ thuật đặc biệt chút.
 31	Luna	???
 32	Yukimura	Cái vẻ mặt đó là sao thế?
@@ -37,71 +37,71 @@
 37	Yukimura	Ha, đúng là em không biết thật nhỉ? Xem ra phải để cho tiền bối Yukimura vĩ đại đây phải chỉ đường cho em rồi!
 38	Luna	Đừng có chọc nữa mà, nhanh nói cho em biết đi, tiền bối vĩ đại.
 39	Yukimura	E hèm, nghe này.
-40	Yukimura	You have to use the right method at the right time… in other words—seduction!
-41	Yukimura	Then, when they let their guard down—finish them in one strike!
-42	Yukimura	It's called, "the Exhibition Jutsu!"
-43	Luna	Se—sedu—seduction?!
-44	Yukimura	Như thế có đúng không?.
-45	Yukimura	Bare your body, tempt the target, and make them drop their guard. That’s what we call a woman’s weapon.
-46	Yukimura	Besides, our assassination organization taught us that too, did they not?
-47	Luna	…That was only as a last resort! And only if we got caught accidentally—no one said anything about actual exposure…
-48	Yukimura	Isn’t it all the same? It’s still seduction either way.
-49	Luna	That’s… not quite the same, is it?
-50	Yukimura	It’s totally the same. It’s not like you’ll lose a piece of yourself just because someone sees you.
-51	Luna	But… it’s embarrassing…
-52	Yukimura	Cast away your shame Luna! Don’t forget, the order taught us to do whatever it takes to accomplish our mission!
-53	Yukimura	If it works, why not use it? It’s a waste otherwise! A waste of those big ol’ honkin’ boobs of yours!
-54	Luna	…Please don’t call them “big ol’ honkin’ boobs”!
-55	Yukimura	Come on now, take it from your great senpai! A secret art passed down through the organization—everyone who’s tried it, swears by it!
-56	Luna	But…
-57	Yukimura	Hmm, maybe it is too bold for someone like you, Luna?
-58	Yukimura	The great Yukimura-senpai won’t force you. However, if you ever want to learn, just come find me… I’ll be around for a while.
+40	Yukimura	Em phải dùng đúng phương pháp vào đúng thời điểm... nói cách khác thì-quyến rũ!
+41	Yukimura	Sau đó, khi đối phương mất cảnh giác... kết liễu chỉ trong một đòn!
+42	Yukimura	Nó được gọi là, "Thuật Khỏa Thân!"
+43	Luna	Qu—quyến—quyến rũ á?!
+44	Yukimura	Đúng rồi đó.
+45	Yukimura	Hãy phơi bày cơ thể, dụ dỗ mục tiêu và khiến chúng mất cảnh giác. Đó chính là thứ chúng ta gọi là vũ khí của phụ nữ.
+46	Yukimura	Với lại, tổ chức sát thủ của chúng ta cũng từng dạy như vậy mà, đúng không?
+47	Luna	...Đó chỉ là biện pháp cuối cùng thôi mà! Và chỉ dùng khi có lỡ bị phát hiện... đâu có ai nói phải thật sự phơi bày bản thân đâu…
+48	Yukimura	Chẳng phải đều như nhau sao? Dù sao thì cũng đều là quyến rũ mà.
+49	Luna	Cái đó... cũng không hẳn giống nhau lắm nhỉ?
+50	Yukimura	Giống nhau hết mà. Có phải chỉ vì bị người khác nhìn thấy mà em bị ăn mất đi miếng nào đâu.
+51	Luna	Nhưng mà... xấu hổ lắm...
+52	Yukimura	Vứt bỏ sự xấu hổ đi, Luna! Đừng quên tổ chức đã dạy chúng ta phải làm mọi cách để hoàn thành nhiệm vụ!
+53	Yukimura	Nếu hiệu quả thì sao lại không dùng? Không thì phí lắm! Phí cặp ngực to đùng của em quá đi!
+54	Luna	...Xin đừng gọi chúng là “cặp ngực to đùng” nữa mà!
+55	Yukimura	Thôi nào, cứ tin tiền bối vĩ đại này đi! Bí thuật được truyền lại trong tổ chức đó, ai thử rồi cũng đều khen hết đấy!
+56	Luna	Nhưng mà…
+57	Yukimura	Hmm, có lẽ đúng là hơi táo bạo với người như Luna nhỉ?
+58	Yukimura	Tiền bối Yukimura vĩ đại sẽ không ép em đâu. Nhưng nếu một lúc nào đó em muốn học, cứ đến tìm chị nhé... chị sẽ ở đây thêm lúc lâu nữa.
 59	Luna	Mmm…
 60		
-61	Yukimura	So... have you made up your mind?
-62	Prompt	Learning the "Exhibition Jutsu," from Yukimura will unlock all R18 content.
-63	Luna	Umm… then… could you teach me?
-64	Yukimura	That’s the spirit!
-65	Yukimura	Having a great body and not putting it to use, that would be a crime. Especially you, Luna… alrighty then, follow me.
-66	Yukimura	See that soldier up ahead? Before he starts chasing you, all you have to do is this…
-67	Luna	W-Whoa?! Why are you lifting up your shirt all of a sudden?!
-68	Yukimura	Shhh. This is just a demonstration… you just need to show him your chest like this.
-69	Luna	…I have to show my chest!?
-70	Yukimura	Of course! Though maybe going fully bare right away is a bit much for you. Just lift and push them up a little—it’s plenty, considering how big they are.
-71	Luna	O-okay… I got it.
-72	Yukimura	Next, if you don’t want to get groped… strike while he’s approaching you!
-73	Hướng dẫn	Hold the E key to use Exposure Art.
-74	Hướng dẫn	Performing an Exhibition on an enemy will attract their attention and draw them closer. If you attack them while they're approaching, you'll deal double damage.
-75	Hướng dẫn	Enemies already attacked by Luna cannot be lured again. (Resets after resting.)
+61	Yukimura	Vậy... em đã quyết định chưa nào?
+62	Gợi ý	Học "Thuật Khỏa Thân!" từ Yukimura sẽ mở khóa toàn bộ nội dung R18.
+63	Luna	Umm... vậy thì... chị có thể dạy em không?
+64	Yukimura	Phải thế chứ!
+65	Yukimura	Có một cơ thể đẹp mà không biết tận dụng thì đúng là lãng phí quá. Đặc biệt là em đó, Luna… được rồi, đi theo chị nào.
+66	Yukimura	Thấy tên lính phía trước không? Trước khi hắn bắt đầu đuổi theo em thì việc em cần làm chỉ là thế này thôi...
+67	Luna	K-Khoan?! Sao tự dưng chị lại vén áo xuống vậy?!
+68	Yukimura	Suỵt. Đây chỉ là làm mẫu thôi... em chỉ cần cho hắn thấy ngực của mình như thế này là được.
+69	Luna	...Em phải cho thấy ngực của mình sao!?
+70	Yukimura	Tất nhiên rồi! Mặc dù có lẽ cởi hẳn ra ngay từ đầu thì có hơi quá với em. Chỉ cần kéo lên rồi đẩy chúng lên một chút thôi, với kích thước của em thì thế là đủ rồi.
+71	Luna	Đ-được rồi... em hiểu rồi.
+72	Yukimura	Tiếp theo, nếu em không muốn bị sàm sỡ... thì hãy ra tay ngay lúc hắn đang tiến lại gần!
+73	Hướng dẫn	Giữ phím E để sử dụng Thuật Khỏa Thân.
+74	Hướng dẫn	Thực hiện phơi bày trước kẻ địch sẽ thu hút sự chú ý của chúng và khiến chúng tiến lại gần. Nếu tấn công chúng trong lúc đang tiếp cận, bạn sẽ gây gấp đôi sát thương.
+75	Hướng dẫn	Kẻ địch đã từng bị Luna tấn công sẽ không thể bị dụ lại lần nữa. (Được thiết lập lại sau khi nghỉ ngơi.)
 76		
-77	Yukimura	Nicely done, Luna!
-78	Yukimura	Although… were you letting him grope you on purpose just now? You had a perfect chance to strike, didn’t you?
-79	Luna	I, uh…
-80	Yukimura	Hehe, no need to explain. I get it!
-81	Luna	That’s not it! I mean…
-82	Yukimura	Just be careful, alright? If an enemy catches you, they might do all sorts of indecent things to you… You wouldn’t want some sweaty, stinky human taking your virginity, would you?
-83	Yukimura	Hmm… Then again, that’s still probably better than a monster taking it, ahahaha.
-84	Luna	……
-85	Yukimura	Oh right—Luna, you're still a virgin, right?
+77	Yukimura	Làm tốt lắm, Luna!
+78	Yukimura	Mặc dù… lúc nãy em cố tình để hắn sờ mó mình à? Em có cơ hội hoàn hảo để ra tay rồi mà, đúng không?
+79	Luna	Em, uh…
+80	Yukimura	Hehe, không cần giải thích đâu. Chị hiểu mà!
+81	Luna	Không phải vậy! Ý em là…
+82	Yukimura	Hãy nhớ cẩn thận chút nhé. Nếu để bị kẻ địch bắt được, chúng có thể làm đủ thứ dơ bẩn với em đấy... Em đâu muốn bị một tên loài người vừa hôi hám vừa đầy mồ hôi cướp mất lần đầu chứ?
+83	Yukimura	Hmm... mà nghĩ lại thì chắc vẫn còn tốt hơn bị quái vật cướp mất nhỉ, ahahaha.
+84	Luna	......
+85	Yukimura	À đúng rồi! Luna, em vẫn còn trinh đúng không??
 86	Luna	Mmm…
-87	Yukimura	Hehe… if I had the right equipment, I’d totally ravish you right now… You adorable little thing, heheh…
-88	Luna	W-Wah! Don’t touch me there!
+87	Yukimura	Hehe… nếu chị có đủ công cụ thì chị sẽ vồ lấy em ngay bây giờ rồi. Đúng là một bé con đáng yêu mà, heheh…
+88	Luna	W-Wah! Đừng chạm vào chỗ đó!
 89		
-90	Yukimura	Speaking of which… I heard Senpai Lati is around too?
-91	Luna	Yeah, that’s right.
-92	Luna	She’s been helping me clean up the corpses of the enemies I’ve taken out.
-93	Yukimura	Wow, that’s pretty nice of her—really looking out for her junior.
-94	Yukimura	She didn’t help at all during my trial, though. I got captured and it took her three whole days to come save me…
-95	Yukimura	Sniff sniff… She waited until I’d been XXX’d into delirium before showing up! So cruel!
-96	Yukimura	I was such a pure, innocent girl back then…
-97	Yukimura	Boohoo…
+90	Yukimura	Mà nhắc mới nhớ… chị nghe nói tiền bối Lati cũng đang ở đây à?
+91	Luna	Ừ, đúng vậy đó.
+92	Luna	Chị ấy đã giúp em dọn dẹp xác của những kẻ địch mà em đã hạ.
+93	Yukimura	Wow, chị ấy tốt bụng thật đấy, thực sự luôn quan tâm đến đàn em của mình.
+94	Yukimura	Nhưng hồi kỳ sát hạch của chị thì chị ấy chẳng giúp gì cả. Chị đã bị bắt, vậy mà phải mất tận ba ngày thì chị ấy mới tới cứu...
+95	Yukimura	Hức hức… Chị ấy đợi tới lúc chị bị XXX đến mức thần trí mơ hồ rồi mới xuất hiện! Thật là tàn nhẫn quá!
+96	Yukimura	Hồi đó chị còn là một cô gái ngây thơ, trong sáng lắm mà…
+97	Yukimura	Hu hu…
 98	Luna	……
-99	Luna	I remember Lati said you totally brought that on yourself.
-100	Yukimura	Oh that? Haha… I may have slipped up a little…
-101	Yukimura	Anyway! Let’s change the subject. Up ahead, there’s a hidden cave in the mountain.
-102	Yukimura	Your great senpai has already scouted it out. No one ever goes in there—it’s the perfect resting spot.
-103	Luna	Already been there. Lati-senpai is there too.
-104	Yukimura	Huh? She’s nearby? …Hmm, I’ve got some things to take care of, so I’ll be heading off now!
+99	Luna	Em nhớ tiền bối Lati từng nói là chị tự chuốc lấy chuyện đó mà.
+100	Yukimura	À chuyện đó hả? Haha... có lẽ lúc đó chị có hơi bất cẩn một chút...
+101	Yukimura	Mà thôi! Đổi chủ đề nào. Phía trước có một hang động ẩn trong núi.
+102	Yukimura	Tiền bối vĩ đại này đã đi do thám rồi. Chẳng ai vào đó cả, đúng là chỗ nghỉ ngơi hoàn hảo.
+103	Luna	Em đã tới đó rồi. Tiền bối Lati cũng đang ở đó.
+104	Yukimura	Hể? Chị ấy ở gần đây sao? …Hmm, chị còn vài việc cần xử lý, nên chị đi trước đây!
 105		
 106	Hướng dẫn	Giữ phím V để mở Menu.
 107		

@@ -51,7 +51,7 @@ TRANSLATIONS = {
   seduction_trade: ["Lấy tiền", "Lấy vật phẩm", "Quyến rũ (khiến đối phương ngừng thù địch)", "Bán thân (nhận Linh hồn)"],
   seduction_selling: ["Bằng miệng", "Hậu môn", "Âm hộ"],
 
-  charmed_mame: "Đã quyến rũ",
+  charmed_mame: "Đã bị quyến rũ",
 
   # Souls
   souls: "Linh hồn",
@@ -114,8 +114,8 @@ TRANSLATIONS = {
 
   # Desire
   desire_not_enough: "Không đủ \\C[27]\\I[530] Dục Vọng \\C[0].",
-  desire_required: "Yêu cầu Dâm Dục: \\C[6]<eroticism>\\C[0]\nCần để nâng cấp: \\C[27]\\I[530] <desire_point> Dục Vọng",
-  eroticism_required: "Cần Dâm Dục đạt \\C[27]<eroticism>\\C[0] hoặc cao hơn để học kỹ năng này",
+  desire_required: "Yêu cầu Dâm Dục: \\C[6]<eroticism>\\C[0]\nCần để nâng cấp: \\C[27]\\I[530]<desire_point> Dục Vọng⠀",
+  eroticism_required: "Cần Dâm Dục đạt \\C[27]<eroticism>\\C[0] hoặc cao hơn để học kỹ năng này ",
 
   companion_seduce_1: ["Phần Thưởng", "Ngoài giao tranh, bạn có thể để đồng đội nhìn ngắm cơ thể mình. Làm vậy sẽ tăng tốc độ hồi phục HP tự động của họ."],
   companion_seduce_2: ["Phần Thưởng", "Trong lúc để lộ cơ thể, bạn có thể dụ đồng đội chạm vào mình. Sau đó hồi phục \\C[6]<number>%\\C[0] HP cho họ."],

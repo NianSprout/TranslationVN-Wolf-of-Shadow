@@ -1,23 +1,23 @@
-1	Tutorial	Watch out for enemy field of vision. Enemy's field of vision can be blocked by obstacles
-2	Tutorial	Use the \c[1]A\c[0] key to lock onto enemies.
-3	Tutorial	Press \c[1]W\c[0] to use Smoke Bomb
-4	Tutorial	\c[1]Button: S\c[0] to aim
-5	Tutorial	\c[1]Button: Z\c[0] to attack
-6	Tutorial	\c[1]Button: C\c[0] to quick cast
-7	Tutorial	\c[17]Switch Skill：Space + S
-8	Tutorial	Press \c[1]Q\c[0] to use Item
-9	Tutorial	\c[1]Key Space + Q\c[0]: Switch item
-10	Tutorial	Health potions will be \c[18]replenished\c[0] after each rest.
+1	Hướng dẫn	Hãy chú ý đến tầm nhìn của kẻ địch. Tầm nhìn của kẻ địch có thể bị chặn bởi chướng ngại vật
+2	Hướng dẫn	Nhấn phím \c[1]A\c[0] để khóa mục tiêu vào kẻ địch.
+3	Hướng dẫn	Nhấn \c[1]W\c[0] để sử dụng Bom Khói
+4	Hướng dẫn	\c[1]Phím: S\c[0] Ngắm
+5	Hướng dẫn	\c[1]Phím: Z\c[0] Tấn công
+6	Hướng dẫn	\c[1]Phím: C\c[0] Thi triển nhanh
+7	Hướng dẫn	\c[17]Đổi kỹ năng: Space + S
+8	Hướng dẫn	Nhấn \c[1]Q\c[0] để sử dụng vật phẩm
+9	Hướng dẫn	\c[1]Phím Space + Q\c[0]: Đổi vật phẩm
+10	Hướng dẫn	Bình hồi máu sẽ được \c[18]hồi lại\c[0] sau mỗi lần nghỉ.
 11		
 12	Luna	Trước khi vào rừng thì mình nên nghỉ ngơi một chút trước đã…
 13	Luna	That silhouette just now…?
 14	
-15	Yukimura	Hey~ Luna! Over here!
-16	Luna	Ah, Yukimura-senpai? What are you doing here?
-17	Yukimura	Well, a lot happened. Look, all these guys—I took care of them.
-18	Luna	Whoa, that's amazing!
-19	Luna	Actually, I kinda figured.
-20	Luna	I just didn’t expect Yukimura-senpai to handle so many enemies all by herself.
+15	Yukimura	Này~ Luna! Bên này này!
+16	Luna	Là tiền bối Yukimura? Chị làm gì ở đây vậy?
+17	Yukimura	Ừm, cũng xảy ra khá nhiều chuyện. Nhìn đi, đám này đều do chị xử lý đấy.
+18	Luna	Woa, lợi hại thật đó!
+19	Luna	Thật ra em cũng đoán được phần nào rồi.
+20	Luna	Chỉ là em không ngờ tiền bối Yukimura lại có thể tự mình xử lý nhiều kẻ địch đến vậy.
 21	Yukimura	Hehe, don’t say that. I do train regularly, you know.
 22	Yukimura	Ahem, though I’m still nowhere near your level, of course… ahaha!
 23	Luna	So, why is Yukimura-senpai here?
@@ -70,9 +70,9 @@
 70	Yukimura	Of course! Though maybe going fully bare right away is a bit much for you. Just lift and push them up a little—it’s plenty, considering how big they are.
 71	Luna	O-okay… I got it.
 72	Yukimura	Next, if you don’t want to get groped… strike while he’s approaching you!
-73	Tutorial	Hold the E key to use Exposure Art.
-74	Tutorial	Performing an Exhibition on an enemy will attract their attention and draw them closer. If you attack them while they're approaching, you'll deal double damage.
-75	Tutorial	Enemies already attacked by Luna cannot be lured again. (Resets after resting.)
+73	Hướng dẫn	Hold the E key to use Exposure Art.
+74	Hướng dẫn	Performing an Exhibition on an enemy will attract their attention and draw them closer. If you attack them while they're approaching, you'll deal double damage.
+75	Hướng dẫn	Enemies already attacked by Luna cannot be lured again. (Resets after resting.)
 76		
 77	Yukimura	Nicely done, Luna!
 78	Yukimura	Although… were you letting him grope you on purpose just now? You had a perfect chance to strike, didn’t you?
@@ -103,18 +103,18 @@
 103	Luna	Already been there. Lati-senpai is there too.
 104	Yukimura	Huh? She’s nearby? …Hmm, I’ve got some things to take care of, so I’ll be heading off now!
 105		
-106	Tutorial	Hold V to open the menu.
+106	Hướng dẫn	Giữ phím V để mở Menu.
 107		
 108		
 109		
-110	Luna	Lati-senpai!
+110	Luna	Tiền bối Lati!
 111	Lati	Luna.
-112	Luna	What are you doing here? Weren't you on another mission?
-113	Lati	The mission is complete. I stopped by to check on you.
-114	Luna	Huh? Could it be… you're worried about me, Lati-senpai?
-115	Lati	…This is your final trial. You need to take it seriously.
-116	Luna	Hehe, I will.
-117	Lati	Your mission is to investigate the Imperial Army's movements and assassinate the supreme commander of the Third Legion… The Legion Commander is a Flame Knight. You're strong enough now to defeat him.
+112	Luna	Mà chị đang làm gì ở đây vậy? Chẳng phải chị đang có nhiệm vụ khác sao?
+113	Lati	Nhiệm vụ đã hoàn thành rồi. Chị tiện đường ghé qua xem tình hình của em thế nào.
+114	Luna	Hể? Chẳng lẽ... tiền bối Lati đang lo lắng cho em sao?
+115	Lati	...Đây là thử thách cuối cùng của em rồi. Em cần phải nghiêm túc đối mặt với nó đấy.
+116	Luna	Hehe, em biết mà.
+117	Lati	Nhiệm vụ của em là điều tra động thái của Quân đội Đế Quốc và ám sát Tổng chỉ huy của Quân đoàn số 3… Chỉ huy quân đoàn là một Kỵ Sĩ Lửa. Bây giờ em đã đủ mạnh để đánh bại hắn rồi.
 118	Lati	You can choose either to stealth or assault… that’s your choice.
 119	Lati	A frontal assault is your specialty, but if the enemy numbers are overwhelming, don’t act recklessly.
 120	Lati	... I'll assist you from the shadows, when necessary.
@@ -287,9 +287,9 @@
 287	Yukimura	Naturally. You can look forward to it—hehe.
 288	Luna	I am not looking forward to it!!
 289		
-290	Tutorial	Luna can now attempt to ask enemies for gold, items, or information while performing exhibition actions when touched. This may also briefly stop enemies from attacking.
-291	Tutorial	Different enemies have different success rates, and some may refuse. Repeated rejections may anger them.
-292	Tutorial	The higher Luna’s Exhibitionism Level, the higher her success rate.
+290	Hướng dẫn	Luna can now attempt to ask enemies for gold, items, or information while performing exhibition actions when touched. This may also briefly stop enemies from attacking.
+291	Hướng dẫn	Different enemies have different success rates, and some may refuse. Repeated rejections may anger them.
+292	Hướng dẫn	The higher Luna’s Exhibitionism Level, the higher her success rate.
 293		
 294		
 295	Yukimura	Hehe, you really are good at finding me.
@@ -549,8 +549,8 @@
 549	Luna	D-Down below?! 
 550	Luna	That sounds a bit too difficult for me...
 551	Yukimura	Not at all! You’re already more than qualified! Be bold and show it off!
-552	Tutorial	When Luna uses seductive exposure, different enemies will have different preferences. Choosing the right area to expose will greatly increase your chance of success. However, it will also raise the enemy’s excitement level.
-553	Tutorial	When the enemy’s excitement bar is full, they will immediately enter combat and attempt to assault Luna.
+552	Hướng dẫn	When Luna uses seductive exposure, different enemies will have different preferences. Choosing the right area to expose will greatly increase your chance of success. However, it will also raise the enemy’s excitement level.
+553	Hướng dẫn	When the enemy’s excitement bar is full, they will immediately enter combat and attempt to assault Luna.
 554	Yukimura	Alright, I’ll be waiting for you up ahead.
 555	Yukimura	Don’t forget to come find me~ Hehehe~
 556		
@@ -1213,7 +1213,7 @@ Tavern32	Soldier Brad	There is no time limit. If you get tired, just leave, but 
 Tavern33	Luna	I get paid too?
 Tavern34	Soldier Brad	Of course. We cannot have you working for nothing. Naturally, your pay depends on the \C[6]number of orders\C[0] you complete... If you mess up, like getting the drink wrong or spilling it on someone, your pay will be docked.
 Tavern35	Luna	I understand. I do not think I will mess up!
-Tavern36	Tutorial	\C[4]Luna can now work at the tavern\C[0]. By serving customers in the tavern, she can earn \C[6]gold\C[0] based on the number of completed orders.
+Tavern36	Hướng dẫn	\C[4]Luna can now work at the tavern\C[0]. By serving customers in the tavern, she can earn \C[6]gold\C[0] based on the number of completed orders.
 
 HCR1	Luna	Let me go!
 HCR2	Soldier	Finally caught you!

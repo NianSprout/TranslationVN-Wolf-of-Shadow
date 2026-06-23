@@ -115,20 +115,20 @@
 115	Lati	...Đây là thử thách cuối cùng của em rồi. Em cần phải nghiêm túc đối mặt với nó đấy.
 116	Luna	Hehe, em biết mà.
 117	Lati	Nhiệm vụ của em là điều tra động thái của Quân đội Đế Quốc và ám sát Tổng chỉ huy của Quân đoàn số 3… Chỉ huy quân đoàn là một Kỵ Sĩ Lửa. Bây giờ em đã đủ mạnh để đánh bại hắn rồi.
-118	Lati	You can choose either to stealth or assault… that’s your choice.
-119	Lati	A frontal assault is your specialty, but if the enemy numbers are overwhelming, don’t act recklessly.
-120	Lati	... I'll assist you from the shadows, when necessary.
-121	Luna	Really? Um… wouldn’t that count as cheating?
-122	Lati	A little help doesn’t hurt.
-123	Luna	Is that so?
-124	Lati	Mm. Don’t tell the others.
-125	Luna	Got it! I won’t tell a soul!
-126	Lati	Behind me is the magical mechanism that opens the Shadow Crevice. It connects to our temporary base in a pocket dimension—you’ll need to use it.
-127	Lati	Do your best. Don’t let me down.
-128	Lati	Now go on—keep moving.
+118	Lati	Em có thể làm điều ấy theo kiểu lén lút hay tấn công trực diện... là tùy thuộc vào em.
+119	Lati	Chị biết sở trường của em là tấn công trực diện, nhưng nếu kẻ địch quá hung hãn, thì đừng hành động liều lĩnh.
+120	Lati	... Chị sẽ hỗ trợ em từ phía sau, nếu cần thiết.
+121	Luna	Thật á? Nhưng mà… thế chẳng phải được coi là gian lận sao?
+122	Lati	Một chút sự giúp đỡ sẽ chẳng ảnh hưởng gì đâu.
+123	Luna	Thật á?
+124	Lati	Nhưng mà... đừng kể cho ai khác biết về điều này.
+125	Luna	Đã rõ! Em hứa sẽ giữ kín chuyện này, không kể với ai một lời nào cả về việc này!
+126	Lati	Phía sau chị là pháp cơ cho phép chị khai mở Khe Nứt Bóng Tối. Nó liên kết với căn cứ tạm thời trong một không gian biệt lập-chị nghĩ em sẽ cần đến nó.
+127	Lati	Hãy cố gắng hết sức. Đừng làm chị thất vọng.
+128	Lati	Mau đi đi, đừng chậm trễ nữa. 
 129		
-130	Lati	This place is called the Mist Forest, because the thick, sun-blocking fog here never dissipates.
-131	Lati	The fog contains magical particles of unknown origin, which leads to the constant birth of monsters—and the emergence of stronger ones.
+130	Lati	Nơi đây gọi là Khu Rừng Sương Mù, bởi vì làn sương ở đây rất dày, tại đây sương che khuất ánh trời và không bao giờ tan đi.
+131	Lati	Đặc biệt, làn sương tại khu rừng này có chứa những hạt ma thuật không rõ nguồn gốc, which leads to the constant birth of monsters—and the emergence of stronger ones.
 132	Lati	The Slime King you encountered earlier is one of the powerful monsters born from the mist.
 133	Lati	Even if you kill it, another will eventually be born.
 134	Lati	The weak slimes are endlessly spawned by the fog as well… they can’t be wiped out completely.

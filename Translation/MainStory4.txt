@@ -114,7 +114,7 @@
 114	Luna	Hể? Chẳng lẽ... tiền bối Lati đang lo lắng cho em sao?
 115	Lati	...Đây là thử thách cuối cùng của em rồi. Em cần phải nghiêm túc đối mặt với nó đấy.
 116	Luna	Hehe, em biết rồi mà.
-117	Lati	Nhiệm vụ của em là điều tra động thái của Quân đội Đế Quốc và ám sát Tổng chỉ huy của Quân đoàn số 3… Chỉ huy quân đoàn là một Kỵ Sĩ Lửa. Bây giờ em đã đủ mạnh để đánh bại hắn rồi.
+117	Lati	Nhiệm vụ của em là điều tra động thái của Quân đội Đế Quốc và ám sát Tổng chỉ huy của Quân đoàn số Ba… Chỉ huy quân đoàn là một Kỵ Sĩ Lửa. Bây giờ em đã đủ mạnh để đánh bại hắn rồi.
 118	Lati	Em có thể tự do lựa chọn giữa lén lút hay tấn công trực diện... là tùy thuộc vào em.
 119	Lati	Chị biết sở trường của em là tấn công trực diện, nhưng nếu kẻ địch quá áp đảo thì đừng có hành động liều lĩnh.
 120	Lati	... Khi cần thiết, chị sẽ hỗ trợ em từ trong bóng tối.
@@ -129,7 +129,7 @@
 129		
 130	Lati	Nơi đây gọi là Khu Rừng Sương Mù, bởi vì làn sương ở đây rất dày đặc che khuất ánh mặt trời và không bao giờ tan đi.
 131	Lati	Trong màn sương có chứa các hạt Mana có nguồn gốc chưa xác định, khiến quái vật liên tục được sinh ra, đồng thời cũng xuất hiện những cá thể mạnh hơn.
-132	Lati	Vua Slime mà em gặp trước đó là một trong những quái vật rất mạnh được sinh ra từ màn sương đó.
+132	Lati	Vua Slime mà em gặp trước đó là một trong những quái vật rất mạnh được sinh ra từ màn sương.
 133	Lati	Ngay cả khi em tiêu diệt chúng, rồi chẳng mấy chốc sẽ lại có một con khác được sinh ra.
 134	Lati	Những con slime yếu hơn cũng được sinh ra không ngừng từ màn sương... chúng không thể bị tiêu diệt hoàn toàn.
 135		
@@ -139,52 +139,52 @@
 139	Lati	Đúng vậy. Đó cũng là lý do em cần phải cẩn thận khi đối đầu với Kỵ Sĩ Lửa.
 140	Lati	Đáng tiếc cho chúng ta là màn sương này chẳng mang lại lợi ích gì mấy. Sức mạnh của chúng ta đến từ mặt trăng, chứ không phải ma thuật… và với tư cách là thú nhân, chúng ta không thể sử dụng ma thuật.
 141		
-142	Lati	Here, you can learn some new powers.
-143	Lati	But... it will come at a cost.
-144	Lati	Here, you can acquire skills, enhance your strength and physique—but you must pay a price.
-145	Luna	A price?
-146	Lati	Souls of the living. When you kill your enemies, you can obtain them.
-147	Lati	The more soul of life you gather and offer here, the more power you can gain.
-148	Lati	Remember, show no mercy.
+142	Lati	Tại nơi này, em có thể học được những sức mạnh mới.
+143	Lati	Nhưng... nó sẽ phải đánh đổi.
+144	Lati	Ở đây, em có thể nhận được thêm kỹ năng, tăng cường sức mạnh và thể chất. Nhưng em phải trả một cái giá.
+145	Luna	Cái giá?
+146	Lati	Linh hồn của sinh vật sống. Khi tiêu diệt kẻ địch, em có thể thu được chúng.
+147	Lati	Càng thu thập được nhiều linh hồn và dâng lên nơi này, em càng có thể đạt được nhiều sức mạnh hơn nữa.
+148	Lati	Hãy nhớ lấy, đừng tỏ ra lòng thương xót.
 149		
-150	K	Luna, hello. I’m the examiner overseeing your final trial. From now on, every action you take will be recorded by me and reviewed by the organization.
-151	Luna	Huh? Every action?
-152	K	Yes, every single one.
-153	Luna	T-That’s a bit...
-154	K	No need to be nervous. As long as you complete the mission, you'll pass. The behavior log is just a reference for your future assignments.
-155	K	As for... ahem, as for senior Lati’s voluntary assistance, I’ll make an exception and not report it… I wasn’t threatened, please don’t misunderstand.
-156	Luna	I-Is that so?
-157	K	Yes.
-158	K	Please don’t question my qualifications as an examiner.
-159	K	Now back to the point. Luna, your mission is to kill the commander of the Empire’s Third Legion. Any means necessary. Do you have any questions?
-160	Luna	May I ask—what is the Third Legion?
-161	K	The Empire’s Third Legion is a flanking unit. From what we know, their task is to support and ambush. Our employer clearly doesn’t want their advance to go smoothly.
-162	K	Your primary mission is to kill their commander. That should greatly slow them down.
-163	K	And to some extent, it’ll also cause chaos—which I hear is something you’re quite good at.
-164	Luna	I will complete the mission.
-165	K	Good. I’ll leave it to you.
-166	K	The commander of the Third Legion is a Flame Knight—formidable. You might want to gather intel on him first.
-167	K	Oh, and you may need money during this mission. Gold coins—the currency used by humans. I provide a service here where you can exchange Life Souls for gold coins. The rate is 1:1.
-168	K	…Though you can exchange Life Souls for gold, you can’t exchange gold back for Life Souls. So don’t get any ideas.
-169	Luna	Hey... I wasn’t thinking that at all.
-170	K	…Right, of course you wouldn’t. I must’ve confused you with that pink one.
-171	Luna	Pink one?
-172	K	Not important.
-173	Luna	What can I use gold coins for?
-174	K	Who knows? Maybe to bribe the enemy? Don’t ask me about every little thing.
-175	Luna	…Alright then.
+150	K	Chào em nhé Luna. Tôi là giám khảo phụ trách kỳ sát hạch cuối cùng của em. Từ bây giờ, mọi hành động của em sẽ được tôi ghi lại và chuyển cho tổ chức đánh giá.
+151	Luna	Hả? Mọi hành động sao?
+152	K	Đúng vậy, từng hành động một.
+153	Luna	C-Cái đó hơi...
+154	K	Không cần phải căng thẳng thế. Chỉ cần hoàn thành nhiệm vụ thì em sẽ vượt qua thôi. Nhật ký hành vi chỉ được dùng làm tài liệu tham khảo cho các nhiệm vụ sau này của em mà.
+155	K	Còn về… khụ, việc tiền bối Lati tự nguyện hỗ trợ, tôi sẽ cho ngoại lệ và không báo cáo… Tôi không bị đe dọa đâu, xin đừng hiểu lầm.
+156	Luna	L-Là vậy sao?
+157	K	Đúng vậy.
+158	K	Xin đừng nghi ngờ tư cách của tôi với tư cách là giám khảo chứ.
+159	K	Quay lại chuyện chính. Luna, nhiệm vụ của em là giết chỉ huy Quân đoàn số Ba của Đế quốc. Dùng bất kỳ hình thức nào cần thiết. Em có câu hỏi gì không?
+160	Luna	Cho em hỏi Quân đoàn số Ba là gì vậy?
+161	K	Quân đoàn số Ba của Đế quốc là một đơn vị đánh vu hồi. Theo những gì chúng ta biết, nhiệm vụ của chúng là hỗ trợ và tập kích. Rõ ràng người thuê chúng ta không muốn cuộc tiến quân của chúng diễn ra suôn sẻ.
+162	K	Nhiệm vụ chính của em là ám sát chỉ huy của chúng. Việc đó sẽ làm chậm bước tiến của chúng đáng kể.
+163	K	Và ở một mức độ nào đó, nó cũng sẽ gây hỗn loạn, mà tôi nghe nói đó lại là thứ mà em khá giỏi.
+164	Luna	Em sẽ hoàn thành nhiệm vụ ngay.
+165	K	Tốt. Tôi giao lại cho em.
+166	K	Chỉ huy Quân đoàn số Ba là một Kỵ Sĩ Lửa rất đáng gờm. Có lẽ em nên thu thập thông tin về hắn trước.
+167	K	À đúng rồi, trong nhiệm vụ này em có thể sẽ cần tiền. Đồng vàng là đơn vị tiền tệ mà con người sử dụng. Tôi cung cấp một dịch vụ ở đây cho phép đổi Linh Hồn Sinh Mệnh lấy đồng vàng. Tỷ lệ là 1:1.
+168	K	...Tuy có thể đổi Linh Hồn Sinh Mệnh sang vàng, nhưng không thể đổi vàng ngược lại thành Linh Hồn Sinh Mệnh. Vậy nên đừng có ý định gì đấy..
+169	Luna	Này... Em đâu có nghĩ thế chứ.
+170	K	...Phải rồi, tất nhiên là em sẽ không làm thế. Chắc tôi nhầm em với cái con nhỏ tóc hồng kia.
+171	Luna	Con nhỏ tóc hồng?
+172	K	Không quan trọng mấy đâu.
+173	Luna	Em có thể dùng đồng vàng để làm gì?
+174	K	Ai mà biết? Có khi dùng để hối lộ kẻ địch chẳng hạn? Đừng hỏi tôi mấy chuyện nhỏ nhặt như thế chứ.
+175	Luna	...Vậy à.
 176		
 177		
 178		
 179		
-180	037	Miss Luna, I’m the assistant assigned to support your current mission. My designation is 037, and I’ll be handling your logistics.
-181	Luna	Logistics? Hmm… then, what exactly can you help me with?
-182	037	You can purchase equipment and items from me.
-183	Luna	What?! New weapons?!
-184	037	Uh, not for now...
-185	037	Due to the difficulty level of this mission, the organization only permits you to buy the most basic supplies.
-186	Luna	Hmm, so just these?
-187	037	I’m sorry. This is all that I'm allowed to sell for now…
+180	037	Chào cô Luna, tôi là trợ lý được phân công hỗ trợ cho nhiệm vụ hiện tại của cô. Mã hiệu của tôi là 037, và tôi sẽ phụ trách hậu cần cho cô.
+181	Luna	Hậu cần à? Hmm… vậy cụ thể chị có thể giúp em những gì vậy?
+182	037	Cô có thể mua trang bị và vật phẩm từ tôi.
+183	Luna	Thật hả?! Vũ khí mới sao?!
+184	037	À... hiện tại thì chưa...
+185	037	Do độ khó của nhiệm vụ lần này, tổ chức chỉ cho phép cô mua những vật phẩm tiếp tế cơ bản nhất.
+186	Luna	Hmm, chỉ có từng này thôi sao?
+187	037	Tôi xin lỗi. Hiện tại tôi chỉ được phép bán từng này thôi...
 188		
 189	037	Here to buy supplies?
 190	037	Miss Luna, your clothes… are you hurt?

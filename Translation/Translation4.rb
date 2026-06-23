@@ -176,7 +176,7 @@ TRANSLATIONS = {
 
   # Main quests
   main_quest_1: ["Khu Rừng Sương Mù", "Tiếp tục tiến sâu hơn vào trong khu rừng..."],
-  main_quest_2: ["Lâu Đài Thất Lạc", "Tiêu diệt chỉ huy Quân đoàn số 3, Kỵ Sĩ Lửa."],
+  main_quest_2: ["Lâu Đài Thất Lạc", "Tiêu diệt chỉ huy Quân đoàn số Ba, Kỵ Sĩ Lửa."],
   main_quest_3: ["Khoảng Nghỉ Ngắn", "Trở về Khe Nứt Bóng Tối và nghỉ ngơi một lúc."],
   main_quest_4: ["Ma Thuật Thất Truyền", "Có vẻ như đã xảy ra chuyện gì đó trong Khu Rừng Sương Mù... Hãy đến Lâu Đài Thất Lạc và tìm tiền bối Lati."],
   main_quest_5: ["Ma Thuật Thất Truyền", "Chờ tin tức từ tiền bối Lati... (còn tiếp)"],
@@ -184,7 +184,7 @@ TRANSLATIONS = {
   # Side quests. Format: quest_key => ["title", "info"]
   yuki_quest_1: ["Kế Hoạch Bí Mật của Yukimura", "Yukimura đã biến mất trong khu rừng sâu của Đại Lộ Sơn Lâm. Hãy đi tìm cô ấy."],
   yuki_quest_2: ["Kế Hoạch Bí Mật của Yukimura", "Đã tìm thấy Yukimura trong khu rừng gần Doanh Trại Tiền Tuyến."],
-  yuki_quest_3: ["Kế Hoạch Bí Mật của Yukimura", "Gặp sĩ quan của Quân đoàn số 3 tại Khu Rừng Bí Mật ở phía tây bắc Doanh Trại Tiền Tuyến và hỏi hắn ta về cuộn giấy ma pháp."],
+  yuki_quest_3: ["Kế Hoạch Bí Mật của Yukimura", "Gặp sĩ quan của Quân đoàn số Ba tại Khu Rừng Bí Mật ở phía tây bắc Doanh Trại Tiền Tuyến và hỏi hắn ta về cuộn giấy ma pháp."],
   yuki_quest_4: ["Kế Hoạch Bí Mật của Yukimura", "Bạn đã biết vị trí của cuộn giấy ma pháp: nó nằm trong kho vũ khí của Lâu Đài Thất Lạc. Hãy quay lại và báo cho Yukimura biết thông tin này."],
   yuki_quest_5: ["Kế Hoạch Bí Mật của Yukimura", "Đến Doanh Trại để tìm Yukimura."],
   yuki_quest_6: ["Kế Hoạch Bí Mật của Yukimura", "Quay lại gặp Sĩ quan Reynold và hỏi hắn ta cách vào túp lều của pháp sư."],
@@ -193,8 +193,8 @@ TRANSLATIONS = {
   yuki_quest_9: ["Kế Hoạch Bí Mật của Yukimura", "Tiến đến kho vũ khí của Lâu Đài Thất Lạc và tìm cuộn giấy ma pháp."],
 
   quest_learn_seduction: ["Khóa Học Quyến Rũ của Yukimura", "Yukimura muốn dạy bạn vài điều thú vị. Hãy tăng cấp độ Phơi Bày của bạn lên 1 hoặc cao hơn."],
-  quest_The_Mutinous_Officer_1: ["Sĩ Quan Nổi Loạn", "Tiêu diệt Trưởng Đoàn của Quân đoàn số 3 và lấy chìa khóa kho vũ khí từ hắn. Sau khi xử lý xong, quay lại gặp sĩ quan phản loạn."],
-  quest_The_Mutinous_Officer_2: ["Sĩ Quan Nổi Loạn", "Tiêu diệt chỉ huy của Quân đoàn số 3. Sau khi hạ gục hắn, quay lại gặp sĩ quan phản loạn."],
+  quest_The_Mutinous_Officer_1: ["Sĩ Quan Nổi Loạn", "Tiêu diệt Trưởng Đoàn của Quân đoàn số Ba và lấy chìa khóa kho vũ khí từ hắn. Sau khi xử lý xong, quay lại gặp sĩ quan phản loạn."],
+  quest_The_Mutinous_Officer_2: ["Sĩ Quan Nổi Loạn", "Tiêu diệt chỉ huy của Quân đoàn số Ba. Sau khi hạ gục hắn, quay lại gặp sĩ quan phản loạn."],
 
   # Reynold quests
   quest_join_reynold: ["Gia Nhập Reynold", "Lựa chọn có gia nhập quân đoàn của Reynold hay không. Gia nhập sẽ mang lại một số lợi ích, nhưng bạn cũng có thể phải đánh đổi điều gì đó."],
@@ -212,8 +212,8 @@ TRANSLATIONS = {
   yukimura_exh_reaction_2: ["Um, bây giờ có phải lúc để làm chuyện này không?", "Em cố tình làm vậy để cho chị xem đúng không hả?", "...Thực ra, nó làm chị hơi mất bình tĩnh rồi."],
 
   lati_exh_reaction_1: ["Thật không biết xấu hổ...", "Nếu em thấy điều này hữu ích...", "...", "Hãy đưa cho con người xem, đừng đưa cho chị.", "Em đang làm gì vậy...?"],
-  k_exh_reaction_1: ["*Khụ*, này... đó là tai nạn à?", "Làm ơn đừng làm vậy. Em không thấy xấu hổ hả?", "...Chị sẽ báo cáo hành vi của em chính xác như những gì đã xảy ra.", "Tên: Luna... Đặc điểm: thích phô trương... hmm, đã ghi nhận."],
-  n037_exh_reaction_1:   ["Hmm? Quý cô Luna, cái gì đây?", "Nó to thật... không, xin lỗi, *khụ*.", "Không ngờ làm việc ở đây lại có nhiều phúc lợi như vậy?", "...Chị có thể chạm vào không? Không?, được rồi! Xin hãy quên câu đó đi."],
+  k_exh_reaction_1: ["*Khụ*, này... đó là tai nạn à?", "Làm ơn đừng làm vậy. Em không thấy xấu hổ hả?", "...Tôi sẽ báo cáo hành vi của em chính xác như những gì đã xảy ra.", "Tên: Luna... Đặc điểm: thích phô trương... hmm, đã ghi nhận."],
+  n037_exh_reaction_1:   ["Hmm? Cô Luna, cái gì đây?", "Nó to thật... không, xin lỗi, *khụ*.", "Không ngờ làm việc ở đây lại có nhiều phúc lợi như vậy?", "...Tôi có thể chạm vào không? Không?, được rồi! Xin hãy quên câu đó đi."],
   merchant_exh_reaction_1: ["Thật là cảnh tượng mãn nhãn.", "Em đang muốn được giảm giá à?", "Đừng lo... Chị chỉ đang quan sát thôi."],
 
   # Items
@@ -221,7 +221,7 @@ TRANSLATIONS = {
     19 => ["Bộ Kim Chỉ", "Có thể dùng để sửa trang phục và khôi phục một phần phòng thủ.\nĐộ bền trang phục hiện tại: \\C[6]<durability>\\C[0]%"],
     20 => ["Chìa Khóa Cũ", "Một chiếc chìa khóa cổ xưa đã bị lãng quên. Có lẽ nó có thể mở một cánh cửa cổ xưa tương tự."],
     21 => ["Chìa Khóa Rỉ Sét", "Đã rỉ sét, nhưng vẫn còn dùng được."],
-    22 => ["Chìa Khóa Kho Vũ Khí", "Chìa khóa của Tưởng Đoàn của Quân đoàn số 3, là Pháp Sư. Có thể mở cổng chính của kho vũ khí tại Lâu Đài Thất Lạc."],
+    22 => ["Chìa Khóa Kho Vũ Khí", "Chìa khóa của Tưởng Đoàn của Quân đoàn số Ba, là Pháp Sư. Có thể mở cổng chính của kho vũ khí tại Lâu Đài Thất Lạc."],
     23 => ["Chìa Khóa Hầm Ngục", "Chiếc chìa khóa dùng để mở cổng hầm ngục."],
     26 => ["Thú Nha Kiếm", "Vũ khí của Luna. Nặng, nhưng cực kỳ nguy hiểm.\nCấp độ hiện tại: Lv.\\C[6]<weapon_level>\\C[0]"],
     27 => ["Chìa Khóa Nhà Giam", "Chiếc chìa khóa có thể mở nhà giam."],
@@ -242,7 +242,7 @@ TRANSLATIONS = {
     ],
     40 => ["Bom Khói", "Có thể tạm thời che giấu bản thân và giúp bạn thoát khỏi tầm nhìn của kẻ địch.\nCấp độ hiện tại: Lv.\\C[6]<smoke_bomb_level>\\C[0]"],
     41 => ["Cuộn Phép Bộc Hỏa", "Sau khi sử dụng, phóng ra một đạn ma pháp bộc hỏa gây sát thương diện rộng lên kẻ địch.\n\\C[6]Có thể dùng để phá hủy một số cột đá chặn đường."],
-    45 => ["Huân Chương Quân Đoàn Reynold", "Huân chương của Reynold, một sĩ quan thuộc Quân đoàn số 3, dùng để chứng minh mối liên hệ của bạn với Quân đoàn số 3.\n\\C[6]Đưa nó cho những kẻ địch thân thiện xem có thể chiêu mộ họ làm đồng đội."],
+    45 => ["Huân Chương Quân Đoàn Reynold", "Huân chương của Reynold, một sĩ quan thuộc Quân đoàn số Ba, dùng để chứng minh mối liên hệ của bạn với Quân đoàn số Ba.\n\\C[6]Đưa nó cho những kẻ địch thân thiện xem có thể chiêu mộ họ làm đồng đội."],
     48 => ["Bảng Hướng Dẫn Phím Điều Khiển", "Bảng hướng dẫn các phím điều khiển trong trò chơi."],
     50 => ["Thuốc Kích Dục", "Sử dụng sẽ làm tăng mức hưng phấn."],
     51 => ["Thuốc An Thần", "Sử dụng sẽ giúp bình tĩnh lại và giảm 50 điểm hưng phấn."],

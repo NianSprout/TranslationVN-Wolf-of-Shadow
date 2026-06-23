@@ -24,7 +24,7 @@
 24	Luna	Đây vốn là nhiệm vụ của Luna mà?
 25	Yukimura	Ôi dào, đừng để ý mấy chuyện nhỏ nhặt đó chứ.
 26	Yukimura	Đôi lúc chăm sóc hậu bối cũng là nghĩa vụ của một tiền bối mà!
-27	Luna	Hmm… em cảm giác còn có lý do khác nữa cơ.
+27	Luna	Hmm… em cảm giác như còn có lý do nào khác nữa cơ.
 28	Yukimura	Mà thôi, quay lại chuyện chính nào! Em có muốn biết chị đã làm thế nào không? Làm sao chị hạ được từng này kẻ địch ấy? Hmm?
 29	Luna	Chém hạ từng tên một phải không ạ?
 30	Yukimura	Làm thế thì cực quá... Thực ra, chị đã dùng một loại kỹ thuật đặc biệt chút.
@@ -37,7 +37,7 @@
 37	Yukimura	Ha, đúng là em không biết thật nhỉ? Xem ra phải để cho tiền bối Yukimura vĩ đại đây phải chỉ đường cho em rồi!
 38	Luna	Đừng có chọc nữa mà, nhanh nói cho em biết đi, tiền bối vĩ đại.
 39	Yukimura	E hèm, nghe này.
-40	Yukimura	Em phải dùng đúng phương pháp vào đúng thời điểm... nói cách khác thì-quyến rũ!
+40	Yukimura	Em phải dùng đúng phương pháp vào đúng thời điểm... nói cách khác là quyến rũ!
 41	Yukimura	Sau đó, khi đối phương mất cảnh giác... kết liễu chỉ trong một đòn!
 42	Yukimura	Nó được gọi là, "Thuật Khỏa Thân!"
 43	Luna	Qu—quyến—quyến rũ á?!
@@ -84,7 +84,7 @@
 84	Luna	......
 85	Yukimura	À đúng rồi! Luna, em vẫn còn trinh đúng không??
 86	Luna	Mmm…
-87	Yukimura	Hehe… nếu chị có đủ công cụ thì chị sẽ vồ lấy em ngay bây giờ rồi. Đúng là một bé con đáng yêu mà, heheh…
+87	Yukimura	Hehe… nếu chị có đủ "đồ chơi" thì chị sẽ vồ lấy em ngay bây giờ rồi. Đúng là một bé con đáng yêu mà, heheh…
 88	Luna	W-Wah! Đừng chạm vào chỗ đó!
 89		
 90	Yukimura	Mà nhắc mới nhớ… chị nghe nói tiền bối Lati cũng đang ở đây à?
@@ -113,31 +113,31 @@
 113	Lati	Nhiệm vụ đã hoàn thành rồi. Chị tiện đường ghé qua xem tình hình của em thế nào.
 114	Luna	Hể? Chẳng lẽ... tiền bối Lati đang lo lắng cho em sao?
 115	Lati	...Đây là thử thách cuối cùng của em rồi. Em cần phải nghiêm túc đối mặt với nó đấy.
-116	Luna	Hehe, em biết mà.
+116	Luna	Hehe, em biết rồi mà.
 117	Lati	Nhiệm vụ của em là điều tra động thái của Quân đội Đế Quốc và ám sát Tổng chỉ huy của Quân đoàn số 3… Chỉ huy quân đoàn là một Kỵ Sĩ Lửa. Bây giờ em đã đủ mạnh để đánh bại hắn rồi.
-118	Lati	Em có thể làm điều ấy theo kiểu lén lút hay tấn công trực diện... là tùy thuộc vào em.
-119	Lati	Chị biết sở trường của em là tấn công trực diện, nhưng nếu kẻ địch quá hung hãn, thì đừng hành động liều lĩnh.
-120	Lati	... Chị sẽ hỗ trợ em từ phía sau, nếu cần thiết.
-121	Luna	Thật á? Nhưng mà… thế chẳng phải được coi là gian lận sao?
+118	Lati	Em có thể tự do lựa chọn giữa lén lút hay tấn công trực diện... là tùy thuộc vào em.
+119	Lati	Chị biết sở trường của em là tấn công trực diện, nhưng nếu kẻ địch quá áp đảo thì đừng có hành động liều lĩnh.
+120	Lati	... Khi cần thiết, chị sẽ hỗ trợ em từ trong bóng tối.
+121	Luna	Thật á? Nhưng mà... thế chẳng phải được coi là gian lận sao?
 122	Lati	Một chút sự giúp đỡ sẽ chẳng ảnh hưởng gì đâu.
-123	Luna	Thật á?
-124	Lati	Nhưng mà... đừng kể cho ai khác biết về điều này.
-125	Luna	Đã rõ! Em hứa sẽ giữ kín chuyện này, không kể với ai một lời nào cả về việc này!
-126	Lati	Phía sau chị là pháp cơ cho phép chị khai mở Khe Nứt Bóng Tối. Nó liên kết với căn cứ tạm thời trong một không gian biệt lập-chị nghĩ em sẽ cần đến nó.
+123	Luna	Là vậy à?
+124	Lati	Nhưng mà... đừng kể cho ai khác biết về điều này đấy.
+125	Luna	Hiểu rồi! Em sẽ giữ kín chuyện này và không nói với ai đâu!
+126	Lati	Đằng sau chị là cơ chế ma thuật dùng để mở Khe Nứt Bóng Tối. Nó liên kết với căn cứ tạm thời trong một không gian biệt lập, chị nghĩ em sẽ cần đến nó.
 127	Lati	Hãy cố gắng hết sức. Đừng làm chị thất vọng.
 128	Lati	Mau đi đi, đừng chậm trễ nữa. 
 129		
-130	Lati	Nơi đây gọi là Khu Rừng Sương Mù, bởi vì làn sương ở đây rất dày, tại đây sương che khuất ánh trời và không bao giờ tan đi.
-131	Lati	Đặc biệt, làn sương tại khu rừng này có chứa những hạt ma thuật không rõ nguồn gốc, which leads to the constant birth of monsters—and the emergence of stronger ones.
-132	Lati	The Slime King you encountered earlier is one of the powerful monsters born from the mist.
-133	Lati	Even if you kill it, another will eventually be born.
-134	Lati	The weak slimes are endlessly spawned by the fog as well… they can’t be wiped out completely.
+130	Lati	Nơi đây gọi là Khu Rừng Sương Mù, bởi vì làn sương ở đây rất dày đặc che khuất ánh mặt trời và không bao giờ tan đi.
+131	Lati	Trong màn sương có chứa các hạt Mana có nguồn gốc chưa xác định, khiến quái vật liên tục được sinh ra, đồng thời cũng xuất hiện những cá thể mạnh hơn.
+132	Lati	Vua Slime mà em gặp trước đó là một trong những quái vật rất mạnh được sinh ra từ màn sương đó.
+133	Lati	Ngay cả khi em tiêu diệt chúng, rồi chẳng mấy chốc sẽ lại có một con khác được sinh ra.
+134	Lati	Những con slime yếu hơn cũng được sinh ra không ngừng từ màn sương... chúng không thể bị tiêu diệt hoàn toàn.
 135		
-136	Lati	This place is also known as the Forest of Ruins—as you can imagine…
-137	Lati	The fog might be connected to the ancient godly ruins. Perhaps there are secrets to uncover here.
-138	Luna	If the fog is filled with magic particles, wouldn’t that make magic stronger here?
-139	Lati	Of course. That’s why you need to be careful when facing the Flame Knight.
-140	Lati	Unfortunately for us, the mist doesn't do much good. Our power comes from the moon, not from magic… and as beastkin, we’re unable to use magic.
+136	Lati	Nơi này cũng được gọi là Khu Rừng Tàn Tích, chắc em cũng đoán được lý do rồi…
+137	Lati	Màn sương có thể có liên hệ với những tàn tích thần thánh cổ đại. Có lẽ vẫn còn những bí mật đang chờ được khám phá ở đây.
+138	Luna	Nếu màn sương chứa đầy các hạt mana như vậy, chẳng phải ma thuật ở đây sẽ mạnh hơn sao?
+139	Lati	Đúng vậy. Đó cũng là lý do em cần phải cẩn thận khi đối đầu với Kỵ Sĩ Lửa.
+140	Lati	Đáng tiếc cho chúng ta là màn sương này chẳng mang lại lợi ích gì mấy. Sức mạnh của chúng ta đến từ mặt trăng, chứ không phải ma thuật… và với tư cách là thú nhân, chúng ta không thể sử dụng ma thuật.
 141		
 142	Lati	Here, you can learn some new powers.
 143	Lati	But... it will come at a cost.

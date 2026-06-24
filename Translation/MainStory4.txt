@@ -191,7 +191,7 @@
 191	Luna	À, không có gì đâu. Xin đừng... nhìn tôi như thế...
 192	037	Đ-Được rồi! Tôi sẽ nhắm mắt lại!
 193		
-194	Luna	(Nãy giờ anh ta nhìn mình chằm chằm vào mình suốt...)
+194	Luna	(Nãy giờ anh ta cứ nhìn chằm chằm vào mình suốt...)
 195	037	Khụ, cô Luna, cô có cần mua gì không?
 196	037	À, thật ra tôi có một đề nghị, nếu cô không phiền.
 197	Luna	Hmm? Là gì vậy?
@@ -200,7 +200,7 @@
 200	037	Cứ để cho tôi!
 201	037	(Tuyệt! Giờ mình có lý do chính đáng để bảo cô Luna cởi quần áo ra rồi...)
 202	Luna	Hmm…?
-203	Luna	(Sao mình cảm giác anh ta có động cơ mờ ám thế nhỉ...?)
+203	Luna	(Sao mình cảm giác như anh ta có động cơ mờ ám thế nhỉ...?)
 204	037	Vậy nên, nếu cần thì cứ tìm tôi... hoặc cô muốn sửa luôn bây giờ không?
 205	Luna	……
 206	037	Đến mua đồ tiếp tế à? Hay là... cần tôi sửa quần áo giúp?
@@ -335,186 +335,186 @@
 335	Yukimura	Vậy nên, nếu em muốn tham gia cùng chị để đi hôi của... à không, ý chị là để chuẩn bị thì cứ đến tìm chị nhé. Chị sẽ đợi ngay ở đây.
 336	Yukimura	Giám khảo của em có thể sẽ bảo đó là đi đường tắt, nhưng kết quả mới là thứ quan trọng chứ, đúng không?
 337		
-338	Yukimura	Oh! So, have you decided?
-339	Luna	I’ve decided.
-340	Yukimura	Great, then let’s go over the plan.
-341	Yukimura	Hehe, I’ve already got it all thought out.
-342	Yukimura	First, we gather intel. We need to find out where those magic scrolls are stashed.
-343	Yukimura	Don’t worry, my instincts are always right. There’s no way a flame mage like Krugmann wouldn’t carry tons of scrolls. No mage can resist the thrill of unleashing a firestorm!
-344	Luna	That sounds like some kind of weird fetish…
-345	Yukimura	Anyway, I’ve already got a few interrogation targets lined up. Once I get the location, I’ll come find you, Luna.
-346	Luna	Huh? I don’t need to do anything?
-347	Yukimura	Oh right, I almost forgot. You’re a qualified assassin now, aren’t you? This part’s all yours.
-348	Luna	Huh? What do you mean?
-349	Yukimura	One of the tougher enemies is a Third Legion officer. He probably knows something. Your job is to pry the information from him.
-350	Yukimura	Use any method… You know what I mean, right?
-351	Luna	Torture? Threats?
-352	Yukimura	…Seduction, of course. You haven’t forgotten what I taught you, have you?
-353	Luna	Ugh... t-that…
-354	Luna	I-I’m not that good at this yet…
-355	Yukimura	You’ve got this! Just remember the tips I showed you!
+338	Yukimura	Vậy em đã quyết định rồi chứ?
+339	Luna	Em quyết định rồi.
+340	Yukimura	Tốt lắm, vậy thì cùng bàn qua kế hoạch nào.
+341	Yukimura	Hehe, chị đây đã suy tính hết mọi thứ rồi.
+342	Yukimura	Trước tiên, chúng ta sẽ thu thập thông tin. Phải tìm ra đống cuộn ma thuật đó được cất ở đâu.
+343	Yukimura	Đừng lo, trực giác của chị lúc nào cũng đúng hết. Không đời nào một pháp sư lửa như Krugmann lại không mang theo cả đống cuộn ma thuật. Không pháp sư nào cưỡng lại được cảm giác phấn khích khi thả ra một cơn bão lửa cả!
+344	Luna	Nghe giống kiểu sở thích kỳ quái nào đó ấy...
+345	Yukimura	Dù sao thì, chị cũng đã nhắm sẵn vài mục tiêu để thẩm vấn rồi. Khi lấy được vị trí, chị sẽ quay lại tìm em sau nhé, Luna.
+346	Luna	Hả? Em không cần làm gì à?
+347	Yukimura	À đúng rồi, chị suýt quên mất. Giờ em cũng là một sát thủ chính thức rồi đúng không? Phần này giao cho em đấy.
+348	Luna	Huh? Ý chị là sao?
+349	Yukimura	Một trong những kẻ địch khó nhằn hơn là một sĩ quan của Quân đoàn số Ba. Hắn có lẽ biết gì đó. Nhiệm vụ của em là moi thông tin từ hắn.
+350	Yukimura	Dùng bất kỳ cách nào... Em hiểu ý chị mà đúng không?
+351	Luna	Tra tấn? Đe dọa?
+352	Yukimura	...Quyến rũ chứ sao nữa. Em chưa quên những gì chị dạy đấy chứ?
+353	Luna	Ugh... c-cái đó…
+354	Luna	E-Em vẫn chưa giỏi chuyện này lắm…
+355	Yukimura	Em làm được mà! Cứ nhớ lại mấy cái mẹo chị đã chỉ cho em thôi!
 356	Luna	Ugh…
-357	Yukimura	I’ve already arranged the meeting. Hehe, used a few tricks.
-358	Yukimura	Just go and get the info out of him.
-359	Yukimura	Now go on—I’ll be waiting for your good news!
+357	Yukimura	Chị sắp xếp cuộc hẹn rồi. Hehe, chỉ cần dùng vài mánh nhỏ ấy mà.
+358	Yukimura	Cứ đi đi rồi moi thông tin từ hắn nhé.
+359	Yukimura	Giờ thì đi đây, chị sẽ chờ tin tốt từ em đó nha!
 360		
-361	Luna	Yukimura-senpai, where is this guy?
-362	Yukimura	He’s waiting in a hidden forest path. Just head northwest from here—Go past the camp, find a trail into the woods, and you’ll find him there.
-363	Yukimura	He should already be waiting for you! Now go!
-364	Officer	Halt. Who are you?
-365	Officer	Who are you? I heard someone was looking for me—was that you?
-366	Officer	...Hmph, an assassin. So, you're the rat that snuck in?
-367	Officer	No, looking at those ears and tail... calling you a stray mutt seems more fitting.
-368	Luna	That's not right, I'm a wolf, not a stray dog!
-369	Officer	Oh? Are you angry now? Whether a stray dog or a wolf, it's all the same. To us Imperials, filthy beastkin are no different from animals... Only humans are the rightful rulers of this world.
-370	Luna	Hmph... I'm not here to argue with you about that.
-371	Officer	I know. You're an assassin sent by the kingdom, aren't you? You're not working alone, are you? I've heard about your kind...
-372	Officer	And your target is Commander Krugmann, isn't it?
-373	Officer	But aren't you overestimating yourselves? Sending a woman, thinking she can defeat the Flame Knight—the one who stands at the top of our Empire? That's the funniest joke I've heard all year.
-374	Luna	This has nothing to do with you...
-375	Luna	I just heard... that you might have information I need. That's why I came.
-376	Officer	Oh, you're not wrong.
-377	Officer	Even if we're enemies, that doesn't mean we can't make a little deal or two.
-378	Officer	Traveling all this way has been boring—I hope you'll bring me some entertainment.
-379	Officer	So, tell me, what do you want to know?
-380	Luna	...Magic scrolls. Do you know where they are?
-381	Officer	Magic scrolls?
-382	Officer	What do you need magic scrolls for? Oh... planning to use them against Commander Krugmann?
-383	Officer	Hmm, that might work. But it probably won’t be nearly enough.
-384	Luna	That’s not your concern... just tell me where I can find them.
-385	Officer	Of course, but no need to rush.
-386	Officer	Before I tell you, you should show some sincerity. I won’t just give you the answer for free—that’s not how things work.
-387	Officer	Money... or something else. Whatever value you can offer, I’ll consider it.
+361	Luna	Yukimura-senpai, cái tên đó ở đâu vậy?
+362	Yukimura	Hắn đang chờ ở một con đường mòn ẩn trong rừng. Cứ đi về phía tây bắc từ đây, đi qua doanh trại, tìm một lối nhỏ dẫn vào rừng là sẽ thấy hắn ở đó.
+363	Yukimura	Chắc giờ hắn đang đợi em rồi đấy! Đi đi!
+364	Sĩ quan	Đứng lại. Ngươi là ai?
+365	Sĩ quan	Ngươi là ai? Ta nghe nói có người đang tìm ta, là ngươi à?
+366	Sĩ quan	...Hmph, một sát thủ. Vậy ra ngươi là con chuột đã lẻn vào đây sao?
+367	Sĩ quan	Không, nhìn đôi tai với cái đuôi kia... gọi ngươi là chó hoang có vẻ hợp hơn đấy.
+368	Luna	Không nhá! Ta là sói, không phải chó hoang!
+369	Sĩ quan	Hể? Tức giận rồi sao? Chó hoang hay sói thì cũng như nhau thôi. Với người Đế quốc bọn ta, đám thú nhân bẩn thỉu chẳng khác gì động vật cả... Chỉ có loài người mới là kẻ thống trị hợp pháp của thế giới này.
+370	Luna	Hmph... Ta không đến đây để tranh cãi với ngươi chuyện đó.
+371	Sĩ quan	Ta biết. Ngươi là sát thủ do vương quốc cử tới, đúng chứ? Và ngươi không hành động một mình đâu nhỉ? Ta đã nghe về đám các ngươi rồi...
+372	Sĩ quan	Và mục tiêu của ngươi là Chỉ huy Krugmann, đúng không?
+373	Sĩ quan	Nhưng các ngươi có đang đánh giá bản thân quá cao không? Cử một cô gái tới, rồi nghĩ rằng có thể đánh bại Kỵ Sĩ Lửa, kẻ đứng trên đỉnh của Đế quốc chúng ta? Đó là câu đùa buồn cười nhất mà ta từng nghe trong cả năm nay đấy.
+374	Luna	Chuyện đó không liên quan tới ngươi...
+375	Luna	Ta chỉ nghe nói... rằng ngươi có thể biết thông tin ta cần. Nên ta mới tới đây thôi.
+376	Sĩ quan	Oh, ngươi cũng không sai đâu.
+377	Sĩ quan	Dù là kẻ địch, cũng đâu có nghĩa là không thể thực hiện vài giao dịch nhỏ nhỉ.
+378	Sĩ quan	Đi xa thế này cũng chán lắm rồi, ta hi vọng ngươi có thể sẽ giúp ta giải trí một chút.
+379	Sĩ quan	Vậy nói xem, ngươi muốn biết điều gì?
+380	Luna	...Cuộn ma thuật. ngươi có biết chúng ở đâu đúng không?
+381	Sĩ quan	Cuộn ma thuật sao?
+382	Sĩ quan	Ngươi cần cuộn ma thuật để làm gì? À… định dùng chúng để đối phó với Chỉ huy Krugmann sao?
+383	Sĩ quan	Hmm, có thể sẽ hiệu quả đấy. Nhưng chừng đó chắc vẫn chưa đủ đâu.
+384	Luna	Chuyện đó không liên quan tới ngươi cả... cứ nói cho ta biết ta có thể tìm chúng ở đâu là được.
+385	Sĩ quan	Tất nhiên, nhưng không cần vội.
+386	Sĩ quan	Trước khi ta nói, ngươi nên thể hiện chút thành ý đi chứ. Ta không đời nào cho đáp án miễn phí, đó không phải cách thế giới này vận hành.
+387	Sĩ quan	Tiền... hoặc thứ gì khác. Bất cứ thứ gì ngươi có thể đưa ra với giá trị tương xứng, ta sẽ cân nhắc.
 388		
-389		Pay 500 gold
-390		Attempt to seduce
-391		Threaten (Battle)
+389		Trả 500 vàng
+390		Thử quyến rũ
+391		Đe dọa (Chiến đấu)
 392		
-393	Officer	Money doesn’t mean much to me, but at least you’ve shown some sincerity. I accept.
-394	Officer	Still... this doesn’t look like quite enough, my cute little beastkin lady.
+393	Sĩ quan	Tiền bạc không có ý nghĩa gì nhiều với ta, nhưng ít nhất ngươi cũng đã cho thấy chút thành ý. Ta chấp nhận.
+394	Sĩ quan	Nhưng mà... thế này có vẻ vẫn chưa đủ đâu, cô bé thú nhân nhỏ đáng yêu à.
 395		
-396	Luna	You’re the enemy. I’m not giving you a single coin.
-397	Officer	Oh? You want to fight?
-398	Luna	Tell me where the magic scrolls are, or I’ll—
-399	Officer	Tch... do you not understand how the game is played? What a buzzkill.
-400	Officer	Did you really think I came to meet you alone without any preparation?
-401	Officer	Tch... Didn’t think you’d be this strong.
-402	Luna	Now, talk!
-403	Officer	Alright, alright. Calm down. I surrender. I’ll tell you everything you want to know.
-404	Officer	Although it is a shame the deal cannot be completed, this is fine too. Having one more little pup by my side is not a bad option.
-405	Luna	(...No... This is too humiliating. I can’t...)
-406	Luna	(...Senpai Yukimura said seduction is a valid tactic... Maybe Luna can give it a try...)
-407	Luna	Then... would this... be acceptable as payment?
-408	Officer	... (His gaze swept over Luna’s body.)
-409	Officer	Hmph. Among the lowly beastkin, you do have a decent body.
-410	Officer	Very well. Since you’re offering your body, allow me to inspect the goods.
-411	Officer	Nice size... and the texture feels good too... mm.
-412	Luna	Nn... g-gentler, please...
-413	Officer	A beastkin like you with such well-developed breasts... You’d be in high demand even within the Empire.
-414	Officer	Beastkin are strong, tireless, and maintain their looks longer than most. They’re prized slaves around the world. And yet the kingdom uses you as assassins? What a waste.
-415	Officer	But... surely you’re not just an assassin. You handle... other duties as well, right?
-416	Officer	Used as weapons in war, and at the same time, treated as sex slaves to vent primal urges... What a pitiful life.
-417	Officer	Haha... We Imperials would be more than happy to liberate you from those slavers.
-418	Officer	Well? How about coming with me?
-419	Luna	N-No need... Are we not done yet...?
-420	Officer	Ungrateful.
-421	Officer	Did you really think a little fondling would be the end? Now use your mouth.
-422	Luna	M-My... my mouth?!
-423	Luna	W-Wait a second! My mouth? What do you mean?!
-424	Officer	What? Is this your first time? You don’t even know how to do that?
-425	Officer	Open up. Then take it into your mouth.
-426	Luna	Ah... ahh... I’m supposed to eat this...?
-427	Luna	(...Wait, what?! I didn’t know I’d have to do something like this! Yukimura-senpai...!)
+396	Luna	Ngươi là kẻ địch. Ta sẽ không đưa cho ngươi một đồng nào đâu.
+397	Sĩ quan	Ồ? Muốn đánh nhau sao?
+398	Luna	Nói cho ta biết cuộn ma thuật ở đâu, nếu không ta sẽ—
+399	Sĩ quan	Tch... ngươi không hiểu luật chơi à? Mất hứng thật đấy.
+400	Sĩ quan	Ngươi thật sự nghĩ ta đến gặp ngươi một mình mà không chuẩn bị gì sao?
+401	Sĩ quan	Tch... không ngờ ngươi lại mạnh đến vậy.
+402	Luna	Giờ thì nói đi!
+403	Sĩ quan	Được rồi, được rồi. Bình tĩnh nào. Ta đầu hàng. Ta sẽ nói hết mọi thứ mà ngươi muốn biết.
+404	Sĩ quan	Mặc dù tiếc là cuộc giao dịch không thể hoàn thành, nhưng như vậy cũng được. Có thêm một chú cún nhỏ bên cạnh cũng không phải lựa chọn tệ.
+405	Luna	(...Không... Nhục nhã quá. Mình không thể làm nổi...)
+406	Luna	(...Tiền bối Yukimura nói quyến rũ cũng là một chiến thuật hợp lệ... Có lẽ Luna cũng nên thử xem...)
+407	Luna	Vậy thì... như thế này... có thể xem là thanh toán được không?
+408	Sĩ quan	... (Ánh mắt hắn lướt qua cơ thể của Luna.)
+409	Sĩ quan	Hmph. Trong đám thú nhân thấp kém, ngươi đúng là có thân hình không tệ.
+410	Sĩ quan	Được thôi. Nếu ngươi đã mang cơ thể mình ra trao đổi, vậy thì để ta kiểm tra hàng xem nào.
+411	Sĩ quan	Kích thước tuyệt đấy... mà cảm giác cũng khá tốt nữa... mm.
+412	Luna	Nn... x-xin nhẹ tay một chút...
+413	Sĩ quan	Một thú nhân như ngươi mà lại có bộ ngực phát triển đến vậy... chắc hẳn sẽ rất được săn đón ngay cả trong Đế quốc đấy.
+414	Sĩ quan	Thú nhân khỏe mạnh, bền bỉ, lại giữ được ngoại hình trường tồn hơn phần lớn chủng tộc khác. Họ là loại nô lệ rất có giá trên khắp thế giới. Thế mà vương quốc lại dùng các cô làm sát thủ sao? Thật lãng phí.
+415	Sĩ quan	Nhưng mà… chắc hẳn ngươi không chỉ làm sát thủ thôi đâu nhỉ. Ngươi cũng xử lý... những công việc khác nữa, đúng chứ?
+416	Sĩ quan	Bị sử dụng như vũ khí trong chiến tranh, đồng thời bị đối xử như nô lệ tình dục để giải tỏa những bản năng nguyên thủy... Cuộc sống đúng là đáng thương thật.
+417	Sĩ quan	Haha... Bọn ta ở Đế quốc sẽ rất vui lòng giải thoát các cô khỏi đám chủ nô đó.
+418	Sĩ quan	Thế nào? Muốn đi cùng ta không?
+419	Luna	K-Không cần... Chúng ta vẫn chưa xong sao…?
+420	Sĩ quan	Vô ơn thật đấy.
+421	Sĩ quan	Ngươi thật sự nghĩ rằng sờ mó một chút là kết thúc rồi sao? Giờ dùng miệng đi.
+422	Luna	M-Miệng… của ta?!
+423	Luna	K-Khoan đã! Miệng của ta? Ý ngươi là gì chứ?!
+424	Sĩ quan	Sao thế? Lần đầu à? Ngươi còn không biết phải làm thế nào sao?
+425	Sĩ quan	Mở miệng ra. Rồi nhét nó vào miệng.
+426	Luna	Ah... ahh... Ta phải... ăn thứ này sao...?
+427	Luna	(...Khoan, đợi đã?! Mình không biết là phải làm tới mức này! Tiền bối Yukimura...!)
 428	Luna	Uuu...
-429	Luna	Um... Can I... change my method of payment...?
-430	Officer	Too late now. No backing out.
-431	Officer	Lick it. Take it in. Just be a good little puppy and do as you're told.
-432	Luna	B-But...!
-433	Luna	(...This... This is a man’s... The size of it...)
-434	Luna	(...Ugh, the smell is so strong...)
-435	Officer	Start from the tip. If you want the intel, you'd better lick like you mean it. Got it?
-436	Luna	O-Okay... I’ll... I’ll be serious about licking.
-437	Luna	Nn... starting from the tip...
-438	Luna	(...Salty... a bit of a foul odor... Doesn’t feel clean...)
-439	Luna	(...Do I really have to put this in my mouth...?)
+429	Luna	Um... Ta có thể... đổi phương thức giao dịch được không...?
+430	Sĩ quan	Muộn rồi. Không được rút lui nữa đâu.
+431	Sĩ quan	Liếm nó đi. Nhét vào đi. Cứ ngoan ngoãn như một chú cún nhỏ và làm theo lời thôi.
+432	Luna	N-Nhưng mà…!
+433	Luna	(...Cái này... Đây là của đàn ông... Kích thước của nó...)
+434	Luna	(...Ugh, mùi nồng quá...)
+435	Sĩ quan	Bắt đầu từ phần đầu đi. Nếu muốn có thông tin thì tốt nhất ngươi nên liếm cho ra hồn. Hiểu chứ?
+436	Luna	Đ-Được... Ta sẽ... ta sẽ nghiêm túc liếm nó.
+437	Luna	Nn... bắt đầu từ phần đầu...
+438	Luna	(...Mặn quá... hơi có mùi nữa... cảm giác không sạch sẽ lắm...)
+439	Luna	(...Mình thật sự phải cho thứ này vào miệng sao...?)
 440	Luna	Guh...
-441	Officer	Yes, like that. You’ve got a talent for this.
+441	Sĩ quan	Đúng rồi, như thế đó. Ngươi có năng khiếu trong chuyện này thật đấy.
 442	Luna	Gmm... chu... ha...
-443	Luna	(...Something came out... weird taste...)
+443	Luna	(...Có thứ gì đó đang chảy ra... vị kỳ lạ quá...)
 444	Luna	Guh... ha... chu...
-445	Officer	Keep going. Take it all in.
-446	Officer	As a weapon of the kingdom, I thought you'd at least be skilled at giving pleasure. But you're not. No worries—you’ll have plenty of chances to learn.
+445	Sĩ quan	Tiếp tục đi. Đưa vào sâu hơn nữa.
+446	Sĩ quan	Là vũ khí của vương quốc mà ta còn tưởng ngươi ít nhất cũng phải giỏi làm người khác thấy "vui vẻ". Thôi không sao. Sau này ngươi sẽ còn nhiều cơ hội để học hơn nữa ấy mà.
 447	Luna	Mmm...
-448	Luna	(...Because my combat grades were so high, they didn’t make me train for this much...)
-449	Luna	(...If I just kill all the enemies first, then I won’t need to sell my body...)
+448	Luna	(...Vì điểm chiến đấu của mình quá cao nên họ không bắt mình luyện mấy thứ này nhiều…)
+449	Luna	(...Nếu mình giết hết kẻ địch trước thì sẽ không cần phải bán thân nữa...)
 450	Luna	Aah—!
-451	Officer	Good, deeper now.
-452	Luna	Gum... ham... chu... gugu... gulp...
-453	Officer	Very good... 
-454	Officer	You really are talented.
-455	Officer	A beastkin girl like you... being just an assassin is a waste. You should be learning how to comfort men.
-456	Officer	You should be like a little bitch wagging her tail every day, waiting at the door for her master, greeting us with your mouth—putting your obscene talents to full use.
-457	Luna	Ham... chu... gulp...
-458	Luna	(...His cock is getting even bigger...)
-459	Officer	You can go faster. Swallow it, deeper.
+451	Sĩ quan	Tốt đấy, sâu hơn nữa.
+452	Luna	Gum... ham... chu... gugu... ực...
+453	Sĩ quan	Rất tốt...
+454	Sĩ quan	Ngươi thật sự có năng khiếu đấy.
+455	Sĩ quan	Một cô gái thú nhân như ngươi... chỉ làm sát thủ thì phí quá. Ngươi nên học cách làm đàn ông cảm thấy thỏa mãn hơn đi.
+456	Sĩ quan	Ngươi nên giống như một con chó cái ngày nào cũng vẫy đuôi, chờ ở cửa đón chủ nhân, chào đón bọn ta bằng miệng của ngươi, tận dụng triệt để cái tài năng dâm đãng đó của mình.
+457	Luna	Ham... chu... ực...
+458	Luna	(...Dương vật của hắn ngày càng to ra...)
+459	Sĩ quan	Ngươi có thể nhanh hơn nữa không. Nuốt vào, sâu hơn nữa.
 460	Luna	Guh... ha... ha... hauu~!
-461	Officer	Yes, yes, just like that. That’s a good girl.
-462	Officer	Very obedient. You’re such a good girl.
-463	Luna	Guh... ha... gulp... gulp... huuh...
+461	Sĩ quan	Đúng rồi, đúng rồi, cứ tiếp tục như vậy nhé. Ngoan lắm.
+462	Sĩ quanRất nghe lời. Đúng là một cô bé ngoan.
+463	Luna	Guh... ha... ực... ực... huuh...
 464	Luna	Ah~ chu... chu...
-465	Officer	I’m about to finish... Hnn!
-466	Officer	It’s coming—catch it all!
+465	Sĩ quan	Ta sắp xong rồi... Hnn!
+466	Sĩ quan	Nó ra rồi, đón lấy hết đi!!
 467	Luna	...Nn!
-468	Luna	(...It came out—he came!)
+468	Luna	(...Ra rồi, hắn ra rồi!!)
 469	Luna	Hah... haah...
-470	Luna	(...So thick... the smell is so strong... ugh, this is awful...)
-471	Luna	Cough—cough... My throat feels terrible...
+470	Luna	(...Đặc quá... mùi lại cực kỳ nồng nữa... ugh, kinh khủng thật...)
+471	Luna	Khụ—khụ... Cổ họng mình khó chịu quá...
 472		
-473	Luna	So now you’ll finally tell me the intel, right…?
-474	Officer	Hahaha, you did well. That was quite satisfying.
-475	Officer	There are no women in the army, so the guys don’t know how to relieve themselves. Some of the nastier ones even start using fruit or soaked bread as substitutes... Oh, and they don’t even spare slimes.
+473	Luna	Vậy giờ ngươi sẽ chịu nói thông tin rồi chứ...?
+474	Sĩ quan	Hahaha, ngươi làm tốt lắm. Cũng khá thỏa mãn đấy chứ.
+475	Sĩ quan	Trong quân đội không có phụ nữ, nên đám đàn ông chẳng biết giải tỏa kiểu gì. Có vài tên còn tệ đến mức dùng trái cây hay bánh mì ngâm nước để thay thế... À mà chúng còn chẳng tha cho cả slime nữa.
 476	Luna	……
-477	Luna	Don’t go off-topic!
+477	Luna	Đừng có lạc đề nữa!
 478		
-479	Officer	The thing you want—those magic scrolls—they’re in that ruined castle up ahead. Our Third Legion has made it their base.
-480	Officer	Commander Krugmann will be there too. He definitely keeps anything valuable close by... Like, say, leaving it right in the armory. No one would expect there to be thieves around here.
-481	Luna	...I’m not a thief... So that’s it?
-482	Officer	What else? You think he’d go out of his way to hide the scrolls?
-483	Officer	Other than petty thieves like you, no one would dare try to steal from that place.
-484	Luna	Ugh... I told you, I’m not a thief!
-485	Luna	(...This kind of intel... honestly, it wasn’t even worth that kind of trade...)
-486	Officer	I’m not finished. Don’t make that “not worth it” face just yet.
-487	Officer	Even if you find the place, you’ll need a key to get inside.
-488	Officer	And I know where the key is.
-489	Luna	Where?!
-490	Officer	Calm down, let me finish.
+479	Sĩ quan	Thứ ngươi muốn, đống cuộn ma thuật đó đang ở trong tòa lâu đài đổ nát phía trước. Quân đoàn số Ba của bọn ta đã biến nơi đó thành căn cứ.
+480	Sĩ quan	Chỉ huy Krugmann cũng sẽ ở đó. Hắn chắc chắn luôn giữ đồ có giá trị ở gần mình... Ví dụ như cất luôn trong kho vũ khí chẳng hạn. Chẳng ai nghĩ nơi này lại có trộm xuất hiện đâu.
+481	Luna	..Ta không phải trộm... Cơ mà chỉ vậy thôi hả?
+482	Sĩ quan	Chứ còn gì nữa? Ngươi nghĩ hắn sẽ tốn công đem giấu cuộn ma thuật đi sao?
+483	Sĩ quan	Ngoài mấy tên trộm vặt như ngươi ra thì chẳng còn ai dám ăn cắp ở chỗ đó cả.
+484	Luna	Ugh… Ta đã bảo là ta không phải trộm mà!
+485	Luna	(...Thông tin kiểu này... thành thật mà nói thì chẳng đáng để đánh đổi như thế chút nào cả...)
+486	Sĩ quan	Ta chưa nói xong. Đừng vội làm cái mặt "không đáng" như thế chứ.
+487	Sĩ quan	Dù ngươi tìm được chỗ đó, ngươi vẫn sẽ cần chìa khóa để vào bên trong.
+488	Sĩ quan	Và ta biết chìa khóa đó đang ở đâu.
+489	Luna	Ở đâu?!
+490	Sĩ quan	Bình tĩnh, để ta nói hết đã.
 491	Luna	Ugh...
-492	Luna	Don’t tell me you want...
-493	Luna	I-I’m still a virgin, you know...
-494	Officer	Heh, I’m not that unreasonable, little pup.
-495	Officer	The key is on the Chief Strategist. That bootlicker who follows the Commander around all day... Well, not all day, really.
-496	Officer	But if you want to know when he’ll be alone, you’ll have to do something for me.
-497	Luna	What is it?
-498	Officer	Take him out.
-499	Luna	Take him out?
-500	Officer	That’s right. This is my little extra request.
-501	Officer	You need the key from him. If you can get it, then taking him out should be no trouble at all, right?
-502	Luna	Hmm... I suppose that’s true.
-503	Officer	Good. When he’s not by the Commander’s side, he heads to a small cabin beside the castle.
-504	Officer	He’s a high-level mage, and every night he goes there to conduct his magical experiments... During that time, no one disturbs him.
-505	Officer	If you can get close, you’ll have a clear shot at him—but be careful. His magic is dangerous.
-506	Luna	Got it.
-507	Luna	...Thanks for the intel.
-508	Officer	Also, once he’s dead, come back and find me.
-509	Officer	Still here? Time’s ticking.
-510	Officer	Oh, and... the fact that you’re still a virgin—that’s quite the surprise. Now I’m really looking forward to our next encounter.
+492	Luna	Đừng nói là ngươi muốn…
+493	Luna	T-Tôi vẫn còn trinh đấy nhé...
+494	Sĩ quan	Heh, ta đâu vô lý đến thế, cún con.
+495	Sĩ quan Chìa khóa đang ở chỗ Trưởng Quân Sư. Cái tên nịnh thần suốt ngày đi theo Chỉ huy ấy... À mà cũng không hẳn là cả ngày.
+496	Sĩ quan	Nhưng nếu muốn biết lúc nào hắn ở một mình, ngươi sẽ phải làm giúp ta một việc.
+497	Luna	Là gì?
+498	Sĩ quan	Giải quyết hắn đi.
+499	Luna	Giải quyết hắn?
+500	Sĩ quan	Đúng vậy. Đây là yêu cầu thêm nho nhỏ của ta.
+501	Sĩ quan	Ngươi cần lấy chìa khóa từ hắn. Nếu lấy được chìa rồi thì xử lý hắn chắc cũng không khó nữa đúng không?
+502	Luna	Hmm... cũng đúng.
+503	Sĩ quan	Tốt. Khi không ở cạnh Chỉ huy, hắn sẽ đến một căn nhà gỗ nhỏ bên cạnh lâu đài.
+504	Sĩ quan	Hắn là một pháp sư cấp cao, và mỗi tối đều đến đó để tiến hành thí nghiệm ma thuật... Trong khoảng thời gian đó sẽ không ai làm phiền hắn.
+505	Sĩ quan	Nếu tiếp cận được thì ngươi sẽ có cơ hội ra tay dứt khoát, nhưng cẩn thận đấy. Ma thuật của hắn rất nguy hiểm.
+506	Luna	Đã rõ.
+507	Luna	...Cảm ơn vì thông tin.
+508	Sĩ quan	À đúng rồi, sau khi hắn chết thì quay lại tìm ta nhé.
+509	Sĩ quan	Còn đứng đó à? Thời gian không còn nhiều đâu.
+510	Sĩ quan	Oh, với lại... việc ngươi vẫn còn trinh thì đúng là khiến ta bất ngờ đấy. Giờ thì ta càng mong chờ lần gặp tiếp theo hơn rồi.
 511		
-512	Officer	What are you doing? Trying to show me something?
-513	Officer	Oh... so you like being watched, huh?
-514	Officer	If you’re feeling lonely, why not stay and play with me a little more?
-515	Officer	Are all of you this shamelessly lewd?
-516	Officer	...Are you inviting me?
-517	Officer	You like being treated this way, don’t you?
+512	Sĩ quan	Đang làm gì thế? Định cho tôi xem gì à?
+513	Sĩ quan	Oh... ra là ngươi có sở thích bị người khác ngắm nhìn sao?
+514	Sĩ quan	Nếu thấy cô đơn thì sao không ở lại chơi với ta thêm một chút nào?
+515	Sĩ quan	Đám các người ai cũng dâm đãng trắng trợn như vậy hết à?
+516	Sĩ quan	...Đang mời gọi tôi đấy à?
+517	Sĩ quan	Ngươi thích bị đối xử như thế này đúng không?
 518		
 519		
 520	Yukimura	Did you get anything out of him?

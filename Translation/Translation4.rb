@@ -227,8 +227,8 @@ TRANSLATIONS = {
     27 => ["Chìa Khóa Nhà Giam", "Chiếc chìa khóa có thể mở nhà giam."],
     28 => ["Đá Linh Hồn", "Một viên đá quý bí ẩn.\n\\C[6]Khi mang theo, số lượng Linh Hồn nhận được sẽ tăng lên."],
     29 => ["Điểm Dục Vọng", "Những ham muốn được chôn sâu trong trái tim của Luna.\nCó thể nhận được thông qua mọi hoạt động H và dùng để nâng cấp các kỹ năng liên quan đến H."],
-    30 => ["Thuật Phơi Bày", "Nói ngắn gọn, quyến rũ họ."],
-    31 => ["Thuật Phơi Bày (Phần II)", "Nói ngắn gọn, quyến rũ họ."],
+    30 => ["Thuật Khỏa Thân", "Nói ngắn gọn, quyến rũ họ."],
+    31 => ["Thuật Khỏa Thân (Phần II)", "Nói ngắn gọn, quyến rũ họ."],
     34 => ["Báo Cáo Hang Động Pha Lê",
       "\\C[6]Báo cáo về Hang Động Pha Lê:\\C[0]
       Kế hoạch khai thác Tinh Thể Mana đang không diễn ra suôn sẻ... Môi trường bên trong Hang Động Pha Lê vô cùng khắc nghiệt. Nơi này quá lạnh, còn không khí loãng khiến việc xây dựng trở nên không phù hợp.

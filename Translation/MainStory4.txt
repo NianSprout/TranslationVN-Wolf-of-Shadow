@@ -123,7 +123,7 @@
 123	Luna	Là vậy à?
 124	Lati	Nhưng mà... đừng kể cho ai khác biết về điều này đấy.
 125	Luna	Hiểu rồi! Em sẽ giữ kín chuyện này và không nói với ai đâu!
-126	Lati	Đằng sau chị là cơ chế ma thuật dùng để mở Khe Nứt Bóng Tối. Nó liên kết với căn cứ tạm thời trong một không gian biệt lập, chị nghĩ em sẽ cần đến nó.
+126	Lati	Đằng sau chị là cơ chế ma thuật dùng để mở Vết Nứt Bóng Tối. Nó liên kết với căn cứ tạm thời trong một không gian biệt lập, chị nghĩ em sẽ cần đến nó.
 127	Lati	Hãy cố gắng hết sức. Đừng làm chị thất vọng.
 128	Lati	Mau đi đi, đừng chậm trễ nữa. 
 129		
@@ -152,7 +152,7 @@
 152	K	Đúng vậy, từng hành động một.
 153	Luna	C-Cái đó hơi...
 154	K	Không cần phải căng thẳng thế. Chỉ cần hoàn thành nhiệm vụ thì em sẽ vượt qua thôi. Nhật ký hành vi chỉ được dùng làm tài liệu tham khảo cho các nhiệm vụ sau này của em mà.
-155	K	Còn về… khụ, việc tiền bối Lati tự nguyện hỗ trợ, tôi sẽ cho ngoại lệ và không báo cáo… Tôi không bị đe dọa đâu, xin đừng hiểu lầm.
+155	K	Còn về… khụ, việc tiền bối Lati tự nguyện hỗ trợ, tôi sẽ cho ngoại lệ và không báo cáo... Tôi không bị đe dọa đâu, xin đừng hiểu lầm.
 156	Luna	L-Là vậy sao?
 157	K	Đúng vậy.
 158	K	Xin đừng nghi ngờ tư cách của tôi với tư cách là giám khảo chứ.
@@ -178,162 +178,162 @@
 178		
 179		
 180	037	Chào cô Luna, tôi là trợ lý được phân công hỗ trợ cho nhiệm vụ hiện tại của cô. Mã hiệu của tôi là 037, và tôi sẽ phụ trách hậu cần cho cô.
-181	Luna	Hậu cần à? Hmm… vậy cụ thể chị có thể giúp em những gì vậy?
+181	Luna	Hậu cần à? Hmm… vậy cụ thể thì anh có thể giúp tôi được những gì vậy?
 182	037	Cô có thể mua trang bị và vật phẩm từ tôi.
-183	Luna	Thật hả?! Vũ khí mới sao?!
-184	037	À... hiện tại thì chưa...
+183	Luna	Thật hả?! Vũ khí mới thì sao?!
+184	037	À... hiện tại cái đấy thì chưa...
 185	037	Do độ khó của nhiệm vụ lần này, tổ chức chỉ cho phép cô mua những vật phẩm tiếp tế cơ bản nhất.
-186	Luna	Hmm, chỉ có từng này thôi sao?
+186	Luna	Hmm, chỉ có từng này thôi à?
 187	037	Tôi xin lỗi. Hiện tại tôi chỉ được phép bán từng này thôi...
 188		
-189	037	Here to buy supplies?
-190	037	Miss Luna, your clothes… are you hurt?
-191	Luna	Ah, it’s nothing. Please… don’t stare at me like that…
-192	037	R-Right! I’ll close my eyes!
+189	037	Đến mua đồ tiếp tế sao?
+190	037	Mà cô Luna, quần áo của cô… cô bị thương à?
+191	Luna	À, không có gì đâu. Xin đừng... nhìn tôi như thế...
+192	037	Đ-Được rồi! Tôi sẽ nhắm mắt lại!
 193		
-194	Luna	(He’s been staring at me this whole time…)
-195	037	Ahem, Miss Luna, is there anything you need to buy?
-196	037	Ah, actually, I have a suggestion—that is, if you don’t mind.
-197	Luna	Hmm? What is it?
-198	037	I could help you repair your clothes. For free.
-199	Luna	Really? That'll be great!
-200	037	Leave it to me!
-201	037	(Yes! Now I can justifiably get Miss Luna to take off her clothes…)
+194	Luna	(Nãy giờ anh ta nhìn mình chằm chằm vào mình suốt...)
+195	037	Khụ, cô Luna, cô có cần mua gì không?
+196	037	À, thật ra tôi có một đề nghị, nếu cô không phiền.
+197	Luna	Hmm? Là gì vậy?
+198	037	Tôi có thể giúp cô sửa lại quần áo miễn phí..
+199	Luna	Thật sao? Vậy thì tuyệt quá!
+200	037	Cứ để cho tôi!
+201	037	(Tuyệt! Giờ mình có lý do chính đáng để bảo cô Luna cởi quần áo ra rồi...)
 202	Luna	Hmm…?
-203	Luna	(Why does it feel like he has ulterior motives…?)
-204	037	So, if you ever need it, come find me… or do you want it done right now?
+203	Luna	(Sao mình cảm giác anh ta có động cơ mờ ám thế nhỉ...?)
+204	037	Vậy nên, nếu cần thì cứ tìm tôi... hoặc cô muốn sửa luôn bây giờ không?
 205	Luna	……
-206	037	Here to buy supplies? Or… need help fixing your clothes?
+206	037	Đến mua đồ tiếp tế à? Hay là... cần tôi sửa quần áo giúp?
 207		
-208	037	Miss Luna! Great news. Thanks to Miss Yukimura’s unexpected haul, I can now sell magic scrolls here.
-209	Luna	Huh? Wasn’t that loot something both Yukimura and I brought back from the castle?
-210	037	Really? …Hmm, I’m not too sure. Maybe Miss Yukimura forgot to mention that part.
-211	Luna	Huh… Why do I have to buy my own loot?!
+208	037	Cô Luna! Có tin vui đây. Nhờ chiến lợi phẩm ngoài dự kiến mà cô Yukimura mang về, giờ tôi có thể bán cuộn ma thuật ở đây rồi.
+209	Luna	Hả? Chẳng phải đống chiến lợi phẩm đó là thứ cả Yukimura và tôi cùng mang về từ lâu đài sao?
+210	037	Thật sao? ...Hmm, tôi cũng không rõ lắm. Có lẽ cô Yukimura quên không nhắc tới phần đó.
+211	Luna	Ơ… Tại sao tôi lại phải mua lại chính chiến lợi phẩm của mình chứ?!
 212	037	Umm…
-213	037	I’m terribly sorry. Miss Yukimura sold them to me just now… I even had to pay a huge sum…
-214	Luna	Eh?! How could she!
-215	037	I’m really sorry… Maybe you should talk to Miss Yukimura about it...?
-216	Luna	Uuuu... this is so unfair!!
+213	037	Tôi thật sự xin lỗi. Cô Yukimura vừa bán chúng cho tôi... Tôi còn phải trả một khoản tiền rất lớn nữa...
+214	Luna	Hả?! Sao chị ấy có thể làm vậy chứ!
+215	037	Tôi thật sự xin lỗi... Có lẽ cô nên nói chuyện trực tiếp với cô Yukimura thì hơn...?
+216	Luna	Uuuu… thế này bất công quá đi!!
 217		
-218		It's too far away—I can't jump across.
-219		If only the tracks could be fixed...
-220	Luna	Lati-senpai?
+218		Xa quá, mình không thể nhảy qua được.
+219		Giá mà đường ray có thể được sửa lại...
+220	Luna	Tiền bối Lati?
 221	Lati	Luna.
-222	Lati	Look over there—that’s a trace of an ancient god.
-223	Lati	I didn’t expect to find a ruin like this in such a random abandoned mining area.
-224	Luna	Ancient god?
-225	Lati	This world was once ruled by the old gods. Ruins like this can be found in many places. Of course, the Empire doesn’t care about dead gods, so they trample through without restraint.
-226	Lati	It seems they were collecting crystal ore here.
-227	Lati	Though for some reason, they ended up abandoning it.
-228	Lati	Watch out for slimes...
-229	Lati	Those things can get into places you wouldn't imagine.
+222	Lati	Nhìn bên kia đi, đó là dấu tích của một Vị thần cổ đại.
+223	Lati	Chị không ngờ lại có thể tìm thấy một di tích như thế này trong một khu mỏ bỏ hoang ngẫu nhiên.
+224	Luna	Vị thần cổ đại?
+225	Lati	Thế giới này từng nằm dưới sự cai trị của các vị thần cổ xưa. Những tàn tích như thế này có thể được tìm thấy ở rất nhiều nơi. Tất nhiên, Đế quốc chẳng quan tâm đến các vị thần đã chết, nên họ cứ thế giẫm đạp lên mà không hề kiêng dè.
+226	Lati	Có vẻ như trước kia họ đã khai thác các quặng tinh thể ở đây.
+227	Lati	Nhưng vì lý do nào đó, cuối cùng họ lại bỏ hoang nơi này.
+228	Lati	Hãy cẩn thận với đám slime…
+229	Lati	Mấy thứ đó có thể chui vào những chỗ mà em không thể tưởng tượng nổi đấy.
 230	Luna	Ughhhh...
-231	Lati	Hmm? You’re not sure how to fix the rails?
-232	Lati	There’s another mine cart over there. You’ll need it.
-233	Lati	If the cart isn’t going in the direction you want, then block off the direction it shouldn't go.
+231	Lati	Hmm? Em không biết phải sửa đường ray như thế nào à?
+232	Lati	Có một xe mỏ khác ở đằng kia. Em sẽ cần đến nó đấy.
+233	Lati	Nếu chiếc xe không đi theo hướng em muốn, thì hãy chặn hướng mà em không muốn nó đi.
 234		
-235		It’s locked.
-236		A heavy stone wall…
-237	Luna	Ugh… It’s not budging at all.
-238		Pushing it further seems useless.
-239		Can’t open it from this side.
-240		Seems to be jammed.
-241		A mysterious force flows in… The position of the stone sphere has been reset.
-242		A distant rumble—the sound of a stone gate shifting...
+235		Bị khóa rồi.
+236		Một bức tường đá rất nặng…
+237	Luna	Ugh… Nó không nhúc nhích chút nào cả.
+238		Có đẩy thêm nữa cũng vô ích thôi.
+239		Không thể mở từ phía này.
+240		Có vẻ như nó bị kẹt rồi.
+241		Một nguồn sức mạnh bí ẩn đang chảy vào... Vị trí của quả cầu đá đã được đặt lại.
+242		Một tiếng rung động vang lên từ xa, âm thanh của một cánh cửa đá đang di chuyển...
 243		
-244	Yukimura	Shh! Keep your voice down.
-245	Luna	Yukimura-senpai?!
-246	Luna	What are you doing here?!
-247	Yukimura	Shhh! Keep your voice down...
-248	Yukimura	No one followed you, right?
-249	Luna	Don’t worry, I took care of the enemy on the way.
-250	Yukimura	Oh, good… what a relief.
+244	Yukimura	Suỵt! Nhỏ tiếng thôi.
+245	Luna	Tiền bối Yukimura?!
+246	Luna	Chị đang làm gì ở đây vậy?!
+247	Yukimura	Suỵt! Nhỏ tiếng thôi...
+248	Yukimura	Không có ai đi theo em chứ?
+249	Luna	Đừng lo, em xử lý hết kẻ địch trên đường rồi.
+250	Yukimura	Oh, tốt quá... nhẹ cả người ghê.
 251	Luna	……
 252		
-253	Luna	Uwah… Yukimura-senpai, are you okay?
+253	Luna	Uwah... Tiền bối Yukimura, chị ổn chứ?
 254	Yukimura	Ughhh...
-255	Yukimura	Sorry, Luna… You’ve now witnessed your great senpai in one of her most embarrassing moments.
-256	Yukimura	I never imagined my flawless original technique, the “Barrel Escape Jutsu,” would be seen through so easily... And now my butt’s sore... Though I must admit, there’s a certain strange comfort to it... But still, not a good position for my butt...
-257	Yukimura	And that soldier earlier was so rough! Not that I completely hated it, hehe.
+255	Yukimura	Xin lỗi nhé, Luna... Để em phải chứng kiến Senpai vĩ đại này trong một trong những khoảnh khắc mất mặt nhất rồi.
+256	Yukimura	Chị chưa từng nghĩ tuyệt kỹ độc quyền hoàn hảo của mình, “Thuật Thoát Thân Bằng Thùng Gỗ” lại bị nhìn thấu dễ dàng như vậy... Giờ thì mông chị đau quá… Mặc dù phải công nhận là cũng có cảm giác dễ chịu kỳ lạ... Nhưng dù sao thì tư thế đó cũng không tốt cho mông chút nào cả...
+257	Yukimura	Với cả tên lính lúc nãy thô bạo thật đấy! Cơ mà không phải là chị ghét hoàn toàn đâu nhé, hehe.
 258	Luna	………………
 259		
-260	Yukimura	Come on, hiding in a barrel is actually a very useful technique!
-261	Yukimura	Wanna give it a try, Luna?
-262	Luna	No thanks!
-263	Yukimura	Aww, thats' too bad. I even brought a spare barrel just for you.
-264	Luna	Why would you even prepare something like that…
-265	Yukimura	Ahem… Anyway, if you hadn’t shown up when you did, I would've been caught again!
-266	Luna	Again???
-267	Yukimura	Hehe… Sometimes luck just isn’t on my side…
-268	Yukimura	In any case, thanks a ton, Luna!
+260	Yukimura	Thôi nào, trốn trong thùng thật ra là một kỹ thuật rất hữu dụng đấy!
+261	Yukimura	Muốn thử không, Luna?
+262	Luna	Không, cảm ơn!
+263	Yukimura	Aww, tiếc thật đó. Chị còn chuẩn bị sẵn một cái thùng dự phòng cho em nữa cơ mà.
+264	Luna	Sao chị lại chuẩn bị cả thứ đó chứ...
+265	Yukimura	Ahem... Mà thôi, dù sao nếu em không tới đúng lúc thì chắc chị lại bị bắt thêm lần nữa rồi!
+266	Luna	Lần nữa???
+267	Yukimura	Hehe… Đôi khi vận may không đứng về phía chị thôi mà...
+268	Yukimura	Dù sao đi nữa cũng cảm ơn em nhiều lắm, Luna!
 269		
-270	Yukimura	Oh right, Luna, you’ve gotten quite familiar with the Exhibition Jutsu by now, haven’t you?
-271	Luna	Umm… not really…
-272	Luna	I’m still not very good at it...
+270	Yukimura	À đúng rồi, Luna, giờ em cũng đã khá quen với Thuật Khỏa Thân rồi đúng không?
+271	Luna	Umm... cũng không hẳn...
+272	Luna	Em vẫn chưa giỏi lắm...
 273		
-274	Hint	You need to raise your Exhibitionism Level to 2 before you can continue learning.
+274	Gợi ý	Bạn cần tăng Cấp độ Khỏa thân lên cấp 2 trước khi có thể tiếp tục học.
 275		
-276	Yukimura	I see—well, come see me again once you’ve got more experience.
-277	Yukimura	Next, I’ll teach you a slightly more advanced technique!
-278	Luna	Huh? There’s a more advanced version?
-279	Yukimura	Of course! As a woman, there are all sorts of advantages—if you know how to use your body properly…
-280	Luna	J-Just get to the point already…
-281	Yukimura	Alright, alright. Come here, let me explain—
+276	Yukimura	Ra vậy, thế thì quay lại gặp chị sau khi em đã tích lũy thêm kinh nghiệm nhé.
+277	Yukimura	Lần tới, chị sẽ dạy em một kỹ thuật cao cấp hơn một chút!
+278	Luna	Ơ? Còn có cả phiên bản nâng cao nữa à?
+279	Yukimura	Tất nhiên rồi! Đã là phụ nữ thì có đủ loại lợi thế chứ, nếu em biết cách tận dụng cơ thể của mình đúng cách...
+280	Luna	C-Cứ vào thẳng vấn đề đi...
+281	Yukimura	Được rồi, được rồi. Lại đây, để chị giải thích cho—
 282	Luna	……
-283	Luna	T-That’s all I have to do...?
-284	Yukimura	Sure! You know, guys will do anything for a glimpse of your chest. Haha.
-285	Yukimura	But that’s just a simple trick. If you want to learn the more advanced stuff, not only will you need more Exhibition experience—you’ll also have to pass a little test of mine...
-286	Luna	Huh...? A test?
-287	Yukimura	Naturally. You can look forward to it—hehe.
-288	Luna	I am not looking forward to it!!
+283	Luna	C-Chỉ cần làm vậy thôi à...?
+284	Yukimura	Đúng thế! Em biết đấy, con trai sẵn sàng làm mọi thứ chỉ để được nhìn thấy một chút ngực thôi đó. Haha.
+285	Yukimura	Nhưng đó mới chỉ là mẹo cơ bản thôi. Nếu muốn học mấy thứ nâng cao hơn nữa, không chỉ cần thêm kinh nghiệm Khỏa Thân, mà em còn phải vượt qua một bài kiểm tra nho nhỏ của chị nữa...
+286	Luna	Huh...? Bài kiểm tra?
+287	Yukimura	Đương nhiên rồi. Cứ mong chờ đi nhé, hehe.
+288	Luna	Em hoàn toàn không mong chờ chút nào cả!!
 289		
-290	Hướng dẫn	Luna can now attempt to ask enemies for gold, items, or information while performing exhibition actions when touched. This may also briefly stop enemies from attacking.
-291	Hướng dẫn	Different enemies have different success rates, and some may refuse. Repeated rejections may anger them.
-292	Hướng dẫn	The higher Luna’s Exhibitionism Level, the higher her success rate.
+290	Hướng dẫn	Luna giờ đây có thể thử xin vàng, vật phẩm hoặc thông tin từ kẻ địch khi đang thực hiện hành động Khỏa Thân và bị chạm vào. Việc này cũng có thể tạm thời khiến kẻ địch ngừng tấn công.
+291	Hướng dẫn	Mỗi loại kẻ địch sẽ có tỷ lệ thành công khác nhau, và một số có thể từ chối. Bị từ chối quá nhiều lần có thể khiến chúng nổi giận.
+292	Hướng dẫn	Cấp độ Khỏa Thân của Luna càng cao thì tỷ lệ thành công càng lớn.
 293		
 294		
-295	Yukimura	Hehe, you really are good at finding me.
-296	Yukimura	So, Luna, your mission this time is to take down the Flame Knight, right?
-297	Luna	“Take down”... It’s an assassination.
-298	Yukimura	Hahaha, it’s all the same for you. You think you can pull off a stealth kill like Lati-senpai, without anyone noticing?
-299	Luna	Uh… probably not.
-300	Yukimura	Exactly. Lati-senpai is on another level. You just need to focus on what you’re good at.
-301	Luna	Why do you all always say that…
-302	Yukimura	Alright, alright. Since you’re going to face that Flame Knight head-on anyway, how about I share a great idea with you?
-303	Luna	A great idea?
-304	Yukimura	Yep! I’ve got a brilliant plan to help you complete your mission with ease.
-305	Yukimura	Shhh… don’t let that examiner overhear us.
-306	Yukimura	Who knows if he’s hiding in some shadow...
-307	Yukimura	Come a little closer… that’s it…
+295	Yukimura	Hehe, em đúng là rất giỏi tìm ra chị thật đấy.
+296	Yukimura	Vậy Luna, nhiệm vụ lần này của em là hạ gục Kỵ Sĩ Lửa đúng không?
+297	Luna	“Hạ gục”... Là ám sát chứ.
+298	Yukimura	Hahaha, với em thì có khác gì đâu. Em nghĩ mình có thể ám sát lén như tiền bối Lati, làm xong mà không ai phát hiện sao?
+299	Luna	Uh… chắc là không.
+300	Yukimura	Đó thấy chưa. Tiền bối Lati ở một đẳng cấp khác rồi. Em chỉ cần tập trung vào thứ mình giỏi thôi.
+301	Luna	Sao mọi người cứ toàn nói như vậy chứ...
+302	Yukimura	Được rồi, được rồi. Vì kiểu gì em cũng sẽ phải đối đầu trực diện với Kỵ Sĩ Lửa, nên để chị chia sẻ cho em một ý tưởng tuyệt vời nhé?
+303	Luna	Ý tưởng tuyệt vời?
+304	Yukimura	Đúng thế! Chị có một kế hoạch thiên tài giúp em hoàn thành nhiệm vụ dễ như trở bàn tay.
+305	Yukimura	Suỵt... đừng có để tên giám khảo đó nghe thấy.
+306	Yukimura	Ai biết được hắn có đang trốn đâu đó trong bóng tối không chứ...
+307	Yukimura	Lại gần thêm chút... Phải rồi...
 308	Yukimura	Hehe...
-309	Yukimura	I’ve learned that the Flame Knight—also the commander of the Third Legion—is named Krugmann. But his name’s not important.
-310	Yukimura	What’s important is, since Krugmann is a Flame Knight, he’s also a mage.
-311	Yukimura	Hehe, a mage. Anything come to mind?
-312	Luna	…Come to mind?
-313	Yukimura	That’s right! Mages are rich!
-314	Yukimura	There’s no doubt Krugmann is carrying loads of good stuff on him this time.
+309	Yukimura	Chị đã tìm hiểu được rằng Kỵ Sĩ Lửa, đồng thời cũng là chỉ huy của Quân đoàn số Ba tên là Krugmann. Nhưng tên hắn không quan trọng.
+310	Yukimura	Điều quan trọng là vì Krugmann là Kỵ Sĩ Lửa, nên hắn cũng là một pháp sư.
+311	Yukimura	Hehe, là pháp sư đấy. Có nghĩ ra điều gì không?
+312	Luna	…Nghĩ ra gì cơ?
+313	Yukimura	Đúng rồi! Pháp sư thì rất giàu!
+314	Yukimura	Không còn nghi ngờ gì nữa, lần này Krugmann chắc chắn đang mang theo cả đống đồ ngon trên người.
 315	Luna	……
-316	Yukimura	Ahem. The Third Legion specializes in ambush tactics, and most of them are elite units. To maximize gains, Krugmann surely packed tons of useful gear.
-317	Yukimura	Like gold… gold… and gold… Oops, I meant magic scrolls, of course!
-318	Yukimura	Magic scrolls are the most likely valuable item he’d bring.
-319	Luna	M-Magic scrolls?
-320	Yukimura	Yep, items that allow even non-mages to use magic.
-321	Yukimura	And we beastkin aren’t that different from common folks humans when it comes to magic, so we can use them too!
-322	Yukimura	If they’re scrolls Krugmann carries, they must be powerful. Maybe even ones that can take down a dragon in a single hit!
-323	Luna	Whoa, take down a dragon?! That powerful?!
-324	Yukimura	Uh… yes, just that powerful! …Probably.
-325	Yukimura	Anyway, if we can snatch a few scrolls, then when it’s time to face him, we can give him a taste of his own medicine!
-326	Yukimura	Boom! One shot and he’s done for! Hahaha.
-327	Luna	That’s clever… but would it really go that smoothly?
-328	Yukimura	Hmm... well, you never know unless you try, right? Have some faith in your senpai, Luna!
-329	Yukimura	As assassins, we have to make use of everything. Be smart, not just reckless... Ahem, I mean, charging straight in is a valid option too!
-330	Yukimura	Of course, if you’re confident you can kill him head-on, then forget I said anything.
-331	Luna	I’m confident!
-332	Luna	…Not really.
-333	Yukimura	Hehe, that’s our girl~ I knew you’d come around.
-334	Yukimura	See? Using a bit of cunning never hurts.
-335	Yukimura	So, if you want to join me for some lootin’—I mean, for preparations—come find me. I’ll be waiting right here.
-336	Yukimura	Your examiner might say it’s a shortcut, but results are what matter, right?
+316	Yukimura	Ahem. Quân đoàn số Ba chuyên về chiến thuật tập kích, mà phần lớn còn là đơn vị tinh nhuệ. Để tối đa hóa lợi ích, Krugmann chắc hẳn đã mang theo rất nhiều trang bị hữu dụng.
+317	Yukimura	Ví dụ như vàng... vàng... và vàng... Ối, ý chị là cuộn ma thuật chứ!
+318	Yukimura	Cuộn ma thuật là món đồ giá trị mà hắn có khả năng mang theo nhất.
+319	Luna	C-Cuộn ma thuật?
+320	Yukimura	Đúng vậy, vật phẩm cho phép ngay cả người không biết dùng ma thuật cũng có thể sử dụng ma thuật.
+321	Yukimura	Mà thú nhân như chúng ta cũng chẳng khác người thường lắm khi nói đến ma thuật, nên chúng ta cũng có thể dùng được!
+322	Yukimura	Nếu là cuộn phép Krugmann mang theo thì chắc chắn phải cực kỳ mạnh. Biết đâu còn có loại hạ gục cả rồng chỉ bằng một đòn!
+323	Luna	Woa, hạ cả rồng sao?! Mạnh đến vậy luôn hả?!
+324	Yukimura	Uh... đúng thế, mạnh như vậy đấy! ...Chắc vậy.
+325	Yukimura	Dù sao thì, nếu chúng ta chôm được vài cuộn ma thuật, đến lúc đối đầu với hắn thì cứ cho hắn nếm thử chính thuốc của mình là được!
+326	Yukimura	Bùm! Một phát là hắn xong đời! Hahaha.
+327	Luna	Ý tưởng hay đấy... nhưng liệu có thuận lợi đến vậy không?
+328	Yukimura	Hmm... ai mà biết được nếu chưa thử, đúng không? Tin tưởng tiền bối của em chút đi chứ, Luna!
+329	Yukimura	Là sát thủ thì phải tận dụng mọi thứ có thể. Phải thông minh, chứ đừng chỉ biết lao vào... Khụ, ý chị là tấn công trực diện cũng là một lựa chọn hợp lý!
+330	Yukimura	Tất nhiên, nếu em tự tin có thể hạ hắn bằng đối đầu trực diện thì cứ xem như chị chưa nói gì.
+331	Luna	Em tự tin!
+332	Luna	... Mà cũng không hẳn.
+333	Yukimura	Hehe, đúng là cô bé ngoan của chúng ta mà~ Chị biết kiểu gì em cũng sẽ đổi ý liền.
+334	Yukimura	Thấy chưa? Dùng chút mưu mẹo cũng đâu có hại gì chứ.
+335	Yukimura	Vậy nên, nếu em muốn tham gia cùng chị để đi hôi của... à không, ý chị là để chuẩn bị thì cứ đến tìm chị nhé. Chị sẽ đợi ngay ở đây.
+336	Yukimura	Giám khảo của em có thể sẽ bảo đó là đi đường tắt, nhưng kết quả mới là thứ quan trọng chứ, đúng không?
 337		
 338	Yukimura	Oh! So, have you decided?
 339	Luna	I’ve decided.

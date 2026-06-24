@@ -41,7 +41,7 @@ TRANSLATIONS = {
   return_to_safe_point: "Quay trở lại điểm an toàn?",
   
   # Shadow Crevice
-  shadow_crevice: "Tiến vào Khe Nứt Bóng Tối?",
+  shadow_crevice: "Tiến vào Vết Nứt Bóng Tối?",
   go_back: "Quay lại?",
 
   # H
@@ -132,7 +132,7 @@ TRANSLATIONS = {
 
   forever_charmed: ["Mê Hoặc Vĩnh Cửu", "Sức quyến rũ của bạn trở nên khó phai. Trạng thái bị mê hoặc của kẻ địch sẽ không còn \\C[6]thiết lập lại sau khi nghỉ ngơi\\C[0], trừ khi bạn tự mình tấn công chúng."],
 
-  exh_during_combat: ["Phơi Bày Trong Giao Tranh", "Việc phơi bày bản thân mang lại cho bạn nhiều khoái cảm hơn. Giờ đây bạn có thể thực hiện điều đó dễ dàng ngay cả trong lúc \\C[6]giao chiến\\C[0]."],
+  exh_during_combat: ["Khỏa Thân Trong Giao Tranh", "Việc phơi bày bản thân mang lại cho bạn nhiều khoái cảm hơn. Giờ đây bạn có thể thực hiện điều đó dễ dàng ngay cả trong lúc \\C[6]giao chiến\\C[0]."],
 
   # Unit names
   Soldier: "Binh Sĩ",
@@ -177,7 +177,7 @@ TRANSLATIONS = {
   # Main quests
   main_quest_1: ["Khu Rừng Sương Mù", "Tiếp tục tiến sâu hơn vào trong khu rừng..."],
   main_quest_2: ["Lâu Đài Thất Lạc", "Tiêu diệt chỉ huy Quân đoàn số Ba, Kỵ Sĩ Lửa."],
-  main_quest_3: ["Khoảng Nghỉ Ngắn", "Trở về Khe Nứt Bóng Tối và nghỉ ngơi một lúc."],
+  main_quest_3: ["Khoảng Nghỉ Ngắn", "Trở về Vết Nứt Bóng Tối và nghỉ ngơi một lúc."],
   main_quest_4: ["Ma Thuật Thất Truyền", "Có vẻ như đã xảy ra chuyện gì đó trong Khu Rừng Sương Mù... Hãy đến Lâu Đài Thất Lạc và tìm tiền bối Lati."],
   main_quest_5: ["Ma Thuật Thất Truyền", "Chờ tin tức từ tiền bối Lati... (còn tiếp)"],
 
@@ -214,7 +214,7 @@ TRANSLATIONS = {
   lati_exh_reaction_1: ["Thật không biết xấu hổ...", "Nếu em thấy điều này hữu ích...", "...", "Hãy đưa cho con người xem, đừng đưa cho chị.", "Em đang làm gì vậy...?"],
   k_exh_reaction_1: ["*Khụ*, này... đó là tai nạn à?", "Làm ơn đừng làm vậy. Em không thấy xấu hổ hả?", "...Tôi sẽ báo cáo hành vi của em chính xác như những gì đã xảy ra.", "Tên: Luna... Đặc điểm: thích phô trương... hmm, đã ghi nhận."],
   n037_exh_reaction_1:   ["Hmm? Cô Luna, cái gì đây?", "Nó to thật... không, xin lỗi, *khụ*.", "Không ngờ làm việc ở đây lại có nhiều phúc lợi như vậy?", "...Tôi có thể chạm vào không? Không?, được rồi! Xin hãy quên câu đó đi."],
-  merchant_exh_reaction_1: ["Thật là cảnh tượng mãn nhãn.", "Em đang muốn được giảm giá à?", "Đừng lo... Chị chỉ đang quan sát thôi."],
+  merchant_exh_reaction_1: ["Thật là cảnh tượng mãn nhãn.", "Em đang muốn được giảm giá à?", "Đừng lo... Tôi chỉ đang quan sát thôi."],
 
   # Items
   item_list: {

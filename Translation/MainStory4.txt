@@ -492,7 +492,7 @@
 492	Luna	Đừng nói là ngươi muốn…
 493	Luna	T-Tôi vẫn còn trinh đấy nhé...
 494	Sĩ quan	Heh, ta đâu vô lý đến thế, cún con.
-495	Sĩ quan Chìa khóa đang ở chỗ Trưởng Quân Sư. Cái tên nịnh thần suốt ngày đi theo Chỉ huy ấy... À mà cũng không hẳn là cả ngày.
+495	Sĩ quan	Chìa khóa đang ở chỗ Trưởng Quân Sư. Cái tên nịnh thần suốt ngày đi theo Chỉ huy ấy... À mà cũng không hẳn là cả ngày.
 496	Sĩ quan	Nhưng nếu muốn biết lúc nào hắn ở một mình, ngươi sẽ phải làm giúp ta một việc.
 497	Luna	Là gì?
 498	Sĩ quan	Giải quyết hắn đi.

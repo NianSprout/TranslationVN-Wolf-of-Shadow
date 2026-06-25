@@ -517,73 +517,73 @@
 517	Sĩ quan	Ngươi thích bị đối xử như thế này đúng không?
 518		
 519		
-520	Yukimura	Did you get anything out of him?
-521	Luna	Yeah, I did. He said the magic scrolls are inside the castle, but we’ll need to get the key first.
-522		Luna relayed everything she had just learned to her Senpai without leaving anything out.
-523	Yukimura	Oh, I see.
-524	Yukimura	Then the objective is clear! First, we take care of that strategist mage, get the key, sneak into the castle, and grab all the valuable goodies we can find!
-525	Luna	Uh... wasn’t it just the magic scrolls?
-526	Yukimura	Ahem—ahem, of course! The scrolls are included in the haul.
+520	Yukimura	Em moi được tin gì từ hắn chưa?
+521	Luna	Được rồi. Hắn nói đám cuộn ma thuật ở bên trong lâu đài, nhưng trước tiên chúng ta sẽ cần lấy được chìa khóa đã.
+522		Luna kể lại toàn bộ những gì vừa nghe được cho tiền bối của mình, không bỏ sót chi tiết nào.
+523	Yukimura	Oh, ra là vậy.
+524	Yukimura	Thế thì mục tiêu rõ ràng rồi! Đầu tiên, chúng ta xử lý tên quân sư pháp sư đó, lấy chìa khóa, lẻn vào lâu đài, rồi gom hết đống đồ giá trị có thể tìm được!
+525	Luna	Uh... chẳng phải mục tiêu chỉ là cuộn ma thuật thôi sao?
+526	Yukimura	Khụ khụ, tất nhiên rồi! Cuộn ma thuật cũng nằm trong chiến lợi phẩm mà.
 527		
-528	Yukimura	Hehe, Miss Luna, you’ve got something strange on your face.
-529	Luna	Eh?! Really? But I made sure to wash...
-530	Yukimura	Oh my? I was just joking, but... could it be...?
+528	Yukimura	Hehe, quý cô Luna ơi, trên mặt em dính thứ gì đó lạ lắm kìa.
+529	Luna	Hả?! Thật sao? Nhưng em đã chắc chắn là mình rửa sạch rồi mà…
+530	Yukimura	Ôi chà? Chị chỉ đùa thôi, nhưng mà... chẳng lẽ nào...?
 531	Luna	Ugh?!
-532	Yukimura	I knew it. He did make you do something, didn’t he? Hehehe.
-533	Yukimura	So~? That guy’s cock... it was pretty big, wasn’t it?
-534	Luna	Y-Yeah, it was... Wait—how do you know that?!
-535	Yukimura	Ohohoho! Excellent~
-536	Yukimura	To complete a mission without shedding a single drop of blood, through pure diplomacy—that's the art of seduction at its finest! Ahahaha!
-537	Yukimura	Miss Luna, keep up that spirit of learning, and continue improving, understood?
-538	Luna	Y-Yes... I’ll try...
+532	Yukimura	Biết ngay mà. Hắn bắt em làm gì đó rồi đúng không? Hehehe.
+533	Yukimura	Thế sao nào~? Cây hàng nóng của tên đó... khá to đúng không?
+534	Luna	V-Vâng, khá là...Khoan, sao chị biết được thế?!
+535	Yukimura	Ohohoho! Xuất sắc lắm~
+536	Yukimura	Hoàn thành nhiệm vụ mà không cần đổ một giọt máu nào, chỉ bằng ngoại giao thuần túy ấy, đó mới chính là nghệ thuật quyến rũ ở đỉnh cao! Ahahaha!
+537	Yukimura	Quý cô Luna này, cứ giữ tinh thần học hỏi đó và tiếp tục nâng cao bản thân nhé, biết chưa nè?
+538	Luna	V-Vâng... em sẽ cố gắng...
 539		
-540	Yukimura	Now then, as thanks for gathering this useful intel, Miss Luna...
-541	Yukimura	I’ll give you this!
-542		You received: Exhibition Jutsu (Volume 2)
-543	Luna	What’s this? Huh? There’s a second volume?
-544	Yukimura	Hehehe, but of course! Where there’s a first volume, there’s bound to be a second!
-545	Yukimura	When facing different types of enemies, your approach to exposure must change accordingly... Ah, humans are complex—some like the top, others prefer the bottom.
+540	Yukimura	Vậy thì, để cảm ơn quý cô Luna đây đã thu thập được thông tin hữu ích này...
+541	Yukimura	Chị sẽ tặng cho em cái này!
+542		Nhận được: Thuật Khỏa Thân (Phần 2)
+543	Luna	Đây là gì vậy? Huh? Còn có phần 2 nữa hả?
+544	Yukimura	Hehehe, tất nhiên rồi! Đã có phần 1 thì kiểu gì cũng phải có phần 2 chứ!
+545	Yukimura	Khi đối mặt với từng loại kẻ địch khác nhau, cách khỏa thân cơ thể cũng phải thay đổi tương ứng... Tại con người phức tạp lắm, người thì thích phía trên, người lại thích phía dưới.
 546	Luna	Huhhh??
-547	Yukimura	Just showing your breasts isn’t enough!
-548	Yukimura	At the right place! At the right time! In front of the right target! You have to expose down below too!
-549	Luna	D-Down below?! 
-550	Luna	That sounds a bit too difficult for me...
-551	Yukimura	Not at all! You’re already more than qualified! Be bold and show it off!
-552	Hướng dẫn	When Luna uses seductive exposure, different enemies will have different preferences. Choosing the right area to expose will greatly increase your chance of success. However, it will also raise the enemy’s excitement level.
-553	Hướng dẫn	When the enemy’s excitement bar is full, they will immediately enter combat and attempt to assault Luna.
-554	Yukimura	Alright, I’ll be waiting for you up ahead.
-555	Yukimura	Don’t forget to come find me~ Hehehe~
+547	Yukimura	Chỉ khoe ngực thôi là chưa đủ đâu!
+548	Yukimura	Đúng chỗ! Đúng thời điểm! Đúng đối tượng! Em còn phải cho xem hàng cả phía dưới nữa!
+549	Luna	P-Phía dưới nữa á?!
+550	Luna	Nghe có vẻ hơi khó với em thật...
+551	Yukimura	Không hề! Giờ em đủ tư cách rồi! Mạnh dạn lên rồi khoe ra đi!
+552	Hướng dẫn	Khi Luna sử dụng hành động Khỏa thân quyến rũ, mỗi loại kẻ địch sẽ có sở thích khác nhau. Chọn đúng khu vực để khỏa thân sẽ làm tăng mạnh tỷ lệ thành công. Tuy nhiên, điều đó cũng sẽ làm tăng mức hưng phấn của kẻ địch.
+553	Hướng dẫn	Khi thanh hưng phấn của kẻ địch đầy, chúng sẽ lập tức bước vào trạng thái chiến đấu và cố gắng tấn công Luna.
+554	Yukimura	Được rồi, chị sẽ đợi em ở phía trước.
+555	Yukimura	Đừng có quên quay lại tìm chị nhé~ Hehehe~
 556		
-557	Yukimura	Oh! You’re finally here, Miss Luna.
-558	Yukimura	I’ve already gathered the intel! That mage’s cabin is just due north from here. Go through this hidden forest path and you’ll get there quickly.
-559	Yukimura	And I saw it too—him sneaking into the cabin.
-560	Yukimura	Mm… but unfortunately...
-561	Luna	Unfortunately what?
-562	Yukimura	The unfortunate part is that to get the armory key, we’ll have to defeat him.
-563	Luna	Huh? Yeah. Wasn’t that the plan all along?
-564	Luna	Or... is he a no-kill target?
-565	Yukimura	Not exactly.
+557	Yukimura	Oh! Cuối cùng em cũng tới rồi, quý cô Luna.
+558	Yukimura	Chị đã thu thập được thông tin rồi! Căn nhà gỗ của tên pháp sư đó nằm ngay phía bắc từ đây. Đi qua lối mòn bí mật trong rừng này là tới rất nhanh.
+559	Yukimura	Và chị cũng tận mắt nhìn thấy hắn lén lút chui vào trong căn nhà đó.
+560	Yukimura	Ừm... nhưng tiếc là...
+561	Luna	Tiếc là sao?
+562	Yukimura	Điều đáng tiếc là để lấy được chìa khóa kho vũ khí, chúng ta sẽ phải đánh bại hắn.
+563	Luna	Huh? Đúng mà. Chẳng phải kế hoạch ngay từ đầu là vậy sao?
+564	Luna	Hay là... hắn thuộc dạng mục tiêu không được giết?
+565	Yukimura	Không hẳn vậy.
 566	Luna	?
-567	Yukimura	Ahem… The unfortunate part is, to get the key, we have to defeat him, and to defeat him, we need to get inside that cabin.
-568	Luna	And then?
-569	Yukimura	But the cabin is locked.
-570	Yukimura	So we’ll have to find another key.
+567	Yukimura	Khụ... Điều đáng tiếc là muốn lấy được chìa khóa thì phải đánh bại hắn, mà muốn đánh bại hắn thì phải vào được căn nhà đó.
+568	Luna	Rồi sao nữa?
+569	Yukimura	Nhưng căn nhà lại bị khóa.
+570	Yukimura	Vậy thì chúng ta phải tìm thêm một cái chìa khóa nữa.
 571	Luna	...
-572	Yukimura	This is such a hassle.
-573	Yukimura	If only we could’ve assassinated him before he entered.
-574	Luna	Weren’t you on site when it happened? Why didn’t you just take him out?
-575	Yukimura	Well… he didn’t exactly look like an easy opponent.
-576	Yukimura	Mages are tricky types. You never know if they’ve got eyes on the back of their heads.
-577	Yukimura	What if it was a trap?
-578	Luna	...Are you sure it wasn’t just because you didn’t feel like it?
-579	Yukimura	Well well, anyway, our objective is clear now.
-580	Yukimura	To find the key to the cabin, I had to use some... special methods to interrogate a few people.
-581	Luna	...Special methods?
-582	Yukimura	Don’t worry about the details. What matters is, it seems that mage didn’t prepare a spare key for the cabin.
-583	Luna	Ugh… so we’ve hit a dead end?
-584	Yukimura	Hmm… what should we do… Maybe you could go back and ask that officer—Reynold, was it? He might have a useful idea.
-585	Luna	(So his name is Reynold...)
-586	Luna	Alright… I’ll go ask him.
+572	Yukimura	Phiền thật đấy.
+573	Yukimura	Giá mà có thể ám sát hắn trước khi hắn bước vào thì tốt quá rồi.
+574	Luna	Lúc đó chị có mặt ở đó mà? Sao chị không xử lý hắn luôn?
+575	Yukimura	À thì... nhìn hắn không giống kiểu đối thủ dễ ăn cho lắm.
+576	Yukimura	Pháp sư là kiểu rất phiền phức ấy. Ai biết được sau đầu họ có mọc thêm mắt hay không chứ.
+577	Yukimura	Lỡ đó là bẫy thì sao?
+578	Luna	...Chị chắc không phải chỉ vì chị lười đâu nhỉ?
+579	Yukimura	Thôi nào thôi nào, dù sao thì mục tiêu của chúng ta cũng rõ rồi.
+580	Yukimura	Để tìm chìa khóa căn nhà đó, chị đã phải dùng vài... biện pháp đặc biệt để thẩm vấn vài người.
+581	Luna	...Biện pháp đặc biệt?
+582	Yukimura	Đừng để ý đến tiểu tiết. Điều quan trọng là có vẻ tên pháp sư đó không chuẩn bị chìa khóa dự phòng cho căn nhà.
+583	Luna	Ugh… vậy là bế tắc rồi à?
+584	Yukimura	Hmm… phải làm sao đây… Hay là em quay lại hỏi tên sĩ quan đó xem sao, Reynold thì phải? Có khi hắn sẽ có ý tưởng hữu ích đấy.
+585	Luna	(Vậy ra hắn tên là Reynold...)
+586	Luna	Được rồi... em sẽ đi hỏi hắn.
 587		
 588	Luna	Excuse me...
 589	Reynold	Hm? You came back.

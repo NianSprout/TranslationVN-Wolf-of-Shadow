@@ -585,25 +585,25 @@
 585	Luna	(Vậy ra hắn tên là Reynold...)
 586	Luna	Được rồi... em sẽ đi hỏi hắn.
 587		
-588	Luna	Excuse me...
-589	Reynold	Hm? You came back.
-590	Reynold	So? Did you take care of him?
-591	Luna	Not yet...
-592	Reynold	Then why are you back? Or wait—did you come to have a little fun with me?
-593	Luna	Of course not!
-594	Luna	I actually want to ask... why are you still here?
-595	Reynold	Naturally, I was waiting for your report.
-596	Reynold	The moment I first saw you, I knew tonight would be a sleepless one.
-597	Reynold	...In more ways than one.
+588	Luna	Thứ lỗi....
+589	Reynold	Hả? Ngươi đã quay lại.
+590	Reynold	Thế? Ngươi đã giải quyết tên đấy chưa?
+591	Luna	Vẫn chưa....
+592	Reynold	Thế sao người lại quay lại đây? Hay là ngươi quay lại đây để vui vẻ với ta?
+593	Luna	Tất nhiên là không rồi!
+594	Luna	Thật ra ta có điều muốn hỏi ngươi đây... Vì sao ngươi vẫn còn ở đây?
+595	Reynold	Dĩ nhiên, ta ở đây là để đợi báo cáo từ ngươi.
+596	Reynold	Khoảnh khắc lần đầu ta gặp ngươi, ta biết đêm đấy sẽ là đêm dài.
+597	Reynold	...Tùy theo suy nghĩ của ngươi.
 598	Luna	......
-599	Reynold	So, you ran into some trouble? And came back to ask for help?
-600	Luna	Ugh... you could put it that way.
-601	Luna	That mage locked himself in, and we can’t get inside.
-602	Reynold	Hmm...
-603	Reynold	What, you can’t pick locks? The armory’s lock is complex, sure—I wouldn’t expect you to handle that. But a little wooden cabin shouldn’t be beyond you.
-604	Luna	I... can’t.
-605	Reynold	I heard every proper assassin should know how to pick locks, no?
-606	Luna	My case is a little... special.
+599	Reynold	Vậy là, ngươi gặp rắc rối?  và quay lại tìm kiếm sự giúp đỡ?
+600	Luna	Ừ thì... ngươi có thể hiểu theo là vậy.
+601	Luna	Tên pháp sư ấy thường tự nhốt mình trong đấy, và chúng ta không thể cứ thế mà tiến vào được.
+602	Reynold	Hừm...
+603	Reynold	Gì cơ, ngươi không thể bẻ khóa nó ư? (chưa dịch được)The armory’s lock is complex, nên ta nghĩ ngươi cũng không thể lo liệu được điều ấy. But a little wooden cabin shouldn’t be beyond you.
+604	Luna	Ta... không thể.
+605	Reynold	Ta nghe rằng đối với mỗi cá nhân sát thủ đều biết cách bẻ khóa, không phải thế à?
+606	Luna	Trường hợp của ta thì hơi chút đặc biệt... đặc biệt.
 607	Reynold	Don’t you people have some special abilities? Like phasing through walls or something?
 608	Luna	...I don’t have that either.
 609	Reynold	Then what can you do?

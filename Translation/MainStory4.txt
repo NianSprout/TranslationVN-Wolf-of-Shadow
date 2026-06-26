@@ -10,7 +10,7 @@
 10	Hướng dẫn	Bình hồi máu sẽ được \c[18]hồi lại\c[0] sau mỗi lần nghỉ.
 11		
 12	Luna	Trước khi vào rừng thì mình nên nghỉ ngơi một chút trước đã…
-13	Luna	That silhouette just now…?
+13	Luna	Bóng người vừa rồi là...?
 14	
 15	Yukimura	Này~ Luna! Bên này này!
 16	Luna	Là tiền bối Yukimura? Chị làm gì ở đây vậy?
@@ -586,44 +586,44 @@
 586	Luna	Được rồi... em sẽ đi hỏi hắn.
 587		
 588	Luna	Thứ lỗi....
-589	Reynold	Hả? Ngươi đã quay lại.
+589	Reynold	Hm? Ngươi quay lại rồi à.
 590	Reynold	Thế? Ngươi đã giải quyết tên đấy chưa?
 591	Luna	Vẫn chưa....
-592	Reynold	Thế sao người lại quay lại đây? Hay là ngươi quay lại đây để vui vẻ với ta?
+592	Reynold	Thế quay lại làm gì? Hay là... ngươi quay lại đây định vui vẻ với ta à?
 593	Luna	Tất nhiên là không rồi!
-594	Luna	Thật ra ta có điều muốn hỏi ngươi đây... Vì sao ngươi vẫn còn ở đây?
-595	Reynold	Dĩ nhiên, ta ở đây là để đợi báo cáo từ ngươi.
-596	Reynold	Khoảnh khắc lần đầu ta gặp ngươi, ta biết đêm đấy sẽ là đêm dài.
-597	Reynold	...Tùy theo suy nghĩ của ngươi.
+594	Luna	Thật ra ta muốn hỏi... sao ngươi vẫn còn ở đây?
+595	Reynold	Đương nhiên là ta ở đây để đợi báo cáo từ ngươi rồi.
+596	Reynold	Khoảnh khắc lần đầu ta gặp ngươi, là ta biết đêm nay sẽ là đêm dài đấy.
+597	Reynold	...Theo nhiều nghĩa khác nhau.
 598	Luna	......
-599	Reynold	Vậy là, ngươi gặp rắc rối?  và quay lại tìm kiếm sự giúp đỡ?
-600	Luna	Ừ thì... ngươi có thể hiểu theo là vậy.
-601	Luna	Tên pháp sư ấy thường tự nhốt mình trong đấy, và chúng ta không thể cứ thế mà tiến vào được.
-602	Reynold	Hừm...
-603	Reynold	Gì cơ, ngươi không thể bẻ khóa nó ư? (chưa dịch được)The armory’s lock is complex, nên ta nghĩ ngươi cũng không thể lo liệu được điều ấy. But a little wooden cabin shouldn’t be beyond you.
-604	Luna	Ta... không thể.
-605	Reynold	Ta nghe rằng đối với mỗi cá nhân sát thủ đều biết cách bẻ khóa, không phải thế à?
-606	Luna	Trường hợp của ta thì hơi chút đặc biệt... đặc biệt.
-607	Reynold	Don’t you people have some special abilities? Like phasing through walls or something?
-608	Luna	...I don’t have that either.
-609	Reynold	Then what can you do?
-610	Luna	I...
-611	Reynold	...Are you really an assassin?
-612	Luna	Ugh, of course I am... I already reached the final trial...
-613	Reynold	Alright, I get it. You’re not exactly top-tier.
+599	Reynold	Vậy là ngươi gặp chút rắc rối? Và quay lại tìm kiếm sự giúp đỡ à?
+600	Luna	Ừ thì... có thể nói là vậy.
+601	Luna	Tên pháp sư ấy thường tự nhốt mình bên trong, và chúng ta không thể cứ thế mà đột nhập vào được.
+602	Reynold	Hmm...
+603	Reynold	Sao, ngươi không thể bẻ khóa nó à? Khóa kho vũ khí thì phức tạp thật, nên ta nghĩ là ngươi cũng không thể xử lý được. Nhưng một căn nhà gỗ nhỏ thì đâu đến mức đó.
+604	Luna	Ta... không biết..
+605	Reynold	Ta nghe rằng đối với mỗi cá nhân sát thủ đều sẽ biết cách bẻ khóa, không phải thế à?
+606	Luna	Trường hợp của ta thì có hơi... đặc biệt chút.
+607	Reynold	Các người chẳng phải có cái mấy năng lực đặc biệt gì đấy à? Kiểu xuyên tường hay gì đó chẳng hạn?
+608	Luna	...Ta cũng không có nốt.
+609	Reynold	Thế ngươi làm được gì?
+610	Luna	Ta...
+611	Reynold	...Ngươi có thật sự là sát thủ không đấy?
+612	Luna	Ugh, tất nhiên rồi... Ta còn tới được bài kiểm tra cuối cùng cơ mà...
+613	Reynold	Thôi được rồi, đã hiểu. Ngươi không hẳn thuộc hàng đỉnh cao trong ngành rồi.
 614	Luna	Uuuu...
-615	Reynold	Fine, I’ll think of something. But I can’t step in directly—it’d be too obvious.
-616	Reynold	I’ll forge a command from the Commander. That guy will know it’s fake, but he’ll have to open the door anyway—then you can take your shot.
-617	Reynold	Alright, go on.
+615	Reynold	Được thôi, để ta nghĩ cách. Nhưng ta không thể trực tiếp ra mặt được, như thế thì quá lộ liễu.
+616	Reynold	Ta sẽ làm giả một mệnh lệnh từ Chỉ huy. Tên đó sẽ biết là giả, nhưng dù vậy hắn vẫn sẽ phải mở cửa, lúc đó thì ngươi hãy ra tay.
+617	Reynold	Được rồi, đi đi.
 618		
 619	Lati	Mm...
-620	Luna	Lati-senpai?
-621	Lati	Luna, there you are.
-622	Lati	It looks like this is a magical gate. It blocks the only path into the castle...
-623	Lati	To unlock it, for us beastkin who can’t use magic, might be too difficult.
-624	Lati	Unless there’s some kind of mechanism somewhere that can disable it.
-625	Luna	Mm... I understand.
-626	Lati	Then, I’ll be waiting for you up ahead.
+620	Luna	Tiền bối Lati?
+621	Lati	Luna, em tới rồi à.
+622	Lati	Có vẻ đây là một cánh cổng ma thuật. Nó chặn mất con đường duy nhất để ta tiến vào lâu đài...
+623	Lati	Muốn mở nó thì với thú nhân như chúng ta, những người không thể sử dụng ma thuật có lẽ sẽ khá khó khăn.
+624	Lati	Trừ khi ở đâu đó có một cơ chế nào đó có thể vô hiệu hóa nó.
+625	Luna	Mm... em hiểu rồi.
+626	Lati	Vậy thì chị sẽ chờ em ở phía trước.
 627		
 628	Yukimura	So? Did he have a good plan?
 629		Told Yukimura about Reynold’s plan

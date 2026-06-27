@@ -625,323 +625,323 @@
 625	Luna	Mm... em hiểu rồi.
 626	Lati	Vậy thì chị sẽ chờ em ở phía trước.
 627		
-628	Yukimura	So? Did he have a good plan?
-629		Told Yukimura about Reynold’s plan
-630	Yukimura	I see! That’s actually a great idea! Hurry and get ready then!
+628	Yukimura	Sao rồi? Kế hoạch của hắn được không? 
+629		Kể cho Yukimura vế kế hoạch của Reynold 
+630	Yukimura	Ra vậy! Ý tưởng hay đó chứ! Vậy mau lên và chuẩn bị đi!
 631		
-632	Luna	Mm... it's still a bit early. I’ll go back and rest first.
+632	Luna	Mm… vẫn còn hơi sớm. Mình nên quay lại và nghỉ một chút.
 633		
-634	Luna	So dark...
-635	Luna	No one here?
-636	Luna	A trap?!
+634	Luna	Tối quá…
+635	Luna	Không có ai ở đây sao?
+636	Luna	Có bẫy?!
 637		
-638	Mage	...Is that you?
-639	Mage	The rat who dares disturb me.
-640	Mage	Oh... a Lycan. I see, part of that infamous assassin organization.
-641	Mage	This forged order—it’s Reynold’s doing, isn’t it?
-642	Mage	Didn’t expect him to stoop to your level... Though, I can’t say I’m surprised.
+638	Mage	...là ngươi à?
+639	Mage	Con chuột nhắt dám làm phiền ta.
+640	Mage	Ồ… là sói tộc. Ra vậy, từ cái tổ chức sát thủ khét tiếng đó.
+641	Mage	Mệnh lệnh giả mạo này, là tên Reynold đó phải không?
+642	Mage	Ta không ngờ hắn lại hạ mình với hạng như ngươi… Mà, ta cũng không bất ngờ lắm.
 643	Luna	......
-644	Mage	No intention to talk?
-645	Mage	Very well, then show me your strength.
-646	Mage	Let’s see whether our human magic is superior... or if your moonlight shines brighter.
-647	Mage	...You're strong.
-648	Mage	But this is the end!
-649	Mage	Impossible! ...My magic!
-650	Mage	Humans should be... the strongest!
-651	Mage	I will... remember you!
+644	Mage	Không muốn nói à?
+645	Mage	Được thôi, vậy thì cho ta xem sức mạnh của ngươi nào.
+646	Mage	Để xem ma pháp của loài người bọn ta là tuyệt đối… hay lu mờ bởi ánh trăng của các ngươi.
+647	Mage	…Ngươi mạnh thật đấy.
+648	Mage	Nhưng đây sẽ là đòn kết thúc!
+649	Mage	Không thể nào! …Ma pháp của ta!
+650	Mage	Loài người lẽ ra… phải mạnh nhất!
+651	Mage	Ta sẽ… nhớ mặt ngươi!
 652		
-653	Yukimura	Luna! You're back! How did it go? Did you get the key?
-654	Luna	I got it.
-655	Yukimura	Fantastic! Then let’s head out right away!
+653	Yukimura	Luna! Em quay lại rồi! Sao rồi? Em có lấy được chìa khóa không?
+654	Luna	Em có đây rồi.
+655	Yukimura	Tuyệt vời! Vậy thì ta lên đường luôn nào!
 656		
-657	Reynold	You’re back. So? Did you take him out?
-658	Luna	Sorry... he got away.
-659	Reynold	What? He ran away? Hah... Hahahahaha!
-660	Reynold	That guy actually knew how to run? That arrogant, paranoid freak! Oh... that’s hilarious.
+657	Reynold	Ngươi quay lại rồi. Sao rồi? Ngươi đã hạ hắn chưa?
+658	Luna	Xin lỗi… hắn ta chạy mất rồi.
+659	Reynold	Sao? Hắn ta chạy rồi à? Hah… Hahahahaha!
+660	Reynold	Tên đó mà cũng biết chạy à? Tên khốn ngạo mạn, hoang tưởng đó! Oh… buồn cười thật đấy.
 661	Luna	Um...
-662	Reynold	What is it? Oh, you completed the mission, I should reward you.
+662	Reynold	Sao? À phải, ngươi hoàn thành nhiệm vụ rồi, ta cũng nên thưởng cho ngươi chứ nhỉ.
 663	Luna	Wah?!
-664	Luna	I don’t need that kind of reward!
-665	Reynold	Then do you want punishment instead?
-666	Luna	I don’t want that either!
-667	Luna	I mean... is it really okay that he escaped?
-668	Reynold	Yeah, it’s fine. Since he lost to you, his pride must be shattered. I doubt he’ll come back anytime soon.
-669	Luna	Weren’t you trying to have him killed?
-670	Reynold	Haha, of course I wanted him dead.
-671	Reynold	But that wasn’t my ultimate goal. As long as he’s no longer at the Commander’s side, it doesn’t matter if he’s hiding in some hole licking his wounds.
-672	Reynold	Speaking of the Commander, are you planning to assassinate him next?
-673	Luna	...Yeah.
-674	Reynold	Don’t worry, I won’t stop you.
-675	Reynold	Krugmann is also an arrogant bastard. He’ll underestimate you—you can use that to your advantage.
-676	Reynold	But he’s also strong. Be careful.
-677	Reynold	If you manage to kill him, come find me. I’ve got other tasks I’d like to entrust you with.
+664	Luna	Ta không cần thứ phần thưởng đó!
+665	Reynold	Vậy ngươi muốn được phạt thay à?
+666	Luna	Ta cũng không cần cái đó!
+667	Luna	Ý ta là… để hắn ta chạy mất vậy có vấn đề gì không?
+668	Reynold	À, không sao. Nếu đánh thua ngươi, thì niềm kiêu hãnh của hắn chắc chắn vỡ vụn rồi. Hắn ta sẽ không quay lại đây đâu.
+669	Luna	Không phải ngươi muốn hắn chết sao?
+670	Reynold	Haha, tất nhiên là ta muốn hắn chết chứ.
+671	Reynold	Nhưng đó không phải là mục tiêu cuối của ta. Miễn là hắn không còn vẫy đuôi quanh Tổng tư lệnh, thì ta chả quan tâm hắn chui rúc ở đâu nữa.
+672	Reynold	Tiện nói về tên Tổng tư lệnh, hắn là mục tiêu tiếp theo của ngươi phải không?
+673	Luna	...Phải.
+674	Reynold	Đừng lo, ta sẽ không ngáng đường ngươi đâu.
+675	Reynold	Krugmann cũng là một tên khốn ngạo mạn. Hắn ta chắc chắn sẽ không coi ngươi ra gì và đó sẽ là lợi thế của ngươi.
+676	Reynold	Nhưng hắn cũng rất mạnh. Nên cẩn thận vẫn hơn.
+677	Reynold	Nếu ngươi có thể hạ được hắn, quay lại tìm ta. Ta sẽ có vài yêu cầu cần nhờ ngươi.
 678		
-679	Luna	I’ve already taken care of him.
-680	Reynold	Took care of him? The Commander? The Flame Knight?
-681	Luna	Yes.
+679	Luna	Ta đã xử lý hắn rồi.
+680	Reynold	Ngươi đã hạ được hắn? Tên Tổng tư lệnh? Hỏa Kỵ Sĩ?
+681	Luna	Phải.
 682	Reynold	Hahaha...
-683	Reynold	Good, very good.
-684	Reynold	You’re powerful, and way too efficient... far better than those useless men under me.
-685	Reynold	I ought to reward you more.
-686	Luna	No need for any rewards...
-687	Reynold	Right now, I really want to recruit you.
-688	Reynold	Shame you’re not human. I personally don’t care, but beastkin don’t have freedom in the Empire, so you can’t officially join the army.
-689	Reynold	That means I can’t make you my subordinate openly, nor can I offer you equal status.
-690	Reynold	However... that doesn’t mean you can’t work for me.
-691	Reynold	If you do, I can give you access to resources your assassin organization could never provide.
-692	Reynold	So? Interested?
-693	Luna	Not interested.
-694	Luna	Maybe.
-695	Reynold	What a shame. If you change your mind, come back to me.
-696	Reynold	Excellent. That makes you mine now.
-697	Luna	Ugh... I wouldn’t go that far. I only agreed to help with a few things, not—
-698	Reynold	You’re expecting something too, aren’t you? Otherwise, why help me?
-699	Reynold	What’s your name?
-700	Luna	I’m Luna.
-701	Reynold	Good, Luna. From now on, you’re my personal assassin. I’ll have many tasks that require your talents.
-702	Reynold	I look forward to it.
-703	Luna	(...Is it really okay to help someone like him?)
+683	Reynold	Tốt, rất tốt.
+684	Reynold	Ngươi mạnh thật đấy, và còn rất hữu dụng nữa… hơn hẳn lũ vô lại dưới trướng ta.
+685	Reynold	Ta phải thưởng cho ngươi nhiều hơn mới được.
+686	Luna	Ta không cần mấy phần thưởng này của ngươi...
+687	Reynold	Bây giờ, ta thực sự rất muốn có ngươi đấy.
+688	Reynold	Thật tiếc là ngươi không phải con người. Ta cũng không bận tâm mấy đâu, nhưng thú nhân thực sự không có tự do trong Đế quốc, nên ngươi cũng không thể chính thức gia nhập quân ngũ được.
+689	Reynold	Đồng nghĩa là ta không thể công khai ngươi là cấp dưới của ta, hay cho ngươi một vị trí tương đương được.
+690	Reynold	Tuy nhiên… việc đó không có nghĩa là ngươi không thể làm việc cho ta.
+691	Reynold	Nếu đồng ý, ta sẽ cung cấp cho ngươi những thứ mà tổ chức sát thủ của ngươi không bao giờ có thể có được.
+692	Reynold	Sao? Hứng thú chứ?
+693	Luna	Không hứng thú.
+694	Luna	Có thể.
+695	Reynold	Quá đáng tiếc. Nhưng nếu ngươi đổi ý, cứ quay lại tìm ta.
+696	Reynold	Tuyệt vời. Vậy từ giờ ngươi là của ta.
+697	Luna	Khoan… Ta không định có ý đó. Ta chỉ đồng ý giúp...
+698	Reynold	Ngươi cũng đang mong chờ gì đó mà phải không? Nếu không thì sao lại giúp ta chứ?
+699	Reynold	Ngươi có tên chứ?
+700	Luna	Luna.
+701	Reynold	Được rồi, Luna. Từ giờ, ngươi sẽ phục vụ cho. ta. Ta sẽ có nhiều việc cần đến năng lực của ngươi đấy.
+702	Reynold	Ta sẽ đợi tin tốt từ ngươi đấy.
+703	Luna	(…tiếp tay cho kẻ như hắn liệu có ổn không nhỉ?)
 704
-705		The Crystal Cave is currently sealed by order. No one may enter.
+705		Động Pha Lê hiện đang được niêm phong. Không tự ý ra vào.
 706
 707
 708
 709
 710
 711
-712	Yukimura	Woohoo! Treasure and gold, here I come!
-713	Luna	So this is...
-714	Yukimura	Oh! You found the scroll? Let me see, let me see!
+712	Yukimura	Woohoo! Kho báu của ta!
+713	Luna	Vậy đây là...
+714	Yukimura	Oh! Em tìm được mấy cuốn trục rồi à? Cho chị xem, cho chị xem!
 715	Yukimura	Hmm...
-716	Yukimura	Yes, this is definitely a magic scroll!
-717	Yukimura	With this, you won’t need to fear the Flame Knight anymore! Hey! Aim it right at his face and blast! That’s right! We’ll breeze through this annoying trial!
-718	Magic Scroll (Fireball)	Effect: Creates a large 3x3 fire explosion in front, damaging multiple enemies.\n\C[6]Can be used to destroy some stone pillars blocking the path.
-719	Magic Scroll (Fireball)	A large stock of identical magic scrolls has been obtained, so they can now be purchased from the support agent in the Shadow Crevice.
-720	Yukimura	Alright, we have the scroll, and we have the treasure...
-721	Yukimura	Then we disband right here!
-722	Yukimura	Oh, right. When you challenge the Flame Knight later, I will prepare a surprise for you!
-723	Yukimura	Then! Bye!
-724	Yukimura	Ahahahaha! Yukimura has arrived!
-725	Yukimura	Take this: Secret Art - Flame Burst!
-726	Yukimura	Whoa! You beat him! Congratulations!
-727	Yukimura	Oh no! I need to get out of here fast!
-728	Yukimura	Then, good luck!
-729	Lati	Welcome to the heart of the Mist Forest, the Forgotten Castle.
-730	Lati	...Now I’m certain. The Flame Knight chose to camp here for his own reasons.
-731	Lati	The origin of the mist in the forest has long been a focus of attention for the nearby human kingdoms.
-732	Lati	Humans are a race that must rely on magic to strengthen themselves, and the dense mist is the key to nurturing magic power.
-733	Lati	They suspect there’s some hidden secret buried here... uncovering the source of the mist has become the goal of many human factions.
-734	Lati	That Flame Knight must have come here with the same intent.
-735	Lati	But finding what he wants here won’t be easy.
-736	Lati	This place was once the heart of a kingdom—the Lost Kingdom. While not as ancient as the Old Gods, it’s still shrouded in mystery.
-737	Lati	It’s said that the very first magic was born here.
-738	Luna	The first magic?
-739	Lati	Yes, the source of human strength is magic.
-740	Lati	But humans didn’t always know how to use magic from the start.
-741	Lati	Whether it was granted by the gods, or discovered by someone uncovering ancient secrets...
-742	Lati	Even they might have forgotten by now.
-743	Lati	Your target lies ahead...
-744	Lati	Don’t let your guard down.
+716	Yukimura	Chính nó, đây chắc chắn chính là pháp trục rồi!
+717	Yukimura	Với thứ này, em sẽ không phải sợ tên Lửa Cháy nữa! Đây! Cứ nhắm thẳng vào mặt hắn rồi bùm! Chỉ vậy thôi! Vậy là chúng ta sẽ băng băng qua cuộc khảo thí phiền phức này rồi!
+718	Pháp trục: Hỏa cầu	Tác dụng: Tạo ra một vụ nổ 3x3 trước mặt, gây sát thương đa mục tiêu.\n\C[6]Có thể sử dụng để phá hủy một số cột đá\C[0] chặn đường.
+719	Pháp trục: Hỏa cầu	Tìm được số lượng lớn pháp trục, Luna có thể mua thêm từ trợ lý hỗ trợ ở Vết Nứt Bóng Tối.
+720	Yukimura	Được rồi, chúng ta đã bảo toàn được các cuốn trục, và cả kho báu nữa…
+721	Yukimura	Đến lúc giải tán thôi!
+722	Yukimura	À phải rồi, khi em chạm trán với tên Hỏa Kỵ Sĩ, chị sẽ chuẩn bị một bất ngờ cho cưng!
+723	Yukimura	Vậy nhé! Gặp cưng sau!
+724	Yukimura	Ahahaha! Bổn nương Yukimura đã tới đây! 
+725	Yukimura	Đỡ chiêu: Bí kĩ - Liệt Hỏa Chưởng!
+726	Yukimura	Whoa! Em hạ được hắn rồi nè! Chúc mừng nhé!
+727	Yukimura	Chết! Chị phải đi đây!
+728	Yukimura	Chúc may mắn nhé!
+729	Lati	Chúc mừng đã tìm được tới trung tâm của Rừng Sương Mù, nơi đây là Thành Cổ Lãng Quên.
+730	Lati	…Giờ thì chị chắc chắn rồi. Tên Hỏa Kỵ Sĩ đã chọn đóng quân ở đây đều có lý do cả.
+731	Lati	Nguồn gốc của màn sương trong khu rừng này đã luôn là được quan tâm bởi các vương triều con người xung quanh.
+732	Lati	Con người là loài phải dựa vào ma pháp để gia tăng sức mạnh bản thân, và màn sương dày đặc này chính là chìa khóa để nuôi dưỡng ma lực cho chúng.
+733	Lati	Chúng hẳn đã suy đoán được rằng có bí mật nào đó đang chôn vùi ở đây… Việc khám phá bí ẩn đó đã luôn là mục đích của các triều đại loài người.
+734	Lati	Tên Hỏa Kỵ Sĩ này chắc chắn đến đây cũng với ý định đó.
+735	Lati	Nhưng để tìm được thứ hắn muốn ở đây chắc chắn sẽ không dễ dàng.
+736	Lati	Nơi đây có vẻ từng là cố đô của một vương triều, một Vương Triều Đã Mất. Tuy không lâu đời như các Cổ Thần, nhưng nó vẫn chứa đầy các bí ẩn quanh đây.
+737	Lati	Tương truyền rằng đây chính là nơi đã khai sinh ra ma pháp đầu tiên.
+738	Luna	Ma pháp đầu tiên ư?
+739	Lati	Phải, ma thuật chính là cội nguồn sức mạnh của con người.
+740	Lati	Tuy vậy, ma thuật vẫn là thứ rất mơ hồ với con người thuở sơ khai.
+741	Lati	Dù là được ban tặng bởi các vị thần, hay là được phát hiện bởi ai đó đã khám phá ra các bí mật cổ đại...
+742	Lati	Những điều đó hẳn đã bị con người lãng quên rồi.
+743	Lati	Mục tiêu của em ở phía trước...
+744	Lati	Đừng chủ quan.
 745		
-746	Flame Knight	...I am the Flame Knight.
-747	Flame Knight	Commander of the Empire’s Third Legion—Krugmann.
-748	Flame Knight	Are you here to stop me? ...Lone Wolf of the Shadows.
-749	Flame Knight	But you’re too late... the ancient power is already in my grasp.
-750	Flame Knight	The lost secrets shall soon be unleashed... and you...
-751	Flame Knight	I will consume you...\| with fire.
-752	Flame Knight	...It’s not over yet!
-753	Flame Knight	Graaaahhhh!
-754	Flame Knight	Th-This... can’t be!
-755	Flame Knight	The Old Gods... will save me—
+746	Hỏa Kỵ Sĩ	...Ta là Hỏa Kỵ Sĩ.
+747	Hỏa Kỵ Sĩ	Krugmann - Tổng tư lệnh Quân Đoàn Số Ba của Đế quốc.
+748	Hỏa Kỵ Sĩ	Ngươi muốn ngáng đường ta sao, một Dạ Sát Lang đơn độc?
+749	Hỏa Kỵ Sĩ	Quá muộn rồi... quyền năng thượng cổ giờ đã thuộc về ta.
+750	Hỏa Kỵ Sĩ	Sẽ sớm thôi, các bí mật chôn vùi sẽ khai mở... còn ngươi...
+751	Hỏa Kỵ Sĩ	Ngọn lửa của ta...\|sẽ nuốt chửng ngươi.
+752	Hỏa Kỵ Sĩ	...Chưa xong đâu!
+753	Hỏa Kỵ Sĩ	Graaaahhhh!
+754	Hỏa Kỵ Sĩ	Kh-Không... thể nào!
+755	Hỏa Kỵ Sĩ	Các Cổ Thần... sẽ cứu ta...
 756		
 757		
 758		
 759		
-760	K	You defeated the Flame Knight... and passed the final trial. Congratulations.
-761	K	But don’t get cocky...
-762	K	So, wipe that smile off your face. This is a serious evaluation report.
+760	K	Chúc mừng cô đã thành công đánh bại Hỏa Kỵ Sĩ... và cũng đã vượt qua bài khảo thí này.
+761	K	Nhưng chớ có ngạo mạn...
+762	K	Vậy nên, thôi cái vẻ đắc ý đó đi. Đây vẫn là bản đánh giá nghiêm túc đấy.
 763	K	Ahem...
-764	K	That said, there was a complication during the mission. The Flame Knight gained mysterious powers and became significantly stronger. As a result, the difficulty of this operation far exceeded trial parameters.
-765	K	If senior Lati hadn’t been present, I might have canceled this trial.
-766	K	Still... you defeated him.
-767	K	Hmm. Luna, your combat talent is truly astonishing.
-768	K	But... well, we’re an assassination organization.
-769	K	Taking down the Flame Knight in a head-on battle is... hard to evaluate.
-770	K	I sincerely hope you’ll also work on your stealth and assassination skills.
+764	K	Như đã nói, với biến cố xảy ra trong nhiệm vụ này. Việc Hỏa Kỵ Sĩ đạt được một nguồn sức mạnh bí ẩn khiến mục tiêu trở nên mạnh hơn gấp bội. Điều này đã khiến độ khó của chiến dịch vượt ngưỡng của các bài khảo thí thông thường.
+765	K	Nếu không có sự xuất hiện của chị Lati, có lẽ tôi đã cho hủy bỏ bài thi rồi.
+766	K	Tuy vậy... cô thực sự đã đánh bại hắn.
+767	K	Hmm. Luna, năng lực chiến đấu của cô thực sự rất ấn tượng.
+768	K	Nhưng tôi vẫn phải nói... tổ chức của chúng ta là tổ chức sát thủ.
+769	K	Việc đối đầu trực tiếp với Hỏa Kỵ Sĩ vẫn... khó để có thể đánh giá được.
+770	K	Tôi mong rằng cô sẽ trau dồi thêm các kỹ năng ẩn thân và ám sát của mình.
 771	Luna	Uh...
-772	Luna	I’m constantly learning!
-773	Luna	A frontal kill is more efficient though...
-774	K	Good, keep that learning attitude.
-775	K	...But you’re only making “assassinations” harder this way.
-776	K	Whatever, with senior Lati watching over you, I doubt you’ll do anything too outrageous.
-777	K	You may rest for now.
-778	K	Of course, the Empire’s army won’t stop just because their commander is dead. They’ll have a replacement soon enough.
-779	K	But that’s no longer our concern.
-780	K	Once your break is over, return to the Shadow Crevice. I’ll have a new mission prepared.
+772	Luna	Tôi vẫn đang học hỏi mà!
+773	Luna	Cơ mà tấn công trực diện vẫn hiệu quả hơn...
+774	K	Tốt, nếu có tinh thần ham học thì được.
+775	K	...Nhưng với phong cách này chỉ khiến công việc "ám sát" của cô khó hơn cần thiết thôi.
+776	K	Mà sao cũng được, có chị Lati trông chừng, tôi nghĩ cô cũng sẽ không làm gì kì quặc thái quá đâu.
+777	K	Cô có thể nghỉ ngơi được rồi.
+778	K	Dĩ nhiên, quân đội của Đế quốc sẽ không bó tay chịu trận chỉ vì cái chết của một viên tướng. Sẽ có kẻ lên thay thế sẽ sớm thôi.
+779	K	Nhưng đó không còn là việc chúng ta cần để tâm nữa.
+780	K	Sau khi nghỉ ngơi, hãy quay về Vết Nứt Bóng Tối. Tôi sẽ có nhiệm vụ mới cho cô.
 781		
 782	Lati	Luna.
-783	Luna	Wah!? You startled me, Lati-senpai...
-784	Lati	...Sorry. I couldn’t appear directly in front of your evaluator—that would be considered cheating.
-785	Lati	Just now, the Flame Knight said he had obtained ancient power.
-786	Lati	What K said is true.
-787	Lati	The Flame Knight's power had indeed increased dramatically. This trial became far more dangerous than expected... I didn’t think you’d actually manage to defeat him.
-788	Lati	I was prepared to intervene myself and report the excessive danger to the higher-ups... But it seems that won’t be necessary now.
-789	Luna	Lati-senpai...
-790	Lati	Don’t make that face.
-791	Luna	This is a face of deep emotion!
-792	Lati	Back on topic—Krugmann’s ability to gain power proves he did uncover the secret of the Mist Forest.
-793	Lati	Even if just a part of it.
-794	Lati	Our next step is to find out how he obtained that power.
-795	Lati	Unfortunately, Krugmann is dead. If only we could interrogate him, things would be easier.
-796	Luna	Uh... sorry about that...
-797	Lati	Don’t apologize. This was your trial. And this outcome was unavoidable.
-798	Lati	I’ll be staying in this castle for a while longer...
-799	Lati	If you run into trouble, come find me here.
-800	Luna	Got it. Thank you.
+783	Luna	Wah!? Chị làm em giật mình đấy, chị Lati...
+784	Lati	...Xin lỗi. Chị không thể xuất hiện trước mặt giám khảo được, bài thi sẽ không được công nhận mất.
+785	Lati	Vừa nãy, Hỏa Kỵ Sĩ có nói hắn đã nắm được nguồn sức mạnh thượng cổ.
+786	Lati	Đúng như K đã nói.
+787	Lati	Sức mạnh của Hỏa Kỵ Sĩ đã tăng lên gấp bội. Khiến bài thi này trở nên nguy hiểm hơn đánh giá ban đầu của hội đồng... Thực sự chị cũng không ngờ rằng em có thể hạ được hắn đấy.
+788	Lati	Chị đã định sẽ can thiệp và báo cáo lại mức độ nguy hiểm với các cấp phía trên... Nhưng có vẻ chị đã lo xa rồi.
+789	Luna	Chị Lati...
+790	Lati	Mặt mũi vậy là sao?
+791	Luna	Là em đang rất cảm động đó!
+792	Lati	Quay lại vấn đề, việc Krugmann có được sức mạnh này chứng tỏ hắn đã khám phá ra bí mật của Rừng Sương Mù.
+793	Lati	Dù có là một phần của nó đi chăng nữa.
+794	Lati	Nhiệm vụ tiếp theo của chúng ta là điều tra cách mà hắn đã đạt được sức mạnh đó.
+795	Lati	Không may là Krugmann đã chết rồi. Nếu có thể tra khảo hắn thì mọi việc có lẽ sẽ dễ hơn.
+796	Luna	Uh... em xin lỗi...
+797	Lati	Em không cần xin lỗi. Tiêu diệt hắn là mục tiêu của bài kiểm tra. Kết quả này là tất yếu.
+798	Lati	Ta sẽ ở lại tòa lâu đài này thêm một thời gian...
+799	Lati	Nếu có vấn đề gì, cứ đến đây tìm ta.
+800	Luna	Em rõ rồi. Cảm ơn chị.
 801		
-802	K	Luna, congratulations again on completing your trial.
-803	K	Your first official mission has been assigned to me, but it’s not time to depart just yet.
-804	K	Senior Lati... She seems to have started investigating the Mist Forest’s secrets.
-805	K	If you’re also curious about those mysterious things, you can go check in with her.
-806	K	I’m sure she could use your help.
+802	K	Luna, một lần nữa chúc mừng cô đã hoàn thành bài khảo thí.
+803	K	Nhiệm vụ chính thức đầu tiên của cô đã có, nhưng hiện chưa phải lúc để tiến hành.
+804	K	Chị Lati... Có vẻ chị ấy đang điều tra về bí mật của Rừng Sương Mù.
+805	K	Nếu mấy thứ huyền bí ấy cũng khiến cô tò mò, thì cô có thể tham gia cùng chị ấy.
+806	K	Chị ấy chắc sẽ cần trợ giúp từ cô đấy.
 807		
 808	Lati	Luna.
-809	Luna	Lati-senpai? What’s going on?
-810	Lati	I’m not sure.
-811	Lati	But ever since the Flame Knight was killed, the atmosphere here has felt... off.
-812	Lati	This magic circle also appeared out of nowhere.
-813	Lati	I suspect Krugmann did something...
-814	Lati	But he didn’t live long enough to see the result.
-815	Lati	Now, the mist in the forest has grown thicker... and the concentration of mana is off the charts.
-816	Lati	Magic will become stronger—and so will monsters... Sadly, we beastkin can’t use magic.
-817	Lati	Even the moonlight can barely pierce through this mist now... That will impact our abilities.
-818	Lati	Hmm... if we want to keep exploring, we must deal with the mist problem first.
-819	Lati	If it gets thick enough to completely block out the moon... we’ll lose both our powers and the path back to the Shadow Crevice.
-820	Luna	That... sounds really bad.
-821	Lati	If that happens, we’ll have to walk out of the Mist Forest on foot.
-822	Lati	In any case, your trial is over now... It’d just be a shame, that’s all.
-823	Luna	I see...
-824	Lati	Mm. I’ll inform you if anything new comes up.
-825	Luna	Alright.
-826	Lati	...It happened again.
-827	Luna	Senior Lati, what was that just now...?
-828	Lati	I do not know. In any case, it does not seem like a good omen.
-829	Lati	An ancient power... We may need to go deeper and take a look.
-830	Luna	Senior Lati?
-831	Lati	No, it is nothing...
-832	Lati	Luna, you should go back first. Be ready to evacuate at any time.
-833	Luna	...What about you, Senior Lati?
-834	Lati	I will stay here and continue investigating. Do not worry about me.
-835	Luna	Ugh...\|I understand.
+809	Luna	Chị Lati? Chuyện gì xảy ra ở đây vậy.
+810	Lati	Ta cũng không chắc nữa.
+811	Lati	Nhưng sau khi Hỏa Kỵ Sĩ chết, mọi thứ quanh đây bắt đầu có vẻ... bất thường.
+812	Lati	Như việc vòng tròn ma thuật này bất ngờ xuất hiện vậy.
+813	Lati	Ta nghi ngờ Krugmann có dính líu tới việc này...
+814	Lati	Chỉ tội là hắn không thể chiêm ngưỡng thành quả của hắn được nữa rồi.
+815	Lati	Giờ thì như em thấy, màn sương đã trở nên dày đặc hơn trước... và ma lực ngưng tụ nơi đây đã vượt mức báo động rồi.
+816	Lati	Sức mạnh của ma pháp lại gia tăng hơn nữa, rồi còn lũ quái vật... Thú nhân chúng ta rơi vào thế khó rồi.
+817	Lati	Với ánh trăng giờ gần như đã bị che phủ bởi màn sương... chúng ta cũng không thể phát huy tốt sức mạnh được nữa.
+818	Lati	Hmm... nếu muốn tiếp tục điều tra, chúng ta sẽ cần phải xử lý vấn đề màn sương trước.
+819	Lati	Nếu để nó che lấp hoàn toàn ánh trăng... chúng ta sẽ mất không chỉ sức mạnh mà cả cách duy nhất để trở về Vết Nứt Bóng Tối.
+820	Luna	Tình hình có vẻ... rất nghiêm trọng rồi.
+821	Lati	Nếu điều đó thực sự xảy ra, chúng ta sẽ buộc phải rời khu rừng bằng đường bộ.
+822	Lati	Đằng nào thì bài khảo thí của em cũng xong rồi... Chỉ tiếc là chúng ta phải từ bỏ cơ hội này thôi.
+823	Luna	Ra vậy...
+824	Lati	Mm. Ta sẽ thông báo cho em sau nếu có gì mới.
+825	Luna	Rõ ạ.
+826	Lati	...Nó lại tiếp tục rồi.
+827	Luna	Chị Lati, vừa có chuyện gì vậy...?
+828	Lati	Ta cũng không rõ. Dù là gì đi nữa thì cũng không phải điều tốt lành gì.
+829	Lati	Một nguồn sức mạnh cổ đại... Chúng ta có lẽ cần phải tiến vào sâu hơn để xem chuyện gì đang xảy ra.
+830	Luna	Chị Lati?
+831	Lati	À không, không có gì đâu...
+832	Lati	Luna, em quay lại trước đi. Và chuẩn bị sẵn sàng sơ tán.
+833	Luna	...Còn chị thì sao, chị Lati?
+834	Lati	Ta sẽ ở đây tiếp tục điều tra. Em không cần lo cho ta đâu.
+835	Luna	Ugh...\|Em hiểu rồi.
 836
 837
 838
 839
-840	Reynold	Since you are already my subordinate, I have some tasks for you as well.
-841	Luna	...What tasks?
-842	Luna	Let me make this clear first: I will not betray the organization... I am helping you only because of the special resources you promised me.
-843	Luna	Though I still do not know what you are going to give me.
-844	Reynold	Yes, yes, something very special, little wolf girl. No need to worry at all.
-845	Reynold	I pose no threat to your assassin organization. I could even be called an asset... and of course, I could also be your employer.
-846	Reynold	As you can see, the Empire is attacking the Northern Kingdom... or more precisely, launching a surprise attack.
-847	Reynold	That is exactly the objective of our Third Legion. Passing through the Mist Forest, however, was only a coincidence, because our advance was too fast...
-848	Reynold	Clearly, His Majesty the Emperor does not want our presence to alert the kingdom too soon.
-849	Reynold	So that man Krugmann decided to take a detour and look around the Mist Forest.
+840	Reynold	Giờ ngươi đã là người của ta rồi, ta có vài việc cần ngươi đây.
+841	Luna	...Việc gì?
+842	Luna	Nhưng để ta nói trước: Không có chuyện ta phản bội tổ chức đâu nhé... Ta chỉ nhận lời vì ngươi bảo sẽ trả công hậu hĩnh cho ta rồi đấy.
+843	Luna	Mà ngươi vẫn chưa cho ta biết ngươi định trả công cho ta cái gì đâu.
+844	Reynold	À phải, phải, là một thứ rất đặc biệt đấy, sói con. Không cần phải sợ thiệt thòi đâu.
+845	Reynold	Ta hoàn toàn không có thù oán gì mới tổ chức sát thủ của ngươi. Thậm chí ta còn đem lại lợi ích cho các ngươi nữa... như việc thuê ngươi bây giờ đây.
+846	Reynold	Như ngươi đã biết, Đế quốc đang có chiến tranh với Vương triều phía Bắc... hay nói đúng hơn là đang triển khai một chiến dịch phủ đầu.
+847	Reynold	Và đó chính là mục tiêu của Quân Đoàn Số Ba bọn ta. Bằng việc băng qua Rừng Sương Mù, tuy nhiên lại tình cờ là do tốc độ tiến quân của bọn ta quá nhanh...
+848	Reynold	Tất nhiên là Hoàng Đế thì không muốn sự hiện diện của bọn ta đánh động lũ vương triều trước khi thời cơ đến.
+849	Reynold	Và vì vậy tên Krugmann quyết định tạm thời đi khám phá khu rừng này.
 850	Luna	...
-851	Reynold	Fine, I know you are not interested in this sort of thing.
-852	Reynold	But your assassin organization certainly would not turn away intelligence like this. Bring it back, and I can leave a good impression on your people. It benefits you too.
-853	Luna	...Is that how it works?
-854	Reynold	Of course. We may even cooperate again in the future.
-855	Reynold	We have wandered off topic. Krugmann came here for one thing and one thing only: the power of the Old Gods.
-856	Luna	The power of the Old Gods?
-857	Reynold	Exactly. Old God power, secret magic, it has many names, but they all refer to the same thing.
-858	Reynold	Legend says an ancient power is sealed within the Mist Forest. We do not know what it is, but judging by the way the dense mist strengthens magic, it is most likely Old God power.
-859	Luna	...So you want the Old God power too?
-860	Reynold	Me? Oh, you are right. Of course I do. Who would not? It is the highest pursuit of all mankind.
-861	Reynold	So when Commander Krugmann wanted to detour into the Mist Forest, all of us understood his purpose... because he himself is a powerful man. Flame Knight is no ordinary title.
-862	Reynold	One must be a knight and also pass a series of special magical trials to earn that title. He is one in ten thousand... and in the Mist Forest, Krugmann would only grow stronger.
+851	Reynold	Được rồi, ngươi không quan tâm lịch sử chuyến đi của bọn ta.
+852	Reynold	Nhưng tổ chức sát thủ của ngươi chắc chắn không muốn bỏ lỡ thông tin quý giá này đâu. Tìm về cho ta thì nó sẽ là bước đệm tốt cho quan hệ giữa ta và các ngươi đó. Chắc chắn chỉ có lợi cho ngươi thôi.
+853	Luna	...Đơn giản vậy thôi sao?
+854	Reynold	Tất nhiên rồi. Và chúng ta có thể sẽ hợp tác trong tương lai nữa.
+855	Reynold	Dài dòng rồi. Quay lại chủ đề... Krugmann tới đây chỉ vì một thứ duy nhất: Đó là sức mạnh của các Cổ Thần.
+856	Luna	Sức mạnh của các Cổ Thần à?
+857	Reynold	Chính xác. Sức mạnh Cổ Thần, huyền pháp... có nhiều tên gọi nhưng chúng đều chung bản chất.
+858	Reynold	Truyền thuyết kể rằng có một quyền năng cổ đại được phong ấn trong Rừng Sương Mù. Không ai biết chính xác là gì, nhưng dựa vào mật độ dày đặc của làn sương ma thuật này, có khả năng rất cao sức mạnh này thuộc về các Cổ Thần.
+859	Luna	...Vậy là ngươi cũng đang nhắm tới Sức mạnh Cổ thần à?
+860	Reynold	Ta à? Dĩ nhiên là ta muốn rồi. Có ai lại không muốn chứ? Sức mạnh này là đỉnh cao mà toàn nhân loại theo đuổi đấy.
+861	Reynold	Do vậy, ngay khi Tổng tư lệnh Krugmann quyết định tiến vào Rừng Sương Mù, ai trong bọn ta cũng hiểu ý đồ của hắn ngay lập tức... vì bản thân hắn cũng rất mạnh. Danh hiệu Hỏa Kỵ Sĩ không phải làm màu đâu.
+862	Reynold	Để đạt được danh hiệu ấy, một hiệp sĩ phải trải qua hàng loạt bài kiểm tra ma pháp đặc biệt. Hắn là thiên tài vạn người có một... và sức mạnh của hắn lại càng vượt trội hơn trong Rừng Sương Mù này.
 863	Reynold	...Hmm.
-864	Reynold	Looking at it that way, you, who defeated him head-on, are also quite... special.
-865	Luna	Hehe, everyone says Luna has a lot of talent for fighting.
-866	Reynold	The Lycan race is indeed skilled in battle, but demi-humans have always been unable to learn magic... yet from what I see, you seem to command some kind of special power.
-867	Reynold	Without a special power, defeating the Flame Knight would have been impossible.
-868	Luna	Ugh, about that...
-869	Luna	(Senior Lati told me... I must not reveal anything about Moon Power to humans...)
-870	Reynold	If you do not want to tell me, that is fine. A little extra mystery only makes me more interested in you.
-871	Luna	............(blushing)
-872	Reynold	I am interested in the Old God power the commander was searching for, but... that is not my first objective.
-873	Reynold	More than the Old God power, what I want right now is the Empire's Third Legion.
-874	Luna	Huh? The legion? Aren't you already a commander?
-875	Reynold	Hahaha! You may not understand. I am only a commander, not the legion commander.
-876	Reynold	I want to become legion commander, not merely remain a commander.
-877	Reynold	What I want is control over the entire army. I want to take Krugmann's place. Do you understand what I mean?
-878	Luna	Ugh... so you want to become a Flame Knight too?
-879	Luna	So are you strong?
+864	Reynold	Nếu xét như vậy, thì ngươi, kẻ đánh hạ được hắn thì cũng... đặc biệt đấy.
+865	Luna	Hehe, mọi người đều nói Luna rất có năng khiếu trong chiến đấu mà.
+866	Reynold	Lang Nhân quả thực rất giỏi chiến đấu, nhưng đã là bán nhân thì không thể học ma pháp... nhưng theo như ta thấy, ngươi có vẻ có sở hữu một sức mạnh đặc biệt nào đó.
+867	Reynold	Không thể nào có chuyện hạ được Hỏa Kỵ Sĩ mà lại không sở hữu nguồn sức mạnh nào được.
+868	Luna	Ugh, về chuyện này thì...
+869	Luna	(Chị Lati đã dặn... tuyệt đối không được để con người biết về Nguyệt Lực...)
+870	Reynold	Ngươi không muốn nói cho ta cũng được. Có bí mật chỉ khiến ta thêm tò mò về ngươi hơn thôi.
+871	Luna	............(ngại ngùng)
+872	Reynold	Mặc dù sức mạnh của Cổ Thần mà Tổng tư lệnh tìm kiếm rất thú vị, nhưng... nó lại không phải là mục tiêu ban đầu của ta.
+873	Reynold	Hơn cả sức mạnh ấy, thứ ta muốn là Quân Đoàn Số Ba của Đế quốc.
+874	Luna	Hả? Quân Đoàn? Không phải ngươi đã là chỉ huy rồi sao?
+875	Reynold	Hahaha! Ngươi nhầm rồi. Ta là chỉ huy, nhưng không phải chỉ huy quân đoàn.
+876	Reynold	Ta muốn làm Tổng tư lệnh, không phải chỉ là một tên chỉ huy vớ vẩn.
+877	Reynold	Thứ ta muốn là quyền kiểm soát toàn bộ quân lính. Ta muốn cái ghế ấy của Krugmann. Ngươi hiểu ý ta chứ?
+878	Luna	Ưm... vậy là ngươi cũng muốn trở thành Hỏa Kỵ Sĩ à?
+879	Luna	Vậy ngươi có mạnh không?
 880	Reynold	...
-881	Reynold	Forget it. You can think of it that way.
-882	Reynold	In any case, Krugmann is dead. He died because he recklessly sought the power of the Old Gods, and you drove off one of his hangers-on as well.
-883	Reynold	Even leaderless, the Third Legion's mission remains unchanged. Now is the best time to replace him.
-884	Reynold	However, there are still others who think the same way I do.
-885	Reynold	Beneath the commander of the Third Legion, there are six senior commanders in total. I am one of them.
-886	Reynold	Aside from me, there are five others... I have already dealt with two of them, but three more also want to compete for the position of acting commander of the Third Legion.
-887	Reynold	Those three are not easy to handle. They have methods, and their backgrounds are not simple. I cannot act openly.
-888	Reynold	If I make a reckless move, success would be fine, but if I fail and evidence is found, even if nothing happens now, I will not escape a military tribunal when we return...
-889	Reynold	And the task I am giving you is to secretly remove them for me.
-890	Luna	Remove them?
-891	Reynold	Exactly. Kill them, just like you killed Krugmann.
-892	Reynold	...Hmm, although the commotion you caused was not exactly small, it is fine. Even the Imperial Emperor has heard of your name: the assassins of Dark Moon, who almost never fail.
-893	Reynold	As long as you take them all out, I can justifiably throw the whole blame onto you.
-894	Luna	??? ...Something about this feels wrong.
-895	Reynold	Do not forget, if you complete my task, I have a generous reward for you.
-896	Luna	So what exactly is this reward?
-897	Reynold	If I told you now, there would be no surprise, would there? Just look forward to it, little wolf girl.
-898	Luna	Can you stop calling me that!
-899	Reynold	Alright. When you are ready, come find me again. I will tell you exactly what to do.
+881	Reynold	Quên đi. Ngươi nghĩ sao cũng được.
+882	Reynold	Dù sao thì, Krugmann giờ đã chết. Hắn đã phải trả giá vì sự liều lĩnh theo đuổi sức mạnh của các Cổ Thần, thậm chí ngươi còn đánh đuổi được cả tên tay sai của hắn nữa.
+883	Reynold	Dù có thiếu đi chỉ huy, nhiệm vụ của Quân Đoàn Số Ba cũng sẽ không thay đổi. Và giờ chính là thời điểm chín muồi để ta thế chỗ hắn.
+884	Reynold	Tuy nhiên, chắc chắn sẽ có những kẻ đang có chung suy nghĩ với ta.
+885	Reynold	Dưới quyền Tổng tư lệnh của Quân Đoàn Số Ba, có tất cả sáu tư lệnh bao gồm cả ta.
+886	Reynold	Trong số năm tên kia... hai tên đã được ta xử lý rồi, nhưng ba tên còn lại thì cũng muốn tranh chiếc ghế Tổng tư lệnh của Quân Đoàn.
+887	Reynold	Và ba tên này đều là loại khó nhằn. Bọn chúng đều rất toan tính, lại là con ông cháu cha. Ta đều không tiện hành động được.
+888	Reynold	Thành công thì không sao, nhưng nếu chẳng may sai sót và để bọn chúng tìm được chứng cứ, có thể ta vẫn giữ được mạng bây giờ, nhưng toà án quân sự chắc chắn sẽ bắt ta ngay khi trở về...
+889	Reynold	Vậy nên đây là nhiệm vụ của ngươi, bí mật loại bỏ bọn chúng cho ta.
+890	Luna	Loại bỏ bọn chúng à?
+891	Reynold	Chính xác. Giết hết bọn chúng, như cách ngươi đã giết Krugmann.
+892	Reynold	...Hmm, tuy lần trước có hơi náo loạn nhưng không sao. Đến cả Hoàng Đế của Đế quốc cũng đã từng nghe đến danh tiếng bất bại của các sát thủ Ám Nguyệt rồi.
+893	Reynold	Chỉ cần bọn chúng chết, thì ta chỉ cần đổ lùm xùm này cho tổ chức các ngươi là được.
+894	Luna	??? ...Sao ta cứ thấy sai sai ấy?
+895	Reynold	Chớ quên là ta sẽ có thưởng hậu hĩnh cho ngươi sau khi hoàn thành nhiệm vụ đấy.
+896	Luna	Vậy thì chính xác phần thưởng hậu hĩnh này của ngươi là gì vậy?
+897	Reynold	Ta nói bây giờ thì còn gì là bất ngờ nữa? Kiên nhẫn chờ đợi đi, sói con.
+898	Luna	Ngươi đừng gọi ta như thế đi!
+899	Reynold	Được rồi. Khi nào sẵn sàng thì đến tìm ta. Ta sẽ lên kế hoạch cho ngươi.
 900
-901	Reynold	Ready? Good.
-902	Reynold	You have three targets: Senior Commander Larson, Mertzer, and Balwald.
-903	Reynold	You do not need to remember their names. You only need to know that, like me, they are nobles from the upper ranks of the Empire with great power and strong backing.
-904	Reynold	Those three are not easy opponents. If you face them head-on, you may end up in a disadvantageous position.
-905	Reynold	I am not questioning your strength, little wolf girl.
-906	Reynold	Rather, unlike Commander Krugmann, who was a battle fanatic proud of his own strength, they will not necessarily be willing to fight you one-on-one just because he was.
-907	Reynold	No matter how strong you are individually, facing many enemies at once can still put you in trouble.
-908	Reynold	Of course, I naturally hope you can complete the mission smoothly, so removing unfavorable factors for you is a necessary action.
-909	Luna	I think I can still do it!
-910	Luna	Ugh, fighting many at once is still a little hard.
-911	Reynold	...For you to be that confident, I can hardly believe that little body of yours could withstand it.
-912	Reynold	For a moment, I thought you might be the same kind of battle maniac as Krugmann.
+901	Reynold	Sẵn sàng chưa? Được rồi.
+902	Reynold	Ngươi có ba mục tiêu: Tư lệnh Larson, tư lệnh Mertzer và tư lệnh Balwald.
+903	Reynold	Ngươi không cần nhớ tên của bọn chúng. Chỉ cần biết là, cũng như ta, bọn chúng đều là các quý tộc từ tầng lớp thượng lưu đầy quyền lực và có hậu thuẫn vững mạnh của Đế quốc.
+904	Reynold	Cả ba tên này đều không dễ ăn. Ngươi có thể sẽ gặp khó khăn nếu đối đầu trực diện với bọn chúng đấy.
+905	Reynold	Không phải là ta đang nghi vấn sức mạnh của ngươi đâu, sói con.
+906	Reynold	Nhưng, không như Tổng tư lệnh Krugmann—một tên cuồng chiến luôn kiêu hãnh với sức mạnh của hắn, bọn chúng sẽ không như vậy mà lao vào đánh ngươi như Krugmann đâu.
+907	Reynold	Dù có mạnh mẽ thế nào đi nữa, một mình ngươi vẫn sẽ gặp khó khăn khi bị áp đảo số lượng.
+908	Reynold	Tất nhiên thì ta vẫn mong ngươi sẽ hoàn thành nhiệm vụ này dễ dàng rồi, nên việc loại bỏ các yếu tố không mong muốn sẽ là hành động thiết yếu.
+909	Luna	Ta nghĩ sẽ không sao đâu!
+910	Luna	Ugh, phải chiến đấu cùng lúc với nhiều người có lẽ sẽ hơi khó khăn.
+911	Reynold	...Với sự tự tin ấy, thật khó tin là ngươi có thể trụ được với cái thân hình bé nhỏ này đấy.
+912	Reynold	Thật tình thì từng có lúc ta đã nghĩ ngươi cũng là một kẻ cuồng chiến như Krugmann.
 913	Luna	???
-914	Reynold	In any case, if you can make sure you approach the target without being discovered, it will save a great deal of trouble.
-915	Reynold	You are an assassin too, after all, are you not?
+914	Reynold	Mà có thế nào đi nữa, nếu tiếp cận được mục tiêu mà không bị phát hiện, thì cũng đã bớt đi được phần nào vấn đề rồi.
+915	Reynold	Dù gì thì ngươi cũng là sát thủ mà phải không nào?
 916	Luna	...Mm.
-917	Reynold	Next, let me explain these three people in detail.
-918	Reynold	Senior Commander Larson is an arrogant man. He should be the easiest of the three to deal with, because guards do not often accompany him.
-919	Reynold	He also likes to be alone when resting. If you can find a way to sneak into his tent in advance, what comes next should be simple.
-920	Reynold	Mertzer is the complete opposite of Larson. He is extremely cautious and never travels alone; even when resting, guards accompany him.
-921	Reynold	Dealing with him may not be easy. You will need to find an opening... for example, creating chaos, or somehow luring his guards away.
-922	Reynold	As for Balwald... hmm, he is very similar to Commander Krugmann, another battle maniac, but it is best not to face him head-on, because he does not have the commander's knightly spirit.
-923	Luna	...I understand. Is there anything else I should pay attention to?
-924	Reynold	Do not be discovered, even though we all know Commander Krugmann has been killed.
-925	Luna	Ugh, why?
-926	Reynold	Krugmann was targeted by a Dark Moon assassin because he tried to seize the power of the Old Gods. That is a very reasonable explanation.
-927	Reynold	We do not believe our names would be on your assassination list.
-928	Reynold	In fact, we are correct. Otherwise, I likely would not be standing here talking to you.
-929	Luna	True, my only target was the Flame Knight.
-930	Reynold	So Larson and the others probably will not be on guard against you, unless you appear in front of them.
-931	Reynold	In other words, if you are discovered even once, all of them will raise their guard. Killing them afterward will only become more difficult.
-932	Reynold	Of course, you can also wait for a while and let their alertness fade. We humans need rest, after all.
-933	Reynold	But anything you prepared beforehand will most likely be cleared away, and the personnel you killed will be replaced. You will have to start over.
-934	Reynold	And the longer you delay, the worse it is for me... by then, the reward I give you may not be quite so generous.
-935	Luna	Eh? That is not what we agreed on!
-936	Reynold	Whether I can become legion commander is directly tied to the amount of resources I can give you. Those three senior commanders are my greatest obstacles right now.
-937	Reynold	They are all capable men. If they are not removed early, the situation in the Third Legion will only become more complicated.
-938	Reynold	If I cannot smoothly become legion commander, do you think you will still get this so-called reward?
+917	Reynold	Tiếp tục, về các thông tin về ba tên này,
+918	Reynold	Tư lệnh Larson là một kẻ ngạo mạn. Hắn sẽ là mục tiêu dễ nhất trong cả ba, vì hắn thường không đi cùng lính gác.
+919	Reynold	Thêm nữa hắn lại thích ở một mình khi nghỉ ngơi. Nếu ngươi tìm được cách lẻn được vào lều của hắn để phục kích, thì mọi thứ sẽ dễ thôi.
+920	Reynold	Với Mertzer thì lại trái ngược hoàn toàn với Larson. Một tên cực kỳ thận trọng và không bao giờ đi một mình; kể cả lúc nghỉ ngơi, hắn vẫn có lính gác bên cạnh.
+921	Reynold	Có thể sẽ khó khăn để đói phó với hắn. Do vậy ngươi cần tìm một sơ hở... chẳng hạn như gây rối loạn để dụ lính gác của hắn đi là được.
+922	Reynold	Còn với Balwald... hừm, hắn cũng khá tương tự với Tổng tư lệnh Krugmann, cũng là một tên cuồng chiến, nhưng theo ta thì tốt nhất là không nên đối đầu với hắn, hắn không giống một hiệp sĩ như ngươi nghĩ đâu.
+923	Luna	...Ta hiểu rồi. Còn gì khác mà ta cần để tâm không?
+924	Reynold	Đừng để bị phát hiện, kể cả khi tin về cái chết của Tổng tư lệnh Krugmann đã loan khắp nơi rồi.
+925	Luna	Ủa, sao thế?
+926	Reynold	Krugmann bị nhắm tới bởi các sát thủ Ám Nguyệt vì hắn tham vọng chiếm lấy sức mạnh Cổ Thần. Việc này ai cũng sẽ đoán được.
+927	Reynold	Nhưng ta nghĩ tổ chức của các ngươi sẽ quan tâm tới cái đầu của bọn ta đâu.
+928	Reynold	Mà, chắc chắn là vậy rồi. Nếu không thì ta đã không đứng đây nói chuyện với ngươi.
+929	Luna	Đúng rồi, mục tiêu của ta chỉ là Hỏa Kỵ Sĩ thôi.
+930	Reynold	Vậy nên Larson và những tên kia có thể sẽ không đề phòng ngươi, trừ khi ngươi xuất hiện trước mắt chúng.
+931	Reynold	Nói cách khác, chỉ một lần ngươi bị phát hiện thôi cũng sẽ khiến chúng đề cao cảnh giác. Công việc của ngươi sẽ khó khăn hơn nhiều.
+932	Reynold	Tất nhiên là ngươi cũng có thể đợi đến lúc bọn chúng hạ cảnh giác. Con người ai cũng đều phải nghỉ ngơi cả thôi.
+933	Reynold	Nhưng công sức chuẩn bị của ngươi trước đó coi như vô ích, lính gác mà ngươi hạ cũng sẽ được thay thế. Tóm lại là xuất phát lại từ đầu.
+934	Reynold	Và việc chậm chễ này cũng sẽ ảnh hưởng đến ta... do vậy phần thưởng của ngươi cũng sẽ bị ảnh hưởng đấy.
+935	Luna	Ể? Cái đó đâu có trong thỏa thuận của chúng ta!
+936	Reynold	Việc ta trở thành Tổng tư lệnh của quân đoàn sẽ ảnh hưởng trực tiếp đến khả năng chi trả của ta. Và ba tên tư lệnh này là trở ngại lớn nhất lúc này.
+937	Reynold	Bọn chúng đều là những kẻ có năng lực. Nếu không loại bỏ chúng sớm, tình hình trong Quân Đoàn Số Ba sẽ càng phức tạp hơn nhiều.
+938	Reynold	Nếu việc thăng tiến của ta gặp vấn đề, ngươi nghĩ còn phần thưởng gì cho ngươi?
 939	Luna	Ugh...
-940	Luna	I do not really understand, but I will help you remove them.
-941	Reynold	Good. I knew I could count on you.
-942	Luna	(Ugh... Even though I am not human, he has this much confidence in me...)
-943	Reynold	Lastly, as for their current locations: Larson is at the entrance to the Secret Forest. He seems to be searching for some surviving people of the ruins kingdom.
-944	Reynold	I do not know where he heard the rumor, but supposedly treasure from the lost kingdom is still hidden somewhere in the Mist Forest.
+940	Luna	Ta không hiểu lắm, nhưng ta sẽ giúp ngươi loại bỏ bọn chúng.
+941	Reynold	Tốt lắm. Ta biết có thể trông cậy vào ngươi mà.
+942	Luna	(Ugh... Dù mình không phải con người, vậy mà hắn vẫn tin tưởng mình như vậy...)
+943	Reynold	Và cuối cùng, về địa điểm hiện tại của mục tiêu: Larson hiện đang ở \C[6]Rừng ẩn\C[0]. Có vẻ như hắn đang truy tìm báu vật nào đó từ tàn tích của vương quốc này.
+944	Reynold	Mertzer theo lệnh Krugmann đến nghiên cứu và tìm cách khai thác  \C[6]Động Pha lê\C[0]. Hắn chắc hẳn vẫn còn đang ở đó.
 945	Reynold	Mertzer was sent by Krugmann to investigate and find a way to harvest Mana Crystals in the Crystal Cave. He should still be there.
 946	Reynold	Mana Crystals are valuable. They can quickly and continuously replenish our mana, even strengthen magic... Someone once tried to mine the crystals in the Mist Forest, but failed. We do not know why.
 947	Reynold	Mertzer is a meticulous man. He is indeed well suited to that sort of work.
@@ -953,382 +953,382 @@
 953	Reynold	In short, you can choose any one of them to strike first. Whatever you do is up to you.
 
 
-AMYK1	Luna	Uh... actually, I have already taken down the Flame Knight.
-AMYK2	Yukimura	Eh?
-AMYK3	Yukimura	How is that possible?!
-AMYK4	Yukimura	All by yourself? Single-handedly?!
-AMYK5	Yukimura	...Senior Lati did not help you?
-AMYK6	Yukimura	Whoa, amazing...
-AMYK7	Yukimura	Though I guess it is not that surprising. It is you, after all... ahem.
-AMYK8	Yukimura	Hahaha, but it is fine. Even if you have already defeated the Flame Knight, it will still be useful later!
+AMYK1	Luna	Ưm... thực ra, em đã hạ tên Hỏa Kỵ Sĩ rồi.
+AMYK2	Yukimura	Ể?
+AMYK3	Yukimura	Sao có thể chứ?!
+AMYK4	Yukimura	Chỉ có mình em thôi? 
+AMYK5	Yukimura	...Chị Lati không giúp em chứ?
+AMYK6	Yukimura	Whoa, đỉnh thật đó...
+AMYK7	Yukimura	Mà... nghĩ lại cũng không bất ngờ lắm. Là Luna của chúng ta mà... ahem.
+AMYK8	Yukimura	Hahaha, nhưng vậy cũng được. Cho dù em đã hạ được tên Hỏa Kỵ Sĩ thì ta chắc thứ này vẫn sẽ hữu dụng đấy!
 
-GCLT1	Lati	Luna, you came.
-GCLT2	Lati	This appears to be a magic gate. It is blocking your path forward...
-GCLT3	Lati	Undoing it may be too difficult for Lycans like us, who cannot use magic.
-GCLT4	Lati	Or perhaps there is a mechanism somewhere that can open it.
+GCLT1	Lati	Luna, em đây rồi.
+GCLT2	Lati	Đây có vẻ là một cánh cổng ma thuật. Con đường phía trước đã bị nó chặn rồi...
+GCLT3	Lati	Hóa giải nó có vẻ quá khả năng đối với sói tộc chúng ta rồi.
+GCLT4	Lati	Chắc hẳn phải có một cơ chế nào đó quanh đây điều khiển nó.
 GCLT5	Lati	Hmm...
-GCLT6	Lati	Unfortunately, even if you learn a certain skill, you still cannot pass through it.
-GCLT7	Lati	Then I will wait for you up ahead.
+GCLT6	Lati	E là không có kĩ năng nào có thể giúp chúng ta đi qua được rồi.
+GCLT7	Lati	Vậy ta sẽ đợi em phía trước.
 
-RND1	Reynold	Hahaha. Since you are already my subordinate, I have some tasks for you as well.
-RND2	Luna	Ugh... what tasks?
-RND3	Luna	Let me make this clear first: I will not betray the organization. I am helping you only because of the special resources you promised me.
-RND4	Luna	...Though I still do not know what you are going to give me.
-RND5	Reynold	Yes, yes, something very special, little wolf girl. No need to worry at all.
-RND6	Reynold	I pose no threat to your assassin organization. I could even be called an asset... and of course, I could also be your employer.
-RND7	Reynold	As you can see, the Empire is attacking the Northern Kingdom... or more precisely, launching a surprise attack.
-RND8	Reynold	That is exactly the objective of our Third Legion. Passing through the Mist Forest, however, was only a coincidence, because our advance was too fast.
-RND9	Reynold	Clearly, His Majesty the Emperor does not want our presence to alert the kingdom too soon.
-RND10	Reynold	So that man Krugmann decided to take a detour and look around the Mist Forest.
+RND1	Reynold	Giờ ngươi đã là người của ta rồi, ta có vài việc cần ngươi đây.
+RND2	Luna	...Việc gì?
+RND3	Luna	Nhưng để ta nói trước: Không có chuyện ta phản bội tổ chức đâu nhé... Ta chỉ nhận lời vì ngươi bảo sẽ trả công hậu hĩnh cho ta thôi đấy.
+RND4	Luna	...Mà ngươi vẫn chưa cho ta biết ngươi định trả công cho ta cái gì.
+RND5	Reynold	À phải, phải, là một thứ rất đặc biệt đấy, sói con. Không cần phải sợ thiệt thòi đâu.
+RND6	Reynold	Ta hoàn toàn không có thù oán gì mới tổ chức sát thủ của ngươi. Thậm chí ta còn đem lại lợi ích cho các ngươi nữa... như việc thuê ngươi bây giờ đây.
+RND7	Reynold	Như ngươi đã biết, Đế quốc đang có chiến tranh với Vương triều phía Bắc... hay nói đúng hơn là đang triển khai một chiến dịch phủ đầu.
+RND8	Reynold	Và đó chính là mục tiêu của Quân Đoàn Số Ba bọn ta. Bằng việc băng qua Rừng Sương Mù, tuy nhiên lại tình cờ là do tốc độ tiến quân của bọn ta quá nhanh...
+RND9	Reynold	Tất nhiên là Hoàng Đế thì không muốn sự hiện diện của bọn ta đánh động lũ vương triều trước khi thời cơ đến.
+RND10	Reynold	Và vì vậy tên Krugmann quyết định tạm thời đi khám phá khu rừng này.
 RND11	Luna	...
-RND12	Reynold	Fine, I know you are not interested in this sort of thing.
-RND13	Reynold	But your assassin organization certainly would not turn away intelligence like this. Bring it back, and I can leave a good impression on your people. It benefits you too.
-RND14	Luna	...Is that how it works?
-RND15	Reynold	Of course. We may even cooperate again in the future.
-RND16	Reynold	We have wandered off topic. Krugmann came here for one thing and one thing only: the power of the Old Gods.
-RND17	Luna	The power of the Old Gods?
-RND18	Reynold	Exactly. Old God power, secret magic, it has many names, but they all refer to the same thing.
-RND19	Reynold	Legend says an ancient power is sealed within the Mist Forest. We do not know what it is, but judging by the way the dense mist strengthens magic, it is most likely Old God power.
-RND20	Luna	...So you want the Old God power too?
-RND21	Reynold	Me? Oh, you are right. Of course I do. Who would not? It is the highest pursuit of all mankind.
-RND22	Reynold	So when Commander Krugmann wanted to detour into the Mist Forest, all of us understood his purpose, because he himself is a powerful man. Flame Knight is no ordinary title.
-RND23	Reynold	One must be a knight and also pass a series of special magical trials to earn that title. He is one in ten thousand... and in the Mist Forest, Krugmann would only grow stronger.
+RND12	Reynold	Được rồi, ngươi không quan tâm câu chuyện của bọn ta.
+RND13	Reynold	Nhưng tổ chức sát thủ của ngươi chắc chắn không muốn bỏ lỡ thông tin quý giá này đâu. Tìm về cho ta thì nó sẽ là bước đệm tốt cho quan hệ giữa ta và các ngươi đó. Chắc chắn chỉ có lợi cho ngươi thôi.
+RND14	Luna	...Đơn giản vậy thôi sao?
+RND15	Reynold	Tất nhiên rồi. Và chúng ta có thể sẽ hợp tác trong tương lai nữa.
+RND16	Reynold	Dài dòng rồi. Quay lại chủ đề... Krugmann tới đây chỉ vì một thứ duy nhất: Đó là sức mạnh của các Cổ Thần.
+RND17	Luna	Sức mạnh của các Cổ Thần à?
+RND18	Reynold	Chính xác. Sức mạnh Cổ Thần, huyền pháp... có nhiều tên gọi nhưng chúng đều chung bản chất.
+RND19	Reynold	Truyền thuyết kể rằng có một quyền năng cổ đại được phong ấn trong Rừng Sương Mù. Không ai biết chính xác là gì, nhưng dựa vào mật độ dày đặc của làn sương ma thuật này, có khả năng rất cao sức mạnh này thuộc về các Cổ Thần.
+RND20	Luna	...Vậy là ngươi cũng đang nhắm tới Sức mạnh Cổ thần à?
+RND21	Reynold	Ta à? Dĩ nhiên là ta muốn rồi. Có ai lại không muốn chứ? Sức mạnh này là đỉnh cao mà toàn nhân loại theo đuổi đấy.
+RND22	Reynold	Do vậy, ngay khi Tổng tư lệnh Krugmann quyết định tiến vào Rừng Sương Mù, ai trong bọn ta cũng hiểu ý đồ của hắn ngay lập tức... vì bản thân hắn cũng rất mạnh. Danh hiệu Hỏa Kỵ Sĩ không phải làm màu đâu.
+RND23	Reynold	Để đạt được danh hiệu ấy, một hiệp sĩ phải trải qua hàng loạt bài kiểm tra ma pháp đặc biệt. Hắn là thiên tài vạn người có một... và sức mạnh của hắn lại càng vượt trội hơn trong Rừng Sương Mù này.
 RND24	Reynold	...Hmm.
-RND25	Reynold	Looking at it that way, you, who defeated him head-on, are also quite... special.
-RND26	Luna	Hehe, everyone says Luna has a lot of talent for fighting.
-RND27	Reynold	The Lycan race is indeed skilled in battle, but demi-humans have always been unable to learn magic... yet from what I see, you seem to command some kind of special power.
-RND28	Reynold	Without a special power, defeating the Flame Knight head-on would have been impossible.
-RND29	Luna	Ugh, about that...
-RND30	Luna	(Senior Lati told me... I must not reveal anything about Moon Power to humans.)
-RND31	Reynold	If you do not want to tell me, that is fine. A little extra mystery only makes me more interested in you.
-RND32	Luna	............(blushing)
-RND33	Reynold	I am interested in the Old God power the commander was searching for, but... that is not my first objective.
-RND34	Reynold	More than the Old God power, what I want right now is the Empire's Third Legion.
-RND35	Luna	Huh? The legion? Aren't you already a commander?
-RND36	Reynold	Hahaha! You may not understand. I am only a commander, not the legion commander.
-RND37	Reynold	I want to become legion commander, not merely remain a commander.
-RND38	Reynold	What I want is control over the entire army. I want to take Krugmann's place. Do you understand what I mean?
-RND39	Luna	Ugh... so you want to become a Flame Knight too?
-RND40	Luna	Could it be that you are strong too?
+RND25	Reynold	Nếu xét như vậy, thì ngươi, kẻ đánh hạ được hắn thì cũng khá... đặc biệt đấy.
+RND26	Luna	Hehe, mọi người đều nói Luna rất có năng khiếu trong chiến đấu mà.
+RND27	Reynold	Lang Nhân quả thực rất giỏi chiến đấu, nhưng đã là bán nhân thì không thể học ma pháp... nhưng theo như ta thấy, ngươi có vẻ có sở hữu một sức mạnh đặc biệt nào đó.
+RND28	Reynold	Không thể nào có chuyện hạ được Hỏa Kỵ Sĩ mà lại không sở hữu nguồn sức mạnh nào được.
+RND29	Luna	Ugh, cái này...
+RND30	Luna	(Chị Lati đã dặn... tuyệt đối không được con người biết về Nguyệt Lực...)
+RND31	Reynold	Ngươi không muốn nói cho ta cũng được. Có bí mật chỉ khiến ta thêm tò mò về ngươi hơn thôi.
+RND32	Luna	............(ngại ngùng)
+RND33	Reynold	Mặc dù sức mạnh của Cổ Thần mà Tổng tư lệnh tìm kiếm rất thú vị, nhưng... nó lại không phải là mục tiêu ban đầu của ta.
+RND34	Reynold	Hơn cả sức mạnh ấy, thứ ta muốn là Quân Đoàn Số Ba của Đế quốc.
+RND35	Luna	Hả? Quân Đoàn? Không phải ngươi đã là chỉ huy rồi sao?
+RND36	Reynold	Hahaha! Ngươi nhầm rồi. Ta là chỉ huy, nhưng không phải chỉ huy toàn quân đoàn.
+RND37	Reynold	Ta muốn làm Tổng tư lệnh, không phải chỉ là một tên chỉ huy vớ vẩn.
+RND38	Reynold	Thứ ta muốn là quyền kiểm soát toàn bộ quân lính. Ta muốn cái ghế ấy của Krugmann. Ngươi hiểu ý ta chứ?
+RND39	Luna	Ugh... vậy là ngươi cũng muốn trở thành Hỏa Kỵ Sĩ à?
+RND40	Luna	Vậy ngươi có mạnh không?
 RND41	Reynold	...
-RND42	Reynold	Forget it. You can think of it that way.
-RND43	Reynold	In any case, Krugmann is dead. He died because he recklessly sought the power of the Old Gods, and you drove off that hanger-on by his side as well.
-RND44	Reynold	But even leaderless, the Third Legion's mission remains unchanged. Now is the best time to replace him.
-RND45	Reynold	However, there are still others who think the same way I do.
-RND46	Reynold	Beneath the commander of the Third Legion, there are six senior commanders in total. I am one of them.
-RND47	Reynold	Aside from me, there are five others... I have already dealt with two of them, but three more also want to compete for the position of acting commander of the Third Legion.
-RND48	Reynold	Those three are not easy to handle. They have methods, and their backgrounds are not simple. I cannot act openly.
-RND49	Reynold	If I make a reckless move, success would be fine, but if I fail and evidence is found, even if nothing happens now, I will not escape a military tribunal when we return.
-RND50	Reynold	And the task I am giving you is to secretly remove them for me.
-RND51	Luna	Remove them?
-RND52	Reynold	Exactly. Kill them, just like you killed Krugmann.
-RND53	Reynold	...Hmm, although the commotion you caused was not exactly small, it is fine. Even our Emperor has heard of your name: the assassins of Dark Moon.
-RND54	Reynold	As long as you take them all out, I can justifiably throw the whole blame onto you.
-RND55	Luna	???\|...Something about this feels wrong.
-RND56	Reynold	Do not forget, if you complete my task, I have a generous reward for you.
-RND57	Luna	So what exactly is this reward?
-RND58	Reynold	If I told you now, there would be no surprise, would there? Just look forward to it, little wolf girl.
-RND59	Luna	Can you stop calling me that!
-RND60	Reynold	Alright. When you are ready, come find me again. I will tell you exactly what to do.
+RND42	Reynold	Quên đi. Ngươi nghĩ sao cũng được.
+RND43	Reynold	Dù sao thì, Krugmann đã chết. Hắn đã phải trả giá vì sự liều lĩnh theo đuổi sức mạnh của các Cổ Thần, thậm chí ngươi còn đánh đuổi được cả tên tay sai của hắn nữa.
+RND44	Reynold	Dù có thiếu đi chỉ huy, nhiệm vụ của Quân Đoàn Số Ba cũng sẽ không thay đổi. Và giờ chính là thời điểm chín muồi để ta thế chỗ hắn.
+RND45	Reynold	Tuy nhiên, chắc chắn sẽ có những kẻ đang có chung suy nghĩ với ta.
+RND46	Reynold	Dưới quyền Tổng tư lệnh của Quân Đoàn Số Ba, có tất cả sáu tư lệnh bao gồm cả ta.
+RND47	Reynold	Trong số năm tên kia... hai tên đã được ta xử lý rồi, nhưng ba tên còn lại thì cũng muốn tranh chiếc ghế Tổng tư lệnh của Quân Đoàn.
+RND48	Reynold	Và ba tên này đều là loại khó nhằn. Bọn chúng đều rất toan tính, lại là con ông cháu cha. Ta đều không tiện hành động được.
+RND49	Reynold	Thành công thì không sao, nhưng nếu chẳng may sai sót và để bọn chúng tìm được chứng cứ, có thể ta vẫn giữ được mạng bây giờ, nhưng toà án quân sự chắc chắn sẽ bắt ta ngay khi trở về...
+RND50	Reynold	Vậy nên đây là nhiệm vụ của ngươi, bí mật loại bỏ bọn chúng cho ta.
+RND51	Luna	Loại bỏ bọn chúng à?
+RND52	Reynold	Chính xác. Giết hết bọn chúng, như cách ngươi đã giết Krugmann.
+RND53	Reynold	...Hmm, tuy lần trước có hơi náo loạn nhưng không sao. Đến cả Hoàng Đế của Đế quốc cũng đã từng nghe đến danh tiếng bất bại của các sát thủ Ám Nguyệt rồi.
+RND54	Reynold	Chỉ cần bọn chúng chết, thì ta chỉ cần đổ lùm xùm này cho tổ chức các ngươi là được.
+RND55	Luna	???\|...Sao ta cứ thấy sai sai ấy.
+RND56	Reynold	Chớ quên là ta sẽ có thưởng hậu hĩnh cho ngươi sau khi hoàn thành nhiệm vụ đấy.
+RND57	Luna	Vậy thì chính xác phần thưởng hậu hĩnh này của ngươi là gì vậy?
+RND58	Reynold	Ta nói bây giờ thì còn gì là bất ngờ nữa? Kiên nhẫn chờ đợi đi, sói con.
+RND59	Luna	Ngươi đừng gọi ta như thế đi!
+RND60	Reynold	Được rồi. Khi nào sẵn sàng thì đến tìm ta. Ta sẽ lên kế hoạch cho ngươi.
 
-RND61	Reynold	Ready? Good.
-RND62	Reynold	You have three targets: Senior Commander \C[6]Larson\C[0], \C[6]Mertzer\C[0], and \C[6]Balwald\C[0].
-RND63	Reynold	You do not need to remember their names. You only need to know that, like me, they are nobles from the upper ranks of the Empire with great power and strong backing.
-RND64	Reynold	Those three are not easy opponents. If you face them head-on, you may end up in a disadvantageous position.
-RND65	Reynold	I am not questioning your strength, little wolf girl.
-RND66	Reynold	Rather, unlike Commander Krugmann, who was a battle fanatic proud of his own strength, they will not necessarily be willing to fight you one-on-one just because he was.
-RND67	Reynold	No matter how strong you are individually, facing many enemies at once can still put you in trouble.
-RND68	Reynold	Of course, I naturally hope you can complete the mission smoothly, so removing unfavorable factors for you is a necessary action.
-RND69	Luna	I think I can still do it!
-RND70	Luna	Ugh, fighting many at once is still a little hard.
-RND71	Reynold	Oh... For you to be that confident, I can hardly believe that little body of yours could withstand it.
-RND72	Reynold	For a moment, I thought you might be the same kind of battle maniac as Krugmann.
-RND73	Luna	What is that supposed to mean?!
-RND74	Reynold	In any case, if you can make sure you approach the target without being discovered, it will save a great deal of trouble.
-RND75	Reynold	You are an assassin too, after all, are you not?
-RND76	Luna	...Mm, yes, I suppose so. (quietly)
-RND77	Reynold	Next, let me explain these three people in detail.
-RND78	Reynold	Senior Commander Larson is an arrogant man. He should be the easiest of the three to deal with, because guards do not often accompany him.
-RND79	Reynold	He also likes to be alone when resting. If you can find a way to sneak into his tent in advance, what comes next should be simple.
-RND80	Reynold	Mertzer is the complete opposite of Larson. He is extremely cautious and never travels alone; even when resting, guards accompany him.
-RND81	Reynold	Dealing with him may not be easy. You will need to find an opening... for example, creating chaos, or somehow luring his guards away.
-RND82	Reynold	As for Balwald... hmm, he is very similar to Commander Krugmann. Although he is also a battle maniac, it is best not to face him head-on, because he does not have the commander's knightly spirit.
-RND83	Luna	...I understand. Is there anything else I should pay attention to?
-RND84	Reynold	Nothing else, little wolf girl. As an assassin, you surely know to avoid alerting the enemy as much as possible.
-RND85	Luna	Ugh... I do know that!
-RND86	Reynold	And act immediately. The longer you delay, the worse it is for me. By then, the reward I give you may not be quite so generous.
-RND87	Luna	Eh? That is not what we agreed on!
-RND88	Reynold	Whether I can smoothly become legion commander is directly tied to the amount of resources I can give you. Those three senior commanders are my greatest obstacles right now.
-RND89	Reynold	They are all capable men. If they are not removed early, the situation in the Third Legion will only become more complicated.
-RND90	Reynold	If I cannot become legion commander, do you think you will still get this so-called reward?
+RND61	Reynold	Sẵn sàng chưa? Được rồi.
+RND62	Reynold	Ngươi có ba mục tiêu: Tư lệnh \C[6]Larson\C[0], tư lệnh \C[6]Mertzer\C[0] và tư lệnh \C[6]Balwald\C[0].
+RND63	Reynold	Ngươi không cần nhớ tên của bọn chúng. Chỉ cần biết là, cũng như ta, bọn chúng đều là các quý tộc từ tầng lớp thượng lưu đầy quyền lực và có hậu thuẫn vững mạnh của Đế quốc.
+RND64	Reynold	Cả ba tên này đều không dễ ăn. Ngươi có thể sẽ gặp khó khăn nếu đối đầu trực diện với bọn chúng đấy.
+RND65	Reynold	Không phải là ta đang nghi vấn sức mạnh của ngươi đâu, sói con.
+RND66	Reynold	Nhưng, không như Tổng tư lệnh Krugmann—một tên cuồng chiến luôn kiêu hãnh với sức mạnh của hắn, bọn chúng sẽ không như vậy mà lao vào đánh ngươi như Krugmann đâu.
+RND67	Reynold	Dù có mạnh mẽ thế nào đi nữa, một mình ngươi vẫn sẽ gặp khó khăn khi bị áp đảo số lượng.
+RND68	Reynold	Tất nhiên thì ta vẫn mong ngươi sẽ hoàn thành nhiệm vụ này dễ dàng rồi, nên việc loại bỏ các yếu tố không mong muốn sẽ là hành động thiết yếu.
+RND69	Luna	Ta nghĩ sẽ không sao đâu!
+RND70	Luna	Ugh, phải chiến đấu cùng lúc với nhiều người có lẽ sẽ hơi khó khăn.
+RND71	Reynold	Oh... Với sự tự tin ấy, thật khó tin là ngươi có thể trụ được với cái thân hình bé nhỏ này đấy.
+RND72	Reynold	Thật tình thì từng có lúc ta đã nghĩ ngươi cũng là một kẻ cuồng chiến như Krugmann.
+RND73	Luna	Ngươi nói thế là ý gì?!
+RND74	Reynold	Mà có thế nào đi nữa, nếu tiếp cận được mục tiêu mà không bị phát hiện, thì cũng đã bớt đi được phần nào vấn đề rồi.
+RND75	Reynold	Dù gì thì ngươi cũng là sát thủ mà phải không nào?
+RND76	Luna	...Mm, phải rồi, chắc vậy. (lí nhí)
+RND77	Reynold	Tiếp tục, về các thông tin về ba tên này,
+RND78	Reynold	Tư lệnh Larson là một kẻ ngạo mạn. Hắn sẽ là mục tiêu dễ nhất trong cả ba, vì hắn thường không đi cùng lính gác.
+RND79	Reynold	Thêm nữa hắn lại thích ở một mình khi nghỉ ngơi. Nếu ngươi tìm được cách lẻn được vào lều của hắn để phục kích, thì mọi thứ sẽ dễ thôi.
+RND80	Reynold	Với Mertzer thì lại trái ngược hoàn toàn với Larson. Một tên cực kỳ thận trọng và không bao giờ đi một mình; kể cả lúc nghỉ ngơi, hắn vẫn có lính gác bên cạnh.
+RND81	Reynold	Có thể sẽ khó khăn để đói phó với hắn. Do vậy ngươi cần tìm một sơ hở... chẳng hạn như gây rối loạn để dụ lính gác của hắn đi là được.
+RND82	Reynold	Còn với Balwald... hừm, hắn cũng khá tương tự với Tổng tư lệnh Krugmann, cũng là một tên cuồng chiến, nhưng theo ta thì tốt nhất là không nên đối đầu với hắn, hắn không giống một hiệp sĩ như ngươi nghĩ đâu.
+RND83	Luna	...Ta hiểu rồi. Còn gì khác mà ta cần để tâm không?
+RND84	Reynold	Chỉ vậy thôi, bé sói. Là sát thủ thì chắc ngươi cũng biết nên tránh đánh động quân địch rồi phải không?
+RND85	Luna	Ugh... tất nhiên rồi!
+RND86	Reynold	Và ngươi nên hành động ngay đi. Việc chậm chễ sẽ ảnh hưởng đến ta. Nếu vậy thì phần thưởng của ngươi cũng sẽ bị ảnh hưởng đấy.
+RND87	Luna	Ể? Cái đó đâu có trong thỏa thuận của chúng ta!
+RND88	Reynold	Việc ta trở thành Tổng tư lệnh của quân đoàn sẽ ảnh hưởng trực tiếp đến khả năng chi trả của ta. Và ba tên tư lệnh này là trở ngại lớn nhất lúc này.
+RND89	Reynold	Bọn chúng đều là những kẻ có năng lực. Nếu không loại bỏ chúng sớm, tình hình trong Quân Đoàn Số Ba sẽ càng phức tạp hơn nhiều.
+RND90	Reynold	Nếu việc thăng tiến của ta gặp vấn đề, ngươi nghĩ còn phần thưởng gì cho ngươi chứ?
 RND91	Luna	Ugh...
-RND92	Luna	Alright. I do not really understand, but I will help you remove them.
-RND93	Reynold	Good. I knew I could count on you.
-RND94	Luna	(Ugh... Even though I am not human, he has this much confidence in me...)
-RND95	Reynold	Lastly, as for their current locations: Larson has gone to the \C[6]Secret Forest\C[0]. He seems to be searching for some treasure of a ruins kingdom.
-RND96	Reynold	Mertzer was sent by Krugmann to investigate and find a way to harvest Mana Crystals in the \C[6]Crystal Cave\C[0]. He should still be there.
-RND97	Reynold	Mana Crystals are valuable. They can quickly and continuously replenish our mana, even strengthen magic... Someone once tried to mine the crystals in the Mist Forest, but failed, since the place is full of monsters.
-RND98	Reynold	Last is Balwald. He is still in the \C[6]desert\C[0] and did not follow us in.
-RND99	Reynold	Clearly, Krugmann also knew Balwald was an unpredictable factor and feared he would compete with him for the Old God power, so he ordered him to stay outside and guard the route.
-RND100	Reynold	Balwald knows he was being guarded against, but he cannot disobey orders... Once he learns of Krugmann's death, he will probably be the first to act. We need to deal with him quickly.
-RND101	Luna	Then should I assassinate that Balwald first?
-RND102	Reynold	No. He is the hardest of the three to handle. If you fail and expose me, both Larson and Mertzer may be drawn over to his side.
-RND103	Reynold	The safest approach is to take out Larson and Mertzer first. They are both still carrying out Krugmann's orders and are completely unprepared.
-RND104	Reynold	But the choice is yours. You can choose any one of them to strike first. Whatever you do is up to you.
-RND105	Luna	Mm... alright, I understand.
+RND92	Luna	Ta không hiểu lắm, nhưng ta sẽ giúp ngươi loại bỏ bọn chúng.
+RND93	Reynold	Tốt lắm. Ta biết có thể trông cậy vào ngươi mà.
+RND94	Luna	(Ugh... Dù mình không phải con người, vậy mà hắn vẫn tin tưởng mình như vậy...)
+RND95	Reynold	Và cuối cùng, về địa điểm hiện tại của các mục tiêu: Larson hiện đang ở \C[6]Rừng ẩn\C[0]. Có vẻ như hắn đang truy tìm báu vật nào đó từ tàn tích của vương quốc này.
+RND96	Reynold	Mertzer thì theo lệnh Krugmann đến nghiên cứu và tìm cách khai thác Ma Thạch trong \C[6]Động Pha lê\C[0]. Hắn chắc hẳn vẫn còn đang ở đó.
+RND97	Reynold	Ma Thạch vốn rất có giá trị. Ngoài việc mau chóng hồi phục ma lực, chúng còn gia tăng sức mạnh ma pháp của bọn ta nữa... Trước đây ai đó đã từng khai thác tinh thạch trong Rừng Sương Mù nhưng đã bị cản trở bởi số lượng quái vật nơi đây.
+RND98	Reynold	Cuối cùng là Balwald. Hắn vẫn đang cắm quân ở ngoài \C[6]hoang mạc\C[0] chứ không theo bọn ta vào rừng.
+RND99	Reynold	Tất nhiên là Krugmann cũng biết Balwald là kẻ khó lường và lo rằng hắn sẽ tranh giành sức mạnh Cổ Thần với hắn, vậy nên Krugmann đã lệnh cho hắn cắm quân ở ngoài và canh giữ lối vào.
+RND100	Reynold	Balwald biết hắn đang bị đề phòng nhưng cũng không thể trái lệnh được... Ngay khi biết tin Krugmann đã chết, hắn ta chắc chắn sẽ ra ngay. Đây là mục tiêu cần được xử lý gấp.
+RND101	Luna	Vậy ta nên ám sát Balwald trước?
+RND102	Reynold	Không. Tên đó lại là mục tiêu khó nhằn nhất trong cả ba. Nếu ngươi thất bại và làm lộ ý đồ của ta, cả Larson và Mertzer sẽ đứng về phía hắn.
+RND103	Reynold	Mục tiêu dễ nhất ta nghĩ là Larson và Mertzer. Bọn chúng vẫn còn đang làm nhiệm vụ nào đó cho Krugmann nên hẳn chưa kịp đề phòng đâu.
+RND104	Reynold	Còn lại tùy vào ngươi. Ngươi muốn bắt đầu từ tên nào trước cũng được.
+RND105	Luna	Mm... được, ta hiểu rồi.
 
-RND106	Luna	Tell me about Larson again.
-RND107	Luna	Tell me about Mertzer again.
-RND108	Luna	Tell me about Balwald again.
-RND109	Luna	That is all.
-RND110	Reynold	Larson is an arrogant man. He should be the easiest of the three to deal with, because guards do not often accompany him.
-RND111	Reynold	He also likes to be alone when resting. If you can find a way to sneak into his tent in advance, what comes next should be simple.
-RND112	Reynold	Larson is at the entrance to the Secret Forest. Head east from here, toward the depths of the Mist Forest.
-RND113	Reynold	Mertzer is extremely cautious and never travels alone; even when resting, guards accompany him.
-RND114	Reynold	Dealing with him may not be easy. You will need to find an opening... for example, creating chaos, or somehow luring his guards away.
-RND115	Reynold	Mertzer was sent by Krugmann to investigate the Mana Crystals in the Crystal Cave. He should still be there.
-RND116	Reynold	Balwald is very similar to Commander Krugmann, another battle maniac, but you had better not face him head-on. He does not have the commander's knightly spirit.
-RND117	Reynold	If you want to kill him, it would be better to find a way to deal with the guards around him first.
-RND118	Reynold	Balwald is in the desert. That environment may not be suitable for hiding.
-RND119	Reynold	Deal with them as soon as possible, and I can become legion commander sooner.
-RND120	Reynold	Your reward will be richer then too... I know you are looking forward to that, little wolf girl.
-RND121	Luna	I told you not to call me that!
+RND106	Luna	Ta muốn nghe lại thông tin về Larson.
+RND107	Luna	Ta muốn nghe lại thông tin về Mertzer.
+RND108	Luna	Ta muốn nghe lại thông tin về Balwald.
+RND109	Luna	Vậy được rồi.
+RND110	Reynold	Larson là một kẻ ngạo mạn. Hắn là mục tiêu dễ nhất trong cả ba, do hắn ít khi đi cùng với lính gác.
+RND111	Reynold	Hắn ta cũng thích ở một mình lúc nghỉ ngơi. Nếu ngươi tìm được cách lẻn được vào lều của hắn để phục kích, thì mọi thứ sẽ dễ thôi.
+RND112	Reynold	Larson hiện đang ở \C[6]Rừng ẩn\C[0]. Từ đây đi về phía đông, ở sâu trong Rừng Sương Mù.
+RND113	Reynold	Mertzer cực kỳ thận trọng và không bao giờ đi một mình; kể cả lúc nghỉ ngơi, hắn vẫn có lính gác bên cạnh.
+RND114	Reynold	Có thể sẽ khó khăn để đói phó với hắn. Do vậy ngươi cần tìm một sơ hở... chẳng hạn như gây rối loạn để dụ lính gác của hắn đi là được.
+RND115	Reynold	Mertzer theo lệnh Krugmann đến nghiên cứu và tìm cách khai thác Ma Thạch trong \C[6]Động Pha lê\C[0]. Hắn chắc hẳn vẫn còn đang ở đó.
+RND116	Reynold	Balwald khá giống với Tổng tư lệnh Krugmann, cũng là một tên cuồng chiến, nhưng theo ta thì tốt nhất là không nên đối đầu với hắn, hắn không giống một hiệp sĩ như ngươi nghĩ đâu.
+RND117	Reynold	Để giết được hắn thì tốt nhất ngươi nên tìm cách hạ lính gác xung quanh hắn trước.
+RND118	Reynold	Balwald hiện đang ở \C[6]Hoang mạc\C[0]. Ta phải nói nơi đó không phải nơi lý tưởng để phục kích đâu.
+RND119	Reynold	Xử lý bọn chúng càng sớm càng tốt, và ta sẽ sớm trở thành Tổng tư lệnh của Quân Đoàn.
+RND120	Reynold	Nhờ đó thì phần thưởng của ngươi cũng sẽ hậu hĩnh hơn nhiều... ta biết ngươi cũng muốn vậy mà phải không, sói con?
+RND121	Luna	Ta đã nói ngươi đừng gọi ta như vậy mà!
 
-RND122	Reynold	Right, take this. I am sure it will be useful to you.
-RND123	Reynold	This is my medal, genuine and authentic. Show it to the soldiers here, and you may be able to win them over as companions.
-RND124	Reynold	Haha, I am not lying to you. Try it yourself.
-RND125	Reynold	Are you inviting me? Haha, come on. I'll be waiting inside.
+RND122	Reynold	Phải rồi, cầm lấy cái này. Ngươi sẽ cần dùng đến nó đấy.
+RND123	Reynold	Đây là lệnh bài của ta, chính danh và không thể làm giả. Đưa cho quân lính ở đây, và bọn chúng sẽ nghe lời ngươi.
+RND124	Reynold	Haha, ta không lừa ngươi đâu. Cứ thử đi là biết.
+RND125	Reynold	Ngươi đang mời gọi ta đấy à? Haha, vào đây. Ta sẽ đợi ở trong.
 
-RND130		The path ahead is temporarily impassable.
+RND130		Con đường phía trước tạm thời không thể đi được.
 
 RND131	Luna	Uh...
-RND132	Reynold	What is it, little wolf girl?
-RND133	Luna	I do not think I was gone that long... Why has this place changed so much?
-RND134	Reynold	Hahaha! That is all thanks to you.
-RND135	Luna	Eh? Me? I... did I do something?
-RND136	Reynold	Larson and Mertzer are both dead, so I took over their troops. And with that Flame Mage not coming out to cause trouble, more than half of the Third Legion now obeys my orders. Is that not thanks to you?
-RND137	Luna	Wow, that quickly...? I only just took action not long ago...
-RND138	Luna	(This guy is actually pretty impressive... at least when it comes to taking action.)
-RND139	Reynold	Do not think too much about it, little wolf girl. This place has been expanded, and it is now my headquarters.
-RND140	Reynold	I originally wanted to move directly into that ruins castle, but I do not like the smell in there... and Krugmann died inside it, which makes it feel unlucky.
-RND141	Luna	Uh, for that reason?
-RND142	Reynold	Of course. Sometimes luck is part of strength too. Take now, for example: I gained your help. That is practically fortune smiling on me.
-RND143	Luna	I-Is it really that exaggerated...?
-RND144	Reynold	Hehe. Fine, there is actually another reason... The Flame Mage is missing right now, but I suspect he is probably still hiding in that castle, planning something. I do not want to go in and look for trouble.
-RND145	Luna	So that really was the real reason!
-RND146	Reynold	Hmm? Hey now, bad luck is also one of the important reasons. Do you not believe me?
-RND147	Luna	Okay, okay, I understand. You do not need to say more.
-RND148	Reynold	Balwald in the desert also needs to be watched. From here I can command the army better and make sure nothing goes wrong... although there is no conflict between us yet, I do not think Balwald will easily acknowledge me as legion commander. So for success, I will still be relying on you.
-RND149	Reynold	At the same time, I am gathering the most elite troops to prevent internal chaos if the Flame Mage returns.
-RND150	Reynold	Of course, if you cannot handle Balwald, I do have other plans, though they would be more troublesome... So, to make my success smoother, you had better work hard, little wolf girl.
-RND151	Luna	I would work seriously even if you did not say that!
-RND152	Reynold	Hahaha, that is the spirit... Hmm, well? Do you want a reward?
-RND153	Luna	No!
-RND154	Reynold	Hehe, adorable thing.
-RND155	Reynold	In short, you may come and go freely in my headquarters. Everyone here is a loyal confidant I selected carefully, and they will not attack you. But outside, you are still an assassin of the shadows, so watch yourself.
-RND156	Reynold	Also, there is a bed in my tent. If you want, you can rest there anytime.
-RND157	Luna	Ugh... I-Is that not your bed?
-RND158	Reynold	Yes. What of it? Do you dislike it?
-RND159	Luna	N-No...
+RND132	Reynold	Sao vậy, sói con?
+RND133	Luna	Ta đi cũng không lâu lắm... Vậy mà sao nơi này thay đổi nhiều thế?
+RND134	Reynold	Hahaha! Cũng nhờ vào ngươi cả đấy.
+RND135	Luna	Ể? Do ta? Ta... ta đã làm gì nhỉ?
+RND136	Reynold	Sau khi Larson và Mertzer chết, ta đã tiếp quản binh lính của chúng. Cộng với việc tên Quân sư sẽ không chõ mũi vào nữa, hơn nửa Quân Đoàn Số Ba giờ đã về tay ta. Vậy không phải nhờ ngươi thì là gì?
+RND137	Luna	Whoa, nhanh vậy à...? Bọn chúng mới chết chỉ mới đây thôi mà...
+RND138	Luna	(Tên này có vẻ cũng khá tài năng... ít nhất là trong việc nắm bắt thời cơ.)
+RND139	Reynold	Không cần nghĩ nhiều đâu, sói con. Khu vực này đã được mở rộng thêm, và giờ sẽ là đại bản doanh của ta.
+RND140	Reynold	Ban đầu thì ta cũng nhắm tới tàn tích lâu đài kia, nhưng cái mùi ở nơi đấy... thêm việc Krugmann chết trong đó, khiến ta thấy nơi đó có vẻ xui xẻo.
+RND141	Luna	Ừm, chỉ do vậy thôi à?
+RND142	Reynold	Dĩ nhiên rồi. Đôi khi may mắn cũng là sức mạnh đấy. Như việc ta có được sự trợ giúp của ngươi đây. Vậy không phải hồng phúc của ta đó sao?
+RND143	Luna	Ngư... Ngươi quá lời rồi...
+RND144	Reynold	Hehe. Thôi được rồi, thực ra có một lý do khác... Tên Hỏa Pháp Sư tuy đang không rõ tung tích, nhưng ta đoán hắn vẫn đang ẩn nấp trong lâu đài, toan tính điều gì đó. Và ta cũng không muốn chui đầu vào đó kiếm rắc rối.
+RND145	Luna	Vậy ra đây mới là lý do chính!
+RND146	Reynold	Hmm? Khoan đã nào, may rủi cũng là yếu tố quan trọng chứ. Ngươi không tin ta sao?
+RND147	Luna	Rồi, rồi, ta hiểu rồi. Ngươi không cần nói nữa.
+RND148	Reynold	Tên Balwald ở hoang mạc cũng cần được để mắt tới. Và ở đây ta có thể dễ dàng điều lệnh đảm bảo mọi thứ hoạt động hơn... mặc dù hiện tại chưa có xung đột gì giữa chúng ta, nhưng ta chắc chắn Balwald sẽ không dễ mà công nhận ta làm Tổng tư lệnh đâu. Vậy nên để tiến tới thành công, ta sẽ lại cần có ngươi.
+RND149	Reynold	Tiện đó thì ta cũng đang tập hợp đội ngũ tinh nhuệ nhất đề phòng tên Hỏa Pháp Sư kia quay lại.
+RND150	Reynold	Tất nhiên là nếu ngươi không hạ được Balwald thì ta vẫn có kế hoạch khác, mặc dù sẽ khó khăn hơn... Thế nên ta mong ngươi sẽ cống hiến hết sức cho đại sự của ta đó, sói con.
+RND151	Luna	Ngươi không nói thì ta lúc nào cũng nghiêm túc trong công việc rồi.
+RND152	Reynold	Hahaha, phải như vậy chứ... Hmm, sao vậy? Ngươi muốn được thưởng à?
+RND153	Luna	Không hề!
+RND154	Reynold	Hehe, thật dễ thương mà.
+RND155	Reynold	Tóm lại thì, ngươi có thể thoải mái đến đại bản doanh của ta. Tất cả người ở đây đều là các thân tín trung thành được ta lựa chọn cẩn thận, không ai sẽ động vào ngươi đâu. Nhưng ngoài khu vực này thì ngươi vẫn là một sát thủ, ngươi vẫn nên cẩn thận ở ngoài đó.
+RND156	Reynold	À còn có cả giường trong lều của ta nữa. Nếu muốn thì ngươi có thể nghỉ ở đó.
+RND157	Luna	Ưm... Nhưng đấy là giường của ngươi mà?
+RND158	Reynold	Phải rồi. Có vấn đề gì? Ngươi không muốn à?
+RND159	Luna	Kh-không...
 
-RND160	Reynold	Right, I allowed my subordinates to open a tavern, as a temporary place for them to relax.
-RND161	Reynold	After all, what we Imperials love most is alcohol.
-RND162	Luna	Hmm? What does that... have to do with me? Why are you telling me?
-RND163	Reynold	Of course it has something to do with you. My men have been away from the imperial capital for half a month. The road is long, and what they miss most now, besides alcohol, is women. You may be a demi-human, but you are not bad-looking.
-RND164	Luna	...Is that really supposed to be a compliment?
-RND165	Luna	Wait, this still has nothing to do with me!\| Huh, unless... you want me to...
-RND166	Reynold	What are you imagining? At most, I am asking you to serve them drinks, not keep them company.
-RND167	Luna	O-Oh...
-RND168	Luna	(A tavern... I can go take a look when I have time.)
+RND160	Reynold	Phải rồi, ta có cho vài tên thuộc hạ mở một quán rượu cho lính tráng nghỉ ngơi.
+RND161	Reynold	Dù sao thì bọn này cũng không thể sống thiếu bia rượu được.
+RND162	Luna	Hmm? Cái đấy... thì liên quan gì đến ta nhỉ? Kể cho ta làm gì?
+RND163	Reynold	Tất nhiên là liên quan rồi. Lính của ta đã hành quân từ Đế Đô suốt nửa tháng trời, đường thì dài, lòng người thì mệt. Thứ bọn chúng cần bây giờ tất nhiên là rượu chè gái gú rồi. Tuy có là bán nhân đi nữa thì trông ngươi cũng không đến nỗi nào.
+RND164	Luna	...Vừa rồi là đang khen ta đấy à?
+RND165	Luna	Mà khoan đã, ta vẫn không thấy sự liên quan ở đây!\| Huh, không lẽ... ngươi muốn ta...
+RND166	Reynold	Ngươi đang nghĩ vớ vẩn gì đấy? Cùng lắm thì ta chỉ cần ngươi phục vụ đồ uống thôi chứ có bảo ngươi ngủ với chúng đâu.
+RND167	Luna	A... À...
+RND168	Luna	(Quán rượu à... nếu có thời gian thì chắc cũng được.)
 
-CrystalCave1		There are many monsters here. Keep the camp guarded.
-CrystalCave2		Hold the bridge!
-CrystalCave3		Where are all these slimes coming from?
-CrystalCave4		No idea!
-CrystalCave5		It is like they are growing out of the ground.
-CrystalCave6		Notice: Beware of monsters ahead!
+CrystalCave1		Có nhiều quái vật ở đây. Chú ý canh gác trại cẩn thận.
+CrystalCave2		Trấn giữ cây cầu!
+CrystalCave3		Lũ Slime này ở đâu ra vậy?
+CrystalCave4		Chịu thôi!
+CrystalCave5		Cứ như thể chúng chui từ dưới đất lên vậy.
+CrystalCave6		Chú ý: Cẩn thận quái vật phía trước!
 
-MRZ1	Mertzer	You are...?
-MRZ2	Mertzer	Beast ears, and a tail... so you are the wolf? The Wolf of Shadows. I did not expect you would actually come.
-MRZ3	Luna	You knew I would come?
-MRZ4	Mertzer	Someone told me in advance.
-MRZ5	Mertzer	This is sudden, but if I ask you not to kill me, will you stop?
+MRZ1	Mertzer	Ngươi là...?
+MRZ2	Mertzer	Tai thú, và cái đuôi đó... ngươi là sói? Người của Sát Ám Lang. Ta đã không nghĩ là ngươi sẽ xuất hiện.
+MRZ3	Luna	Ngươi biết ta sẽ tới?
+MRZ4	Mertzer	Có người đã báo trước cho ta.
+MRZ5	Mertzer	Hơi đường đột, nhưng nếu ta nhờ ngươi đừng giết ta, liệu ngươi có làm vậy không?
 MRZ6	Luna	...
-MRZ7	Mertzer	You will not, will you? What a pity.
-MRZ8	Mertzer	Did Reynold send you? I have no interest in becoming legion commander. Even so, he still wants me dead?
-MRZ9	Mertzer	Neither denying nor confirming it?
-MRZ10	Mertzer	It seems you do not know how to choose either. Or rather, you do not care about right and wrong... To you, killing me is merely a mission.
-MRZ11	Mertzer	I simply did not expect that you people would also help humans.
-MRZ12	Luna	I... I have my reasons.
-MRZ13	Luna	Are you really not interested in becoming legion commander?
-MRZ14	Mertzer	What could your reason be? What benefit will helping Reynold bring you? Do you really think he will treat you as a person?
-MRZ15	Mertzer	I am not interested. I have never climbed upward for power. Power is merely something I obtained along the way.
-MRZ16	Mertzer	Humans deceive, struggle, slaughter, wage war... humanity's endless desire and selfishness have plunged the entire world into chaos.
-MRZ17	Mertzer	But precisely because of that, humans become strong. Strength, however, has a price.
-MRZ18	Mertzer	So I am curious... what price have your people paid?
-MRZ19	Mertzer	Come. Let me see what you can do.
-MRZ20	Mertzer	...What was that sound?
-MRZ21	Mertzer	Something has awakened.
-MRZ22	Mertzer	"Monsters! Prepare for battle!	"
+MRZ7	Mertzer	Không à? Đáng tiếc thật đấy.
+MRZ8	Mertzer	Reynold gửi ngươi đến phải không? Trở thành Tổng tư lệnh không có giá trị gì đối với ta. Vậy mà hắn vẫn muốn bịt miệng à?
+MRZ9	Mertzer	Không phủ nhận mà cũng không khẳng định sao?
+MRZ10	Mertzer	Có vẻ ngươi cũng không biết. Hoặc đơn giản chỉ là ngươi không quan tâm việc này đúng hay sai… Đối với ngươi, giết ta chỉ là một nhiệm vụ mà thôi.
+MRZ11	Mertzer	Ta chỉ thực sự không ngờ các ngươi cũng bắt tay với con người đấy.
+MRZ12	Luna	Ta… Ta có lý do riêng của mình.
+MRZ13	Luna	Ngươi thực sự không muốn trở thành Tổng tư lệnh của quân đoàn sao?
+MRZ14	Mertzer	Ngươi có lý do gì chứ? Ngươi được lợi lộc gì để chạy việc cho Reynold? Ngươi nghĩ rằng hắn sẽ đối xử với ngươi như con người à?
+MRZ15	Mertzer	Ta không hứng thú với thứ đó. Chưa bao giờ quyền lực là mục tiêu của ta. Quyền lực chỉ là thứ ta có được trong hành trình của ta thôi.
+MRZ16	Mertzer	Lừa dối, tranh giành, tàn sát rồi lại gây chiến... tham vọng không đáy và sự ích kỷ của con người đang nhấn chìm thế giới này vào hỗn loạn.
+MRZ17	Mertzer	Nhưng cũng chính nhờ nó mà loài người đã trở nên mạnh mẽ. Mặc dù, sức mạnh ấy lại có cái giá của nó.
+MRZ18	Mertzer	Vậy nên ta thực sự tò mò... xem cái giá mà các ngươi đã trả là gì?
+MRZ19	Mertzer	Nào, tới đi. Cho ta được chứng kiến khả năng của ngươi.
+MRZ20	Mertzer	...Tiếng động gì vậy?
+MRZ21	Mertzer	Có vẻ thứ gì đó vừa thức dậy.
+MRZ22	Mertzer	Có quái vật! Mau sẵn sàng chiến đấu!
 
-MRZ30		Intruder!
-MRZ31		...It is an assassin. Capture her!
-MRZ32	Mertzer	Wait.
-MRZ33	Mertzer	If you kill me... what will you gain?
-MRZ34	Mertzer	I never thought I would... die here...
+MRZ30		Có kẻ đột nhập!
+MRZ31		...Là thích khách. Bắt lấy nó!
+MRZ32	Mertzer	Khoan đã.
+MRZ33	Mertzer	Giết được ta... thì ngươi được gì?
+MRZ34	Mertzer	Không ngờ đây lại là... kết cục của ta...
 
-Tavern1	Soldier Brad	Hmm? Who is it?\| ...Oh, I know you. You are Lord Reynold's-
-Tavern2	Luna	Eh? What, what? I am Lord Reynold's what?
-Tavern3	Soldier Brad	Ahem, nothing. Girl, what are you doing here?
-Tavern4	Luna	Why did you stop halfway?
-Tavern5	Luna	Reynold told me I could come take a look here... to see if there was anything I could help with.
-Tavern6	Soldier Brad	Oh, I see... Hmm, since it is Lord Reynold's order... although you are a lowly demi-human, it is Lord Reynold's command after all.
-Tavern7	Soldier Brad	But Imperials do not bow to an inferior race like you, so do not expect us to be polite.
-Tavern8	Luna	(What is with this person... I clearly said I came to help, and he still has that attitude.)
-Tavern9	Luna	Ugh... If you are going to say that, I will leave.
-Tavern10	Soldier Brad	Hey, hey, do not leave so quickly!
-Tavern11	Luna	...Do you not despise me as an inferior race?
-Tavern12	Soldier Brad	Despising you is one thing, that is another. I never said I was chasing you away.
-Tavern13	Luna	(He is not even denying it!)
-Tavern14	Soldier Brad	The dignity of the Empire comes first, but you are Lord Reynold's "honored guest," so of course we welcome you. Besides, a girl like you is tender enough, and your chest is...
-Tavern15	Luna	...You perverted humans. Is your head full of nothing but dirty thoughts?
-Tavern16	Soldier Brad	Heh. Demi-humans may be a lowly race, but in this regard they have always been extremely talented. Our Empire has "imported" no small number of demi-human girls.
+Tavern1	Lính gác Brad	Hmm? Là ai?\| ...À, ra là ngươi. ...của Ngài Reynold.
+Tavern2	Luna	Hả? Từ từ đã? Ta là gì của Ngài Reynold cơ?
+Tavern3	Lính gác Brad	Ahem, không có gì. Ngươi có việc gì ở đây?
+Tavern4	Luna	Nói gì nửa chừng vậy?
+Tavern5	Luna	Reynold sai ta đến đây... xem có giúp được gì không.
+Tavern6	Lính gác Brad	Ồ, ra vậy... Hmm, nếu đúng là lệnh của Ngài Reynold... mặc dù cũng chỉ là một bán nhân.
+Tavern7	Lính gác Brad	Nhưng ta nói trước, không có chỗ cho giống loài hạ đẳng như ngươi trong hàng ngũ Đế quốc đâu, đừng có mong bọn ta tử tế.
+Tavern8	Luna	(Tên dở này bị sao thế... Rõ ràng mình bảo đến giúp mà thái độ lại như vậy.)
+Tavern9	Luna	Ugh... Nếu như vậy thì ta đi đây.
+Tavern10	Lính gác Brad	Này, này, khoan hẵng đi đã!
+Tavern11	Luna	...Không phải ngươi vừa nói ta là giống loài thấp kém đáng khinh sao?
+Tavern12	Lính gác Brad	Khinh thường hay không là một chuyện, đây là chuyện khác. Ta đâu có đuổi ngươi đi đâu.
+Tavern13	Luna	(Tên này thậm chí còn không thèm chối!)
+Tavern14	Lính gác Brad	Đế quốc vẫn phải giữ bộ mặt của mình, nhưng vì ngươi là "thượng khách" của Ngài Reynold nên tất nhiên bọn ta vẫn phải chào đón ngươi rồi. Mà lại còn là một cô gái non trẻ nữa, còn bộ ngực này thì...
+Tavern15	Luna	...Tên con người biến thái này. Cái đầu rỗng của ngươi không nghĩ được gì khác à?
+Tavern16	Lính gác Brad	Heh. Thú nhân có thể là loài thấp kém, nhưng Đế quốc bọn ta cũng "nhập" về không ít phụ nữ các ngươi đâu, cũng nhờ cả vào tài năng "phục vụ" của các ngươi mà.
 Tavern17	Luna	...\|...
-Tavern18	Luna	Forget it. I am leaving.
-Tavern19	Soldier Brad	No, no, no. This tavern is short one waitress.
-Tavern20	Soldier Brad	You know how it is. There are no women in the army, and every man here is starving for one. Having a woman here, even a demi-human, help out will be perfect for selling drinks.
-Tavern21	Luna	So you charge money here?
-Tavern22	Soldier Brad	Of course we do. If we gave it away for free, this lot would drink it all dry in two days.
-Tavern23	Soldier Brad	Everyone in the Third Legion is elite, so they always carry some gold. Besides, Lord Reynold said that if they want to drink, they must spend their own money!
-Tavern24	Luna	Is Reynold short on money? Why is he earning gold from his own subordinates' pockets...
-Tavern25	Soldier Brad	Well... Lord Reynold must have his deeper reasons.
-Tavern26	Luna	(That feels really suspicious...)
-Tavern27	Soldier Brad	In any case, come find me once you have made up your mind.
+Tavern18	Luna	Thôi quên đi. Ta đi đây.
+Tavern19	Lính gác Brad	Khoan, từ từ đã. Quán rượu này đang thiếu một chân phục vụ.
+Tavern20	Lính gác Brad	Ngươi cũng biết đấy. Không có chỗ cho phụ nữ trong quân ngũ, nên tên nào ở đây cũng đang thiếu hơi gái. Giờ có nữ phục vụ ở đây, kể cả có là bán nhân đi nữa thì cũng sẽ rất tốt cho kinh doanh đấy.
+Tavern21	Luna	Chỗ này cũng tính tiền à?
+Tavern22	Lính gác Brad	Tất nhiên rồi. Nếu không thì hai ngày thôi là lũ này đã uống hết cả kho rồi.
+Tavern23	Lính gác Brad	Quân Đoàn Số Ba đều có xuất thân thượng lưu, ai cũng đều có vàng cả. Với cả đây cũng là lệnh của Ngài Reynold, muốn uống thì phải có tiền!
+Tavern24	Luna	Tên Reynold này đang thiếu tiền à? Sao hắn lại cần kiếm tiền từ thuộc cấp của hắn chứ?
+Tavern25	Lính gác Brad	Ừm... Ngài Reynold hẳn phải có lý do sâu xa của mình.
+Tavern26	Luna	(Có gì đó mờ ám ở đây...)
+Tavern27	Lính gác Brad	Nói tóm lại, nếu ngươi quyết định rồi thì quay lại đây tìm ta.
 
-Tavern28	Soldier Brad	Well? Want to help out?
-Tavern29	Luna	Uh, what exactly do I need to do?
-Tavern30	Soldier Brad	Oh, it is simple. Just go \C[6]ask them what they want\C[0], then \C[6]come back and tell me\C[0]. Once I have it ready, you \C[6]carry it over\C[0]. How is that? Got it?
-Tavern31	Luna	Got it. It does sound easy.
-Tavern32	Soldier Brad	There is no time limit. If you get tired, just leave, but before you go, remember to come to me to \C[6]settle your wages\C[0].
-Tavern33	Luna	I get paid too?
-Tavern34	Soldier Brad	Of course. We cannot have you working for nothing. Naturally, your pay depends on the \C[6]number of orders\C[0] you complete... If you mess up, like getting the drink wrong or spilling it on someone, your pay will be docked.
-Tavern35	Luna	I understand. I do not think I will mess up!
-Tavern36	Hướng dẫn	\C[4]Luna can now work at the tavern\C[0]. By serving customers in the tavern, she can earn \C[6]gold\C[0] based on the number of completed orders.
+Tavern28	Lính gác Brad	Sao rồi? Ngươi sẽ giúp bọn ta chứ?
+Tavern29	Luna	Ừm, chính xác thì ta cần làm gì nhỉ?
+Tavern30	Lính gác Brad	À, chỉ có mấy việc vặt thôi. Đến \C[6]hỏi khách hàng muốn gì\C[0], sau đó \C[6] quay lại đây báo cho ta\C[0]. Sau khi có đồ, ngươi \C[6]bưng ra cho khách\C[0]. Chỉ vậy thôi, hiểu chưa?
+Tavern31	Luna	Ra vậy. Có vẻ khá đơn giản.
+Tavern32	Lính gác Brad	Ta không yêu cầu thời gian làm việc. Nếu mệt thì ngươi cứ đi trước, nhưng nhớ quay lại gặp ta \C[6]nhận lương\C[0] trước khi đi đấy.
+Tavern33	Luna	Ta được trả công à?
+Tavern34	Lính gác Brad	Dĩ nhiên rồi. Ta đâu thể để ngươi làm không công. Thường thì lương của ngươi sẽ được tính dựa vào \C[6]số lượng đơn\C[0] hoàn thành... Nhưng nếu ngươi lên sai đơn hay làm đổ lên người khách thì ta sẽ cắt lương của ngươi.
+Tavern35	Luna	Hiểu rồi. Ta nghĩ việc này sẽ dễ thôi!
+Tavern36	Hướng dẫn	\C[4]Luna giờ có thể giúp việc ở quán rượu\C[0]. Phục vụ khách tại quán rượu có thể kiếm được \C[6]vàng\C[0] dựa trên số lượng đơn hoàn thành.
 
-HCR1	Luna	Let me go!
-HCR2	Soldier	Finally caught you!
-HCR3	Soldier	You are not getting away this time!
-HCR4	Soldier	Hold her down!
-HCR5	Soldier	Stay still!
-HCR6	Soldier	Hehe... nice body.
-HCR7		The man's hands pressed against Luna's body. Since she wore clothes made for easy movement, he could touch many places.
-HCR8		Luna had run out of strength, and even if she wanted to resist, she could not...
-HCR9	Soldier	Since she is a Lycan girl, it is fine to treat her a little rough, right!
-HCR10		Luna's clothes were stripped away. Though she could not see it, Luna could feel a thick shaft pressing against her pussy.
-HCR11		Luna could already tell that what came next would be terrible...
-HCR12	Luna	Eh? Wait... no! Stop!
-HCR13	Luna	There... not there...!
-HCR14	Luna	It is still my first time... you cannot!
+HCR1	Luna	Thả ta ra!
+HCR2	Lính gác	Cuối cùng cũng bắt được rồi!
+HCR3	Lính gác	Lần này mày không trốn được đâu!
+HCR4	Lính gác	Đè nó xuống!
+HCR5	Lính gác	Giữ yên nào!
+HCR6	Lính gác	Hehe... trông được đấy.
+HCR7		Luna bị sờ soạng khắp nơi trên người. Việc y phục được thiết kế để dễ dàng cử động lại vô tình khiến cô dễ bị động chạm nhiều nơi hơn trên cơ thể.
+HCR8		Luna đã không còn sức lực, kể cả có muốn phản kháng, cô cũng không thể...
+HCR9	Lính gác	Đằng nào thì cũng là một ả Lang Nhân, có hơi quá đà cũng không sao đâu nhỉ!
+HCR10		Y phục của Luna bị chúng lột bỏ. Mặc dù không nhìn được, nhưng Luna có thể cảm thấy có vật gì đó rất lớn đang ép vào chỗ đó của cô.
+HCR11		Không cần đoán thì Luna biết sẽ có điều tồi tệ sắp xảy ra...
+HCR12	Luna	Ể? Khoan đã... không được! Dừng lại!
+HCR13	Luna	Chỗ đó... Không được... !
+HCR14	Luna	Lần đầu của ta... ngươi không được!
 HCR15	Luna	Ah-!
-HCR16	Soldier	Still a virgin? Lucky me. Your kind of werewolf usually is not.
-HCR17	Soldier	What, so you were not a virgin after all.
-HCR18	Luna	(I-It went in...)
-HCR19	Luna	(It hurts... my stomach feels so full...)
+HCR16	Lính gác	Gái trinh à? Ngon. Lũ sói tộc bọn mày chả được mấy đứa đâu.
+HCR17	Lính gác	Ủa, mày không còn trinh à?
+HCR18	Luna	(V-Vào trong rồi...)
+HCR19	Luna	(Đau... bụng mình chướng quá...)
 HCR20	Luna	Ha, haah...
-HCR21	Soldier	Good... hah... good... stand properly for me!
-HCR22		The soldier moved his hips, his shaft thrusting in and out of her flesh, his face full of arrogant excitement.
-HCR23		Whenever they caught a woman, they enjoyed this kind of fun. But when the other party was a Lycan, chances like this were rare...
-HCR24	Luna	(No... ugh... I have to pull myself together...)
-HCR25	Luna	(The organization... what did the organization teach me again?...)
-HCR26	Luna	(At a time like this... what am I supposed to do?)
-HCR27		Luna felt her mind growing confused. She knew there should be many countermeasures in this situation... but she could not remember a single one...
-HCR28	Luna	(So hot............ my head is spinning.)
-HCR29	Luna	(This feeling is so strange...)
-HCR30	Soldier	Hey, even though you are being raped, you look like you are enjoying it... Could it actually feel good? Oh, you are already this wet.
-HCR31	Luna	I... I am not! Do not say... things like that!
+HCR21	Lính gác	Được... hah... được lắm... đứng tử tế lên cho tao!
+HCR22		Tên lính đầy phấn khích thúc hông của hắn, đẩy dương vật liên tục vào người Luna.
+HCR23		Mỗi lần chúng bắt được phụ nữ, cũng đều diễn ra như vậy. Nhưng để gặp được một sói tộc như Luna, thì đây là cơ hội rất hiếm...
+HCR24	Luna	(Không được... ugh... mình phải... bình tĩnh lại....)
+HCR25	Luna	(Tổ chức đã dạy... phải... làm gì nhỉ?...)
+HCR26	Luna	(Những lúc như này... mình phải làm gì?)
+HCR27		Luna càng lúc càng rối trí. Cô biết có rất nhiều cách đối phó trong trường hợp này... nhưng lại không thể nhớ được một cách...
+HCR28	Luna	(Nóng quá............ mọi thứ cứ quay cuồng.)
+HCR29	Luna	(Cảm giác lạ quá...)
+HCR30	Lính gác	Này, đang bị hiếp mà mặt mũi hưởng thụ thế... mày đang sướng đấy à? Ồ, đã ướt sũng thế này rồi à.
+HCR31	Luna	Ta... Ta không hề! Ngươi không... được nói như thế!
 HCR32	Luna	Haah~!
-HCR33	Soldier	You are moaning that loudly and still dare say you are not?
-HCR34	Soldier	I bet you got caught on purpose because you wanted to be fucked!
-HCR35	Luna	I... did not... I did not... ugh... haah...
-HCR36	Soldier	Haha, you cannot hide it from me.
-HCR37	Soldier	We have seen plenty of women like you, spreading their legs on purpose to seduce us just to gather military information. There was one before.
-HCR38	Soldier	Want to know what we turned her into in the end?
-HCR39	Luna	I... I do not want to know...
-HCR40	Luna	No... please forgive me... ah!
-HCR41	Soldier	A bitch like you should be punished hard, then locked in the camp as our meat toilet!
-HCR42	Luna	No!
-HCR43	Luna	(I still... still have a mission to complete...)
-HCR44	Soldier	Still acting tough!
-HCR45	Soldier	Do not think I do not know what a slut like you is thinking!
-HCR46	Soldier	Whatever your purpose was! You killed so many of our men! Now you will pay it back double!
-HCR47	Luna	Ha... ah!... no... stop... too, too rough... please, let me go!
-HCR48	Soldier	Let you go? There is no such good thing in this world!
-HCR49	Soldier	Ugh... I am about to come!
-HCR50	Luna	Inside... no!
-HCR51	Luna	(If he comes inside, I will get pregnant...!)
-HCR52	Soldier	Shut up and take it!
-HCR53	Soldier	My turn now!
-HCR54	Soldier	Haha, let everyone have their fun.
-HCR55	Luna	No... please...
-HCR56	Luna	Ha, haah... ah... ah...\|someone... help...
-HCR57	Soldier	Hah! I came!
-HCR58	Soldier	That felt good, ahem.
-HCR59	Soldier	Alright, lock her up!
-HCR60	Luna	No... I already...\|have no strength left...
-HCR61	Luna	The mission...\|I cannot...\|complete it...
-HCR62	Lati	...How disgraceful.
-HCR63	Soldier	Who?! How dare you-
-HCR64	Soldier	Gaaah-!
-HCR65	Lati	Get up.
-HCR66	Luna	Ugh... what happened?
-HCR67	Luna	Senior Lati?! Did you save me?
-HCR68	Lati	If there is a next time, I will not save you again.
-HCR69	Luna	Thank you, Senior Lati!
+HCR33	Lính gác	Mồm rên như thế rồi mà vẫn không chịu nhận à?
+HCR34	Lính gác	Tao cá là mày cố tình để bọn tao bắt để được địt mà phải không?
+HCR35	Luna	Ta... không... Ta không hề... ugh... haah...
+HCR36	Lính gác	Haha, mày không giấu được tao đâu.
+HCR37	Lính gác	Lũ đàn bà như mày bọn tao thấy đủ rồi, đều sẵn sàng dạng háng quyến rũ bọn tạo để lấy mấy thông tin tình báo. Cả con trước cũng thế.
+HCR38	Lính gác	Muốn biết cuối cùng bọn tao biến nó thành gì không?
+HCR39	Luna	Ta... Ta không muốn biết...
+HCR40	Luna	Không... tha cho ta đi... ah!
+HCR41	Lính gác	Một con điếm như mày cần phải phạt nặng, rồi xích lại trại làm toilet thịt cho bọn tao!
+HCR42	Luna	Không!!!
+HCR43	Luna	(Mình vẫn... vẫn còn nhiệm vụ phải hoàn thành...)
+HCR44	Lính gác	Vẫn còn cố à!
+HCR45	Lính gác	Đừng tưởng tao không biết con đĩ như mày đang nghĩ gì!
+HCR46	Lính gác	Mày có muốn gì đi nữa thì mày cũng giết quá nhiều người bọn tao rồi! Giờ tao sẽ bắt mày trả lại gấp đôi!
+HCR47	Luna	Ha... ah!... không... dừng lại... đi, đau quá... thả ta ra đi!
+HCR48	Lính gác	Thả mày ra? Làm gì có chuyện tốt thế chứ!
+HCR49	Lính gác	Ugh... Tao sắp ra rồi!
+HCR50	Luna	Bên trong... không được!
+HCR51	Luna	(Nếu hắn ra bên trong, mình sẽ mang thai mất...!)
+HCR52	Lính gác	Ngậm mồm rồi nhận lấy đi!
+HCR53	Lính gác	Đến lượt của tao!
+HCR54	Lính gác	Haha, để mọi người được hưởng thụ nào.
+HCR55	Luna	Không... xin hãy...
+HCR56	Luna	Ha, haah... ah... ah...\|ai đó... cứu...
+HCR57	Lính gác	Hah! Tao ra rồi!
+HCR58	Lính gác	Sướng vãi lồn ấy!
+HCR59	Lính gác	Được rồi, nhốt nó lại!
+HCR60	Luna	Không... mình...\|không còn sức nữa...
+HCR61	Luna	Nhiệm vụ...\|mình không...\|thể...
+HCR62	Lati	...Lũ hèn hạ.
+HCR63	Lính gác	Kẻ nào?! Ngươi dám-
+HCR64	Lính gác	Gaaah-!
+HCR65	Lati	Đứng dậy.
+HCR66	Luna	Ugh... chuyện gì vừa...?
+HCR67	Luna	Chị Lati?! Có phải chị vừa cứu em không?
+HCR68	Lati	Sẽ không có lần sau đâu.
+HCR69	Luna	Em cảm ơn, chị Lati!
 
-HCRepCloth1	037	Alright, then, could you please... take off your clothes and give them to me?
-HCRepCloth2	Luna	Ugh... mm, mm... okay.
-HCRepCloth3	Luna	(This feels so awkward...)
+HCRepCloth1	037	Được rồi, vậy, cô có thể... cởi y phục được không?
+HCRepCloth2	Luna	Ugh... mm, mm... được rồi.
+HCRepCloth3	Luna	(Thật khó xử quá...)
 HCRepCloth4	Luna	...
 HCRepCloth5	037	...
-HCRepCloth6	Luna	(I have absolutely no idea what to say...)
-HCRepCloth7	Luna	(Come to think of it, why did I agree to this...?)
+HCRepCloth6	Luna	(Mình không biết phải nói gì nữa...)
+HCRepCloth7	Luna	(Mà tại sao mình lại đồng ý việc này nhỉ...?)
 HCRepCloth8	Luna	...
 HCRepCloth9	037	...
-HCRepCloth10	Luna	(But... he is doing this out of kindness...)
+HCRepCloth10	Luna	(Nhưng… anh ta có ý tốt giúp mình…)
 HCRepCloth11	Luna	(Ugh...)
-HCRepCloth12	037	Miss Luna...
-HCRepCloth13	Luna	Y-Yes?
-HCRepCloth14	037	...Miss Luna, you are not cold, are you?
-HCRepCloth15	Luna	N-No, not at all! I am the Shadow Wolf's... a-ace candidate! Why would I be cold?
-HCRepCloth16	037	Th-That is good...
+HCRepCloth12	037	Cô Luna…
+HCRepCloth13	Luna	V-Vâng?
+HCRepCloth14	037	...Cô Luna, cô đang lạnh à?
+HCRepCloth15	Luna	Kh-Không, không hề! Là ứng viên… số một của Sát Ám Lang, làm sao tôi có thể bị lạnh được?
+HCRepCloth16	037	V-Vậy thì được…
 HCRepCloth17	Luna	(Uuuugh...)
 HCRepCloth18	Luna	...
 HCRepCloth19	037	...
-HCRepCloth20		After a short while...
-HCRepCloth21	037	Alright, it is done. Miss Luna, your clothes have been repaired.
-HCRepCloth22	Luna	Wow! Great, thank you so much.
-HCRepCloth23	037	Hehe, it is my honor to help Miss Luna... Mm, and thank you for the treat. (quietly)
+HCRepCloth20		Một lúc sau...
+HCRepCloth21	037	Được rồi, đã xong. Cô Luna, y phục của cô đã được sửa rồi.
+HCRepCloth22	Luna	Wow! Thật tốt quá, cảm ơn anh nhiều lắm.
+HCRepCloth23	037	Hehe, được giúp cô Luna là vinh dự của tôi mà… Mm, và cảm ơn đã chiêu đãi. (lẩm bẩm)
 HCRepCloth24	Luna	Hmm?
-HCRepCloth25	037	Nothing, nothing.
+HCRepCloth25	037	Không, không có gì đâu.
 
-GiveBirthQuick1		...It is coming out.
+GiveBirthQuick1		...Nó sắp ra rồi.
 GiveBirthQuick2		Ha, ha, ha...
 GiveBirthQuick3		Ugh!
-GiveBirthQuick4		Get out!
+GiveBirthQuick4		Ra đi!
 GiveBirthQuick5		Ah!
 GiveBirthQuick6		Ha, haah...
 
-MSMerchant1		Hehehe, welcome...
-MSMerchant2		Hehe, that's a really nice pussy
+MSMerchant1		Hehehe, chào quý khách...
+MSMerchant2		Hehe, quả là một cái âm đạo đẹp
 
-SSteleT1		It's so hard... If only I could use explosion magic...
+SSteleT1		Thứ này chắc chắn quá... Nếu mình dùng được bộc phá chưởng thì tốt...
 
 SCYUKI1	Yukimura	Geez, if Senior Lati hadn’t run off to study some ancient magic, I wouldn’t have dared come back here.
-SCYUKI2	Luna	Yukimura-senpai! H-How could you do that?!
-SCYUKI3	Yukimura	Huh? What is it, what is it, my dear junior?
-SCYUKI4	Luna	About that... the magic scrolls! Why do I still have to buy them from 037?!
-SCYUKI5	Yukimura	Ahaha... well, about that...
-SCYUKI6	Luna	Uwaaah! Those were supposed to be our shared spoils!
-SCYUKI7	Yukimura	Mmm... okay, okay. Here, these are for you.
-SCYUKI8	Yukimura	I’m sorry, okay? Will you forgive me?
-SCYUKI9	Luna	...Mmh\|, fine.
+SCYUKI2	Luna	Chị Yukimura! S-Sao chị nỡ làm thế?!
+SCYUKI3	Yukimura	Huh? Sao? Sao thế cục cưng của chị?
+SCYUKI4	Luna	Cái đó... mấy cuộn pháp trục! Tại sao em lại phải mua từ 037 chứ?!
+SCYUKI5	Yukimura	Ahaha... à, cái đó...
+SCYUKI6	Luna	Uwaaah! Chúng lẽ ra phải là chiến lợi phẩm của chị em mình chứ!
+SCYUKI7	Yukimura	Mmm... được rồi, được rồi. Đây, của em đây.
+SCYUKI8	Yukimura	Chị xin lỗi nhé? Bé thứ lỗi cho chị nha?
+SCYUKI9	Luna	...Mmh\|, thôi được.
